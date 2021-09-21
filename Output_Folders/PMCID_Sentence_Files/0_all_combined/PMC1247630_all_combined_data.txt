@@ -1,0 +1,24 @@
+PMCID	SUBJECT_SCOPE_ID	S_START	S_END	SUBJECT_SCOPE	CONCEPT	IGNORANCE TYPE	C_START	C_END	CONCEPT_MENTION_ID
+PMC1247630	PMC1247630.nxml.gz-1	[49]	[109]	Mother’s Pre-pregnancy Diet May Influence Child Cancer Risk
+	May	INCOMPLETE_EVIDENCE	[77]	[80]	PMC1247630.nxml.gz-2
+PMC1247630	PMC1247630.nxml.gz-1	[49]	[109]	Mother’s Pre-pregnancy Diet May Influence Child Cancer Risk
+	Influence	SUPERFICIAL_RELATIONSHIP	[81]	[90]	PMC1247630.nxml.gz-3
+PMC1247630	PMC1247630.nxml.gz-5	[498]	[559]	Recent research has confirmed that ALL can originate in utero	Recent research	INCOMPLETE_EVIDENCE	[498]	[513]	PMC1247630.nxml.gz-4
+PMC1247630	PMC1247630.nxml.gz-5	[498]	[559]	Recent research has confirmed that ALL can originate in utero	confirm	INCOMPLETE_EVIDENCE	[518]	[525]	PMC1247630.nxml.gz-6
+PMC1247630	PMC1247630.nxml.gz-9	[562]	[758]	New findings from the NIEHS-funded Northern California Childhood Leukemia Study (NCCLS) show that the disease may originate even earlier—in the foods a woman eats before she even becomes pregnant.	New	FULL_UNKNOWN	[562]	[565]	PMC1247630.nxml.gz-8
+PMC1247630	PMC1247630.nxml.gz-9	[562]	[758]	New findings from the NIEHS-funded Northern California Childhood Leukemia Study (NCCLS) show that the disease may originate even earlier—in the foods a woman eats before she even becomes pregnant.	may	INCOMPLETE_EVIDENCE	[672]	[675]	PMC1247630.nxml.gz-10
+PMC1247630	PMC1247630.nxml.gz-9	[562]	[758]	New findings from the NIEHS-funded Northern California Childhood Leukemia Study (NCCLS) show that the disease may originate even earlier—in the foods a woman eats before she even becomes pregnant.	even	ANOMALY_CURIOUS_FINDING	[686]	[690]	PMC1247630.nxml.gz-11
+PMC1247630	PMC1247630.nxml.gz-912	[759]	[841]	The effect of maternal diet on child leukemia risk has not been rigorously studied	has not been rigorously studied	FULL_UNKNOWN	[810]	[841]	PMC1247630.nxml.gz-15
+PMC1247630	PMC1247630.nxml.gz-16	[843]	[952]	the few studies that have been done have focused on specific dietary factors, and the results have been mixed	few studies	INCOMPLETE_EVIDENCE	[847]	[858]	PMC1247630.nxml.gz-17
+PMC1247630	PMC1247630.nxml.gz-16	[843]	[952]	the few studies that have been done have focused on specific dietary factors, and the results have been mixed	have been	INCOMPLETE_EVIDENCE	[864]	[873]	PMC1247630.nxml.gz-18
+PMC1247630	PMC1247630.nxml.gz-16	[843]	[952]	the few studies that have been done have focused on specific dietary factors, and the results have been mixed	have been	INCOMPLETE_EVIDENCE	[937]	[946]	PMC1247630.nxml.gz-20
+PMC1247630	PMC1247630.nxml.gz-16	[843]	[952]	the few studies that have been done have focused on specific dietary factors, and the results have been mixed	mixed	ALTERNATIVE_OPTIONS_CONTROVERSY	[947]	[952]	PMC1247630.nxml.gz-21
+PMC1247630	PMC1247630.nxml.gz-22	[1066]	[1166]	It is the first study to capture mothers’ overall dietary patterns and relate them to child leukemia	first study	INCOMPLETE_EVIDENCE	[1076]	[1087]	PMC1247630.nxml.gz-23
+PMC1247630	PMC1247630.nxml.gz-22	[1066]	[1166]	It is the first study to capture mothers’ overall dietary patterns and relate them to child leukemia	relate	SUPERFICIAL_RELATIONSHIP	[1137]	[1143]	PMC1247630.nxml.gz-24
+PMC1247630	PMC1247630.nxml.gz-25	[1825]	[1968]	Of the vegetables and fruits, carrots and cantaloupe showed the highest inverse effect, perhaps because of these foods’ high carotenoid content	perhaps	INCOMPLETE_EVIDENCE	[1913]	[1920]	PMC1247630.nxml.gz-26
+PMC1247630	PMC1247630.nxml.gz-27	[1970]	[2031]	String beans and peas also correlated inversely with ALL risk	correlated	SUPERFICIAL_RELATIONSHIP	[1997]	[2007]	PMC1247630.nxml.gz-28
+PMC1247630	PMC1247630.nxml.gz-916	[2033]	[2145]	Among the proteins, beef and beans—both sources of the antioxidant glutathione—showed the highest inverse effect	inverse effect	SUPERFICIAL_RELATIONSHIP	[2131]	[2145]	PMC1247630.nxml.gz-914
+PMC1247630	PMC1247630.nxml.gz-29	[2280]	[2344]	no one food should be singled out in attributing risk or benefit	should be	FUTURE_WORK	[2292]	[2301]	PMC1247630.nxml.gz-30
+PMC1247630	PMC1247630.nxml.gz-31	[2355]	[2423]	a cause-and-effect relationship can not be concluded from this study	relationship	SUPERFICIAL_RELATIONSHIP	[2374]	[2386]	PMC1247630.nxml.gz-32
+PMC1247630	PMC1247630.nxml.gz-35	[2446]	[2569]	it remains prudent for women who are pregnant or think they may become pregnant to eat a diet rich in fruits and vegetables	remains	FUTURE_WORK	[2449]	[2456]	PMC1247630.nxml.gz-920
+PMC1247630	PMC1247630.nxml.gz-35	[2446]	[2569]	it remains prudent for women who are pregnant or think they may become pregnant to eat a diet rich in fruits and vegetables	prudent	FUTURE_WORK	[2457]	[2464]	PMC1247630.nxml.gz-38
