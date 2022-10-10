@@ -1,0 +1,783 @@
+OBO_ID	OBO_LABEL	COVERAGE	IGNORANCE-BASE (Y, N)	IGNORANCE (Y, N)	NOT IGNORANCE(Y, N)	GENERAL INDEX	GENERAL BONFERRONI P-VALUE	GENERAL BENGAMINI-HOCHBERG P-VALUE	IGNORANCE INDEX	IGNORANCE BONFERRONI P-VALUE	IGNORANCE BENGAMINI-HOCHBERG P-VALUE
+CHEBI_17319	5'-deoxyadenosine	1	Y	N	Y	3518	1.0	0.11214271133478153	11690	1.0	1.0
+CHEBI_15378	hydron	2	Y	Y	Y	631	1.086433677420638e-07	1.713617787729713e-10	8146	1.0	1.0
+GO_0005789	endoplasmic reticulum membrane	2	Y	Y	Y	2492	1.0	0.026406799210654797	6733	1.0	1.0
+GO_0051607	defense response to virus	3	Y	Y	Y	673	6.865996855739535e-07	1.01268390202648e-09	2705	1.0	1.0
+GO_0051539	defense response to virus	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_2000553	defense response to virus	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001650	defense response to virus	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001013	adipose tissue	3	Y	Y	Y	11	0.0	0.0	186	1.0	0.1940759279146567
+GO_0050778	positive regulation of immune response	1	Y	Y	N	7381	1.0	0.3342218204141381	5737	1.0	1.0
+CHEBI_15377	water	4	Y	Y	Y	13	0.0	0.0	9724	1.0	1.0
+CHEBI_49883	water	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005794	Golgi apparatus	1	Y	N	Y	6108	1.0	0.3342218204141381	9632	1.0	1.0
+GO_0005811	lipid droplet	2	Y	Y	Y	956	0.0010950517053118175	1.1359457523981514e-06	1613	1.0	1.0
+GO_0035710	lipid droplet	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005783	endoplasmic reticulum	2	Y	Y	Y	47	3.994247298665793e-220	8.321348538887067e-222	201	1.0	0.2754916506524971
+GO_0016829	endoplasmic reticulum	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0034157	endoplasmic reticulum	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005743	mitochondrial inner membrane	1	Y	Y	Y	1161	0.04372782157151316	3.7183521744483974e-05	2804	1.0	1.0
+GO_0005739	mitochondrion	2	Y	Y	Y	28	0.0	0.0	166	1.0	0.14086302348402616
+GO_0009615	response to virus	3	Y	Y	N	8304	1.0	0.3342218204141381	6088	1.0	1.0
+GO_0005515	response to virus	23	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_1001608	foreskin fibroblast	7	Y	Y	N	3579	1.0	0.11214271133478153	2398	1.0	1.0
+CL_0000771	eosinophil	6	Y	Y	Y	1	0.0	0.0	10275	1.0	1.0
+GO_0045071	eosinophil	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17499	eosinophil	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_57844	eosinophil	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045087	innate immune response	11	Y	Y	Y	99	3.413041589205296e-86	3.4130415892052954e-88	93	0.29637464928426777	0.003152921800896465
+CHEBI_37563	innate immune response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0000178	blood	17	Y	Y	Y	31	0.0	0.0	11139	1.0	1.0
+GO_0005741	mitochondrial outer membrane	2	Y	Y	Y	1373	0.27631780941535045	0.00020037549631279943	8618	1.0	1.0
+CHEBI_166821	mitochondrial outer membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0043367	mitochondrial outer membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0046872	mitochondrial outer membrane	5	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0034165	mitochondrial outer membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0043621	protein self-association	1	Y	Y	Y	2435	1.0	0.026406799210654797	8464	1.0	1.0
+CHEBI_13193	hydrogen acceptor	1	Y	Y	Y	1356	0.27631780941535045	0.00020037549631279943	1573	1.0	1.0
+CHEBI_59789	hydrogen acceptor	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050709	hydrogen acceptor	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+SO_0001217	protein_coding_gene	37	Y	Y	Y	2011	1.0	0.0054672462985972045	7205	1.0	1.0
+PR_Q8WXG1	protein_coding_gene	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000014318	radical S-adenosyl methionine domain-containing protein 2	1	Y	Y	Y	436	2.697137864396738e-13	6.143822014571158e-16	9168	1.0	1.0
+UBERON_0001332	prepuce of penis	7	Y	Y	Y	1603	1.0	0.001074482875515041	6925	1.0	1.0
+CL_0000094	granulocyte	19	Y	Y	Y	180	4.0638218290182025e-34	2.232869136823188e-36	9108	1.0	1.0
+CL_0000097	mast cell	6	Y	Y	Y	105	1.389112545593103e-80	1.3104835335783989e-82	600	1.0	1.0
+GO_0004169	mast cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000594	mast cell	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0002381	pectoralis major	2	Y	Y	N	7172	1.0	0.3342218204141381	5203	1.0	1.0
+CHEBI_137323	pectoralis major	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_137321	pectoralis major	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000632	hepatic stellate cell	1	Y	Y	Y	521	4.3038762634982607e-10	8.244973684862569e-13	353	1.0	1.0
+UBERON_0002107	liver	4	Y	Y	Y	19	0.0	0.0	9154	1.0	1.0
+CHEBI_57683	liver	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q8IUR5	liver	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0000030	liver	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001911	mammary gland	4	Y	Y	Y	57	5.401155589962555e-176	9.312337224073368e-178	150	1.0	0.08939509588439327
+CHEBI_29999	mammary gland	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0002462	erector spinae muscle group	4	Y	Y	Y	1051	0.006919899045775022	6.552934702438468e-06	8933	1.0	1.0
+CL_0000188	erector spinae muscle group	5	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0002380	trapezius muscle	4	Y	N	Y	6600	1.0	0.3342218204141381	10187	1.0	1.0
+GO_0035269	trapezius muscle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_30013	trapezius muscle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000576	monocyte	14	Y	Y	Y	61	6.0949598804782e-156	9.830580452384193e-158	8065	1.0	1.0
+UBERON_0002371	bone marrow	15	Y	Y	Y	63	6.521348585432633e-144	1.0189607164738487e-145	9083	1.0	1.0
+GO_0016021	bone marrow	10	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000030326	bone marrow	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006396	RNA processing	1	Y	Y	Y	548	2.720077688706975e-09	4.909887524741831e-12	235	1.0	0.5180534299699322
+CL_1001586	RNA processing	4	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_58211	RNA processing	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_1000458	RNA processing	4	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005525	RNA processing	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0002072	RNA processing	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005575	RNA processing	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q53G44	RNA processing	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000008908	RNA processing	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0003674	RNA processing	3	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005737	cytoplasm	7	Y	Y	Y	103	2.19476381724267e-81	2.1103498242717984e-83	9124	1.0	1.0
+GO_0006955	immune response	7	Y	Y	Y	0	0.0	0.0	12	8.228043782484152e-24	6.3292644480647325e-25
+UBERON_0001744	lymphoid tissue	6	Y	Y	Y	594	1.7190788172817565e-08	2.8843604316807997e-11	8543	1.0	1.0
+GO_0030246	lymphoid tissue	4	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000763	myeloid cell	5	Y	Y	Y	187	1.6247772602404178e-32	8.596705080637129e-35	6801	1.0	1.0
+PR_Q5QGZ9	myeloid cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0008952	upper lobe of left lung	2	Y	N	Y	6339	1.0	0.3342218204141381	10447	1.0	1.0
+CHEBI_2504	aflatoxin B1	12	Y	Y	Y	593	1.7190788172817565e-08	2.8843604316807997e-11	1639	1.0	1.0
+PR_000005559	C-type lectin domain family 12 member A	1	Y	N	Y	7896	1.0	0.3342218204141381	11327	1.0	1.0
+GO_0030545	C-type lectin domain family 12 member A	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005886	plasma membrane	18	Y	Y	Y	67	1.695697874969535e-137	2.4936733455434343e-139	603	1.0	1.0
+GO_0070821	plasma membrane	5	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035579	plasma membrane	4	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000564	neutrophilic promyelocyte	3	Y	N	Y	3855	1.0	0.11214271133478153	11372	1.0	1.0
+CL_0000451	dendritic cell	5	Y	Y	Y	114	3.627771939925838e-70	3.154584295587685e-72	6456	1.0	1.0
+UBERON_0002113	kidney	1	Y	Y	Y	18	0.0	0.0	145	1.0	0.08143058133579288
+GO_2001199	kidney	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_39867	kidney	11	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000860	kidney	4	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q96HP8	kidney	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000032564	kidney	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001114	kidney	5	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0031638	zymogen activation	1	Y	N	Y	8084	1.0	0.3342218204141381	10119	1.0	1.0
+CHEBI_67246	zymogen activation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_25016	zymogen activation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005576	extracellular region	14	Y	Y	Y	101	1.367472425989577e-84	1.3406592411662516e-86	6816	1.0	1.0
+GO_0005615	extracellular space	13	Y	Y	Y	550	2.720077688706975e-09	4.909887524741831e-12	6394	1.0	1.0
+GO_2000296	extracellular space	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0098869	extracellular space	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_50868	extracellular space	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_67244	extracellular space	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+SO_0000704	gene	9	Y	Y	Y	25	0.0	0.0	0	2.085820515635346e-137	2.085820515635346e-137
+GO_0042542	gene	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1904724	gene	4	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P00738	gene	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0051354	gene	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0031838	gene	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17823	calcitriol	1	Y	Y	Y	56	1.343064100784599e-177	2.356252808394033e-179	206	1.0	0.3083339461438712
+GO_0030492	calcitriol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0004252	calcitriol	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000008725	calcitriol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_31183	calcitriol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000182	hepatocyte	3	Y	Y	Y	145	1.5521439911371634e-48	1.055880266079703e-50	3060	1.0	1.0
+GO_0071682	hepatocyte	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_7959	hepatocyte	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0016209	hepatocyte	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010942	hepatocyte	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_27889	lead(0)	1	Y	Y	Y	520	4.3038762634982607e-10	8.244973684862569e-13	218	1.0	0.38505333628699495
+GO_0002526	lead(0)	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035580	lead(0)	6	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0072562	lead(0)	5	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0042742	defense response to bacterium	3	Y	Y	Y	1366	0.27631780941535045	0.00020037549631279943	6299	1.0	1.0
+GO_0006953	acute-phase response	2	Y	Y	Y	60	9.615158601652821e-157	1.5762555084676755e-158	89	0.1945424122570059	0.0021615823584111766
+GO_0070062	extracellular exosome	11	Y	Y	Y	958	0.0010950517053118175	1.1359457523981514e-06	1607	1.0	1.0
+GO_0006952	defense response	2	Y	Y	Y	90	8.239219100764614e-96	9.054086923917162e-98	221	1.0	0.4145127360833191
+GO_0035987	defense response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010628	positive regulation of gene expression	2	Y	Y	Y	519	4.3038762634982607e-10	8.244973684862569e-13	2471	1.0	1.0
+GO_1903980	positive regulation of gene expression	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030198	positive regulation of gene expression	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P22894	positive regulation of gene expression	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0150077	positive regulation of gene expression	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0004175	positive regulation of gene expression	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_29105	zinc(2+)	1	Y	Y	Y	490	6.809750425770244e-11	1.3869145470000494e-13	539	1.0	1.0
+UBERON_0000014	zone of skin	6	Y	Y	Y	859	0.00017328558757686134	2.0009883092016325e-07	8926	1.0	1.0
+CHEBI_77932	zone of skin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0022617	zone of skin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0043410	zone of skin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0150078	zone of skin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0062023	zone of skin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0008270	zone of skin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010629	negative regulation of gene expression	1	Y	Y	Y	1047	0.006919899045775022	6.552934702438468e-06	2614	1.0	1.0
+GO_0004222	negative regulation of gene expression	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1903428	negative regulation of gene expression	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_60648	doxycycline monohydrate	1	Y	Y	Y	1355	0.27631780941535045	0.00020037549631279943	8004	1.0	1.0
+CHEBI_29108	calcium(2+)	1	Y	Y	Y	83	7.671232460811956e-112	9.132419596204708e-114	280	1.0	0.862677348393095
+CHEBI_50845	doxycycline	1	Y	Y	Y	274	2.6486097201014388e-21	9.596412029353042e-24	395	1.0	1.0
+GO_0046330	positive regulation of JNK cascade	1	Y	N	Y	6021	1.0	0.3342218204141381	10026	1.0	1.0
+CHEBI_42191	ethylenediaminetetraacetic acid	1	Y	Y	Y	632	1.086433677420638e-07	1.713617787729713e-10	9159	1.0	1.0
+CHEBI_27902	tetracycline	1	Y	Y	N	1596	1.0	0.001074482875515041	618	1.0	1.0
+UBERON_0000956	cerebral cortex	2	Y	Y	Y	188	1.6247772602404178e-32	8.596705080637129e-35	9105	1.0	1.0
+GO_0032693	cerebral cortex	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0008233	cerebral cortex	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000010490	neutrophil collagenase	1	Y	Y	N	6588	1.0	0.3342218204141381	4364	1.0	1.0
+GO_1903978	neutrophil collagenase	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045429	neutrophil collagenase	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032755	neutrophil collagenase	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0043388	neutrophil collagenase	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000775	neutrophil	13	Y	Y	Y	35	3.846236032843966e-281	1.0683988980122125e-282	1617	1.0	1.0
+GO_1901224	neutrophil	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032760	neutrophil	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_44975	neutrophil	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030574	collagen catabolic process	1	Y	Y	Y	1172	0.04372782157151316	3.7183521744483974e-05	8208	1.0	1.0
+CHEBI_138885	collagen catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006508	proteolysis	2	Y	Y	Y	96	5.391908126815615e-87	5.558668171974862e-89	1477	1.0	1.0
+GO_0009267	proteolysis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0044090	proteolysis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005765	lysosomal membrane	2	Y	Y	N	3863	1.0	0.11214271133478153	2287	1.0	1.0
+GO_0005802	lysosomal membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_2000786	lysosomal membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005764	lysosome	1	Y	Y	Y	216	6.562642071479295e-27	3.024259019114882e-29	6385	1.0	1.0
+GO_0000045	lysosome	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000082	epithelial cell of lung	1	Y	Y	Y	952	0.0010950517053118175	1.1359457523981514e-06	3086	1.0	1.0
+UBERON_0001150	body of pancreas	2	Y	Y	Y	1375	0.27631780941535045	0.00020037549631279943	1565	1.0	1.0
+CL_0000125	glial cell	2	Y	Y	Y	74	7.38404250201307e-120	9.845390002684096e-122	1493	1.0	1.0
+GO_0003723	glial cell	3	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0031902	glial cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0000955	brain	6	Y	Y	Y	9	0.0	0.0	5	1.9075793435040034e-65	3.179298905840006e-66
+PR_Q6UXG2	brain	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0002048	lung	1	Y	Y	Y	24	0.0	0.0	8089	1.0	1.0
+UBERON_0000310	breast	2	Y	Y	Y	4	0.0	0.0	76	0.07962356554483807	0.0010340722798030915
+UBERON_0001044	saliva-secreting gland	5	Y	Y	Y	1052	0.006919899045775022	6.552934702438468e-06	6421	1.0	1.0
+GO_0005770	saliva-secreting gland	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005887	integral component of plasma membrane	4	Y	N	Y	3346	1.0	0.11214271133478153	9870	1.0	1.0
+GO_0009897	integral component of plasma membrane	4	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045953	integral component of plasma membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000005560	integral component of plasma membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0002769	integral component of plasma membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032991	protein-containing complex	3	Y	Y	Y	52	3.08772113759109e-191	5.825888938851114e-193	1630	1.0	1.0
+UBERON_0000473	testis	1	Y	Y	Y	88	5.127528307398404e-99	5.761267761121802e-101	2717	1.0	1.0
+GO_2000272	testis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030547	testis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q2HXU8	testis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019903	testis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0042802	testis	5	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_16704	testis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0016020	membrane	4	Y	Y	Y	38	1.059153082866359e-270	2.7157771355547664e-272	9089	1.0	1.0
+CHEBI_30772	butyric acid	1	Y	Y	Y	2000	1.0	0.0054672462985972045	2859	1.0	1.0
+CHEBI_16778	butyric acid	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_58470	butyric acid	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_16243	quercetin	4	Y	Y	Y	361	1.6897937405476046e-16	4.667938509800014e-19	1494	1.0	1.0
+CHEBI_3584	quercetin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0046718	viral entry into host cell	1	Y	Y	N	2437	1.0	0.026406799210654797	1266	1.0	1.0
+CL_0000765	erythroblast	7	Y	Y	N	7106	1.0	0.3342218204141381	4650	1.0	1.0
+GO_0001618	erythroblast	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_57694	erythroblast	4	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005654	nucleoplasm	4	Y	Y	Y	1994	1.0	0.0054672462985972045	2960	1.0	1.0
+CHEBI_2781	apocynin	3	Y	N	Y	6031	1.0	0.3342218204141381	9543	1.0	1.0
+CHEBI_15996	apocynin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_27881	resveratrol	1	Y	Y	Y	160	9.935436132984279e-44	6.171078343468495e-46	138	1.0	0.06330171082764942
+CHEBI_37537	phorbol 13-acetate 12-myristate	3	Y	Y	N	3742	1.0	0.11214271133478153	1790	1.0	1.0
+PR_000001460	glycophorin-A	1	Y	N	Y	3715	1.0	0.11214271133478153	9478	1.0	1.0
+CL_0000788	glycophorin-A	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17594	hydroquinone	1	Y	N	Y	5419	1.0	0.3342218204141381	10473	1.0	1.0
+CHEBI_65329	LY294002	1	Y	Y	Y	1344	0.27631780941535045	0.00020037549631279943	8636	1.0	1.0
+CHEBI_68540	LY294002	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005829	cytosol	9	Y	Y	Y	157	1.5709490200323723e-44	9.942715316660584e-47	7102	1.0	1.0
+CHEBI_90695	cytosol	3	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_27563	arsenic atom	1	Y	Y	Y	14	0.0	0.0	28	9.302871460182748e-11	3.2078867104078446e-12
+CHEBI_90693	arsenic atom	3	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_82625	Trolox	3	Y	Y	Y	1354	0.27631780941535045	0.00020037549631279943	8619	1.0	1.0
+CHEBI_18388	apigenin	1	Y	Y	Y	275	2.6486097201014388e-21	9.596412029353042e-24	3103	1.0	1.0
+CHEBI_16971	apigenin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_30621	apigenin	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_77986	apigenin	3	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_9433	apigenin	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_63452	apigenin	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_49900	apigenin	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17562	apigenin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_28939	apigenin	3	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_45713	trans-resveratrol	1	Y	Y	N	7891	1.0	0.3342218204141381	4350	1.0	1.0
+PR_P02724	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_30616	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0060339	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_67143	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q9Y6K5	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000011576	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0003725	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071650	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_33019	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005524	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071659	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006139	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0039529	trans-resveratrol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_18420	magnesium(2+)	1	Y	Y	Y	675	6.865996855739535e-07	1.01268390202648e-09	6799	1.0	1.0
+GO_2000342	magnesium(2+)	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001730	magnesium(2+)	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032728	magnesium(2+)	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_6078	ivermectin	2	Y	Y	N	5728	1.0	0.3342218204141381	5022	1.0	1.0
+GO_0043231	ivermectin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035395	ivermectin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0060700	ivermectin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071639	ivermectin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0039530	ivermectin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000030465	ivermectin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045732	positive regulation of protein catabolic process	1	Y	Y	Y	1372	0.27631780941535045	0.00020037549631279943	8620	1.0	1.0
+GO_0009609	positive regulation of protein catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045959	positive regulation of protein catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1903027	positive regulation of protein catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006958	complement activation, classical pathway	2	Y	Y	N	6921	1.0	0.3342218204141381	5348	1.0	1.0
+PR_P04003	complement activation, classical pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P54108	complement activation, classical pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0042581	complement activation, classical pathway	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_29865	benzo[a]pyrene	4	Y	Y	Y	1582	1.0	0.001074482875515041	8218	1.0	1.0
+GO_0031012	extracellular matrix	1	Y	Y	Y	70	2.847922967339504e-126	4.011159108928879e-128	1020	1.0	1.0
+UBERON_0001000	vas deferens	1	Y	Y	Y	451	1.7047193073372383e-12	3.771502892339022e-15	8308	1.0	1.0
+UBERON_0003889	fallopian tube	1	Y	Y	Y	203	1.641792651825374e-28	8.048003195222422e-31	7035	1.0	1.0
+PR_000005880	cysteine-rich secretory protein 3	1	Y	N	Y	7691	1.0	0.3342218204141381	10163	1.0	1.0
+CL_1001319	bladder cell	1	Y	Y	N	5749	1.0	0.3342218204141381	5110	1.0	1.0
+UBERON_0001255	urinary bladder	2	Y	Y	N	1050	0.006919899045775022	6.552934702438468e-06	338	1.0	1.0
+UBERON_0000160	intestine	3	Y	Y	Y	5	0.0	0.0	27	7.115943113048127e-11	2.541408254660045e-12
+GO_0007155	cell adhesion	3	Y	Y	Y	1049	0.006919899045775022	6.552934702438468e-06	2642	1.0	1.0
+GO_0003824	cell adhesion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010939	cell adhesion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005198	cell adhesion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000312	keratinocyte	1	Y	Y	Y	174	1.0163592980772604e-35	5.807767417584343e-38	2847	1.0	1.0
+GO_1900026	keratinocyte	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045171	keratinocyte	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030141	keratinocyte	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045296	keratinocyte	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0042981	regulation of apoptotic process	1	Y	Y	N	3823	1.0	0.11214271133478153	1974	1.0	1.0
+PR_Q6UX06	regulation of apoptotic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000786	plasma cell	2	Y	Y	Y	489	6.809750425770244e-11	1.3869145470000494e-13	6811	1.0	1.0
+PR_000011626	plasma cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_2000389	plasma cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000163	endocrine cell	1	Y	Y	N	5859	1.0	0.3342218204141381	5302	1.0	1.0
+GO_0050764	endocrine cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0042582	endocrine cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0048471	endocrine cell	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_41879	dexamethasone	1	Y	Y	Y	80	4.767839378771441e-115	5.8862214552733844e-117	2723	1.0	1.0
+CL_0000351	trophoblast cell	1	Y	Y	Y	122	2.360531987825089e-61	1.903654828891201e-63	992	1.0	1.0
+GO_0042060	wound healing	2	Y	Y	N	2558	1.0	0.026406799210654797	1216	1.0	1.0
+CHEBI_42758	wound healing	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17688	wound healing	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0007229	integrin-mediated signaling pathway	2	Y	Y	Y	1340	0.27631780941535045	0.00020037549631279943	6300	1.0	1.0
+GO_0043277	apoptotic cell clearance	2	Y	Y	Y	75	2.9625449653357524e-118	3.898085480704937e-120	77	0.08597502190848923	0.0011022438706216567
+GO_0032147	apoptotic cell clearance	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0031589	apoptotic cell clearance	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0042470	melanosome	1	Y	Y	N	3330	1.0	0.11214271133478153	1897	1.0	1.0
+GO_0005911	cell-cell junction	1	Y	Y	Y	1605	1.0	0.001074482875515041	8235	1.0	1.0
+GO_0014909	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019960	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0034446	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035868	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010888	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050731	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071062	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019899	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005161	cell-cell junction	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045124	regulation of bone resorption	1	Y	Y	N	7244	1.0	0.3342218204141381	3426	1.0	1.0
+CHEBI_15843	arachidonic acid	3	Y	Y	Y	552	2.720077688706975e-09	4.909887524741831e-12	8165	1.0	1.0
+GO_0043235	receptor complex	1	Y	Y	Y	1046	0.006919899045775022	6.552934702438468e-06	8584	1.0	1.0
+GO_0050840	receptor complex	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001938	receptor complex	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032369	receptor complex	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0038027	apolipoprotein A-I-mediated signaling pathway	1	Y	Y	Y	1163	0.04372782157151316	3.7183521744483974e-05	1047	1.0	1.0
+GO_0017134	apolipoprotein A-I-mediated signaling pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_39162	apolipoprotein A-I-mediated signaling pathway	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035295	apolipoprotein A-I-mediated signaling pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050748	apolipoprotein A-I-mediated signaling pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_4911	apolipoprotein A-I-mediated signaling pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001968	apolipoprotein A-I-mediated signaling pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0060055	apolipoprotein A-I-mediated signaling pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_3752	clomiphene	1	Y	Y	Y	862	0.00017328558757686134	2.0009883092016325e-07	553	1.0	1.0
+UBERON_0002046	thyroid gland	1	Y	Y	Y	8	0.0	0.0	33	3.5147288593017285e-08	1.0337437821475671e-09
+GO_0030168	platelet activation	1	Y	Y	Y	257	6.62760024778361e-23	2.568837305342485e-25	728	1.0	1.0
+CHEBI_17234	glucose	2	Y	Y	Y	7	0.0	0.0	11089	1.0	1.0
+GO_0007596	blood coagulation	1	Y	Y	Y	17	0.0	0.0	114	1.0	0.02132949558673344
+GO_0008305	integrin complex	2	Y	Y	Y	340	2.67330620117754e-17	7.839607628086628e-20	736	1.0	1.0
+GO_0070527	platelet aggregation	3	Y	Y	Y	435	2.697137864396738e-13	6.143822014571158e-16	2828	1.0	1.0
+GO_0050839	platelet aggregation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0002020	protease binding	2	Y	Y	Y	256	6.62760024778361e-23	2.568837305342485e-25	105	1.0	0.01457282363761152
+CHEBI_52492	mancozeb	1	Y	Y	Y	3848	1.0	0.11214271133478153	7692	1.0	1.0
+GO_0030949	mancozeb	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010745	mancozeb	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0099149	mancozeb	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0009986	cell surface	3	Y	Y	Y	82	7.671232460811956e-112	9.132419596204708e-114	8932	1.0	1.0
+GO_0051611	regulation of serotonin uptake	1	Y	Y	Y	3390	1.0	0.11214271133478153	7447	1.0	1.0
+GO_0005178	regulation of serotonin uptake	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045211	postsynaptic membrane	1	Y	Y	N	5492	1.0	0.3342218204141381	4312	1.0	1.0
+GO_0031258	postsynaptic membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0048333	postsynaptic membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0002306	postsynaptic membrane	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_37941	postsynaptic membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17826	methylarsonous acid	1	Y	Y	Y	3562	1.0	0.11214271133478153	7566	1.0	1.0
+UBERON_0007795	ascitic fluid	3	Y	Y	N	7666	1.0	0.3342218204141381	5670	1.0	1.0
+GO_0098978	ascitic fluid	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1905598	ascitic fluid	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_47381	diclofenac	1	Y	Y	Y	2633	1.0	0.026406799210654797	6785	1.0	1.0
+GO_0033627	diclofenac	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0034683	diclofenac	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001225	cortex of kidney	2	Y	Y	Y	415	4.267233038574274e-14	1.0233172754374758e-16	8090	1.0	1.0
+GO_0032880	cortex of kidney	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0038132	cortex of kidney	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0034113	cortex of kidney	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_16480	nitric oxide	1	Y	Y	Y	50	4.737786787171644e-196	9.289778014062051e-198	8560	1.0	1.0
+GO_0031528	microvillus membrane	1	Y	Y	Y	1591	1.0	0.001074482875515041	2575	1.0	1.0
+GO_0007160	microvillus membrane	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0070051	microvillus membrane	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045202	synapse	2	Y	Y	Y	36	6.27260194355982e-278	1.6952978225837348e-279	39	4.121336242355264e-07	1.030334060588816e-08
+CHEBI_7596	nitroprusside	1	Y	Y	Y	2497	1.0	0.026406799210654797	6605	1.0	1.0
+GO_0016477	cell migration	1	Y	Y	Y	140	3.8796323244711306e-50	2.751512286858958e-52	599	1.0	1.0
+GO_0043184	cell migration	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032587	cell migration	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0003756	cell migration	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000767	basophil	4	Y	Y	Y	185	2.5696133088593208e-33	1.3815125316447962e-35	730	1.0	1.0
+CHEBI_3423	basophil	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005634	nucleus	4	Y	Y	Y	22	0.0	0.0	10769	1.0	1.0
+GO_0031092	nucleus	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0031527	filopodium membrane	1	Y	Y	N	6972	1.0	0.3342218204141381	4967	1.0	1.0
+CHEBI_18723	filopodium membrane	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_4167	filopodium membrane	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_15368	acrolein	1	Y	Y	Y	677	6.865996855739535e-07	1.01268390202648e-09	1448	1.0	1.0
+PR_000002042	acrolein	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001934	acrolein	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035866	acrolein	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_77954	acrolein	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0031994	acrolein	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035867	acrolein	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_15365	acetylsalicylic acid	2	Y	Y	Y	957	0.0010950517053118175	1.1359457523981514e-06	8821	1.0	1.0
+GO_0005925	focal adhesion	2	Y	N	Y	3552	1.0	0.11214271133478153	9253	1.0	1.0
+GO_0015026	focal adhesion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010595	focal adhesion	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P05106	focal adhesion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050919	negative chemotaxis	1	Y	Y	Y	2428	1.0	0.026406799210654797	6541	1.0	1.0
+GO_0006915	apoptotic process	1	Y	Y	Y	27	0.0	0.0	106	1.0	0.016112047142754632
+CHEBI_9516	thapsigargin	1	Y	Y	Y	433	2.697137864396738e-13	6.143822014571158e-16	1660	1.0	1.0
+GO_0031346	thapsigargin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1904440	thapsigargin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1990090	thapsigargin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0090650	thapsigargin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0120162	thapsigargin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1904646	thapsigargin	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0070301	thapsigargin	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_46195	paracetamol	1	Y	Y	Y	261	4.189774635444649e-22	1.599150624215515e-24	8581	1.0	1.0
+GO_0036094	paracetamol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_31175	paracetamol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1903981	paracetamol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_31823	mercury dichloride	1	Y	N	Y	3910	1.0	0.11214271133478153	10525	1.0	1.0
+GO_0009637	mercury dichloride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010040	response to iron(II) ion	1	Y	Y	N	5829	1.0	0.3342218204141381	3247	1.0	1.0
+GO_0015891	response to iron(II) ion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0009410	response to iron(II) ion	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_64090	response to iron(II) ion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010046	response to iron(II) ion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0097577	sequestering of iron ion	1	Y	Y	Y	282	1.67431905840883e-20	5.916321761161943e-23	1672	1.0	1.0
+GO_0005506	sequestering of iron ion	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071347	sequestering of iron ion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071356	sequestering of iron ion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0043525	positive regulation of neuron apoptotic process	1	Y	Y	N	5891	1.0	0.3342218204141381	3730	1.0	1.0
+CHEBI_42588	positive regulation of neuron apoptotic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071354	positive regulation of neuron apoptotic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P80188	positive regulation of neuron apoptotic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0036295	positive regulation of neuron apoptotic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_46557	positive regulation of neuron apoptotic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0002110	gall bladder	1	Y	Y	Y	674	6.865996855739535e-07	1.01268390202648e-09	8340	1.0	1.0
+PR_000009725	gall bladder	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1905956	gall bladder	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_15367	gall bladder	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_35456	cadmium dichloride	1	Y	Y	Y	2500	1.0	0.026406799210654797	8358	1.0	1.0
+CHEBI_29678	sodium arsenite	1	Y	Y	N	5603	1.0	0.3342218204141381	5171	1.0	1.0
+GO_0009635	response to herbicide	2	Y	Y	Y	2496	1.0	0.026406799210654797	6608	1.0	1.0
+CHEBI_27899	response to herbicide	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0002079	pancreatic ductal cell	2	Y	Y	Y	547	2.720077688706975e-09	4.909887524741831e-12	6397	1.0	1.0
+GO_0071222	pancreatic ductal cell	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q8TCB0	pancreatic ductal cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000008907	pancreatic ductal cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0009617	pancreatic ductal cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_53490	pancreatic ductal cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001301	epididymis	1	Y	Y	Y	198	2.59673434207786e-29	1.3048916291848537e-31	9156	1.0	1.0
+PR_P08514	epididymis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000009127	integrin alpha-IIb	1	Y	Y	N	7400	1.0	0.3342218204141381	6035	1.0	1.0
+GO_0002687	integrin alpha-IIb	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_140349	integrin alpha-IIb	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17351	integrin alpha-IIb	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050727	regulation of inflammatory response	1	Y	N	Y	6802	1.0	0.3342218204141381	9439	1.0	1.0
+GO_0002820	regulation of inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_57466	regulation of inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_9352	sulindac	1	Y	Y	N	6024	1.0	0.3342218204141381	5981	1.0	1.0
+CHEBI_132070	sulindac	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_84638	sulindac	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132074	sulindac	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_59002	sulindac	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0043651	linoleic acid metabolic process	1	Y	N	Y	1590	1.0	0.001074482875515041	10336	1.0	1.0
+GO_0051122	hepoxilin biosynthetic process	1	Y	Y	N	6399	1.0	0.3342218204141381	5851	1.0	1.0
+CHEBI_132075	hepoxilin biosynthetic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P16050	hepoxilin biosynthetic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035358	regulation of peroxisome proliferator activated receptor signaling pathway	1	Y	N	Y	6542	1.0	0.3342218204141381	9709	1.0	1.0
+GO_0019395	fatty acid oxidation	1	Y	Y	Y	120	5.897155069846145e-63	4.873681875905905e-65	469	1.0	1.0
+CHEBI_28741	sodium fluoride	1	Y	Y	Y	215	6.562642071479295e-27	3.024259019114882e-29	7148	1.0	1.0
+GO_0010811	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_2979	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_142430	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_73458	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132077	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132071	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_77224	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0004052	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_78048	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_24875	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_133795	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005546	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_133798	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132072	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_133799	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132060	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_78324	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132061	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_73468	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_16433	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035963	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_30245	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0070374	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_133900	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_131964	sodium fluoride	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_15379	dioxygen	1	Y	Y	Y	136	9.696631624481434e-52	7.077833302541193e-54	9172	1.0	1.0
+CHEBI_132065	dioxygen	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132063	dioxygen	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132078	dioxygen	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1901074	dioxygen	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132129	dioxygen	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0031234	dioxygen	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_57444	dioxygen	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_131965	dioxygen	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0034440	lipid oxidation	1	Y	Y	Y	1374	0.27631780941535045	0.00020037549631279943	8042	1.0	1.0
+CHEBI_77016	lipid oxidation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0034116	lipid oxidation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132067	lipid oxidation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0016165	lipid oxidation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0047977	lipid oxidation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0016702	lipid oxidation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_32395	lipid oxidation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019372	lipid oxidation	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006954	inflammatory response	2	Y	Y	Y	295	1.0584038726485698e-19	3.575688758947872e-22	761	1.0	1.0
+CHEBI_77226	inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_57446	inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_45716	inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000003959	inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030282	bone mineralization	1	Y	Y	Y	1348	0.27631780941535045	0.00020037549631279943	1505	1.0	1.0
+GO_0034976	response to endoplasmic reticulum stress	1	Y	Y	Y	1346	0.27631780941535045	0.00020037549631279943	6323	1.0	1.0
+CHEBI_156049	response to endoplasmic reticulum stress	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_2001303	response to endoplasmic reticulum stress	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006646	response to endoplasmic reticulum stress	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001503	ossification	1	Y	Y	Y	77	1.8764617864853564e-117	2.40572023908379e-119	7115	1.0	1.0
+GO_0006629	lipid metabolic process	1	Y	Y	Y	46	6.107184542959293e-225	1.2994009665870833e-226	52	0.00043039529978971186	8.12066603376815e-06
+CHEBI_156082	lipid metabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0051120	lipid metabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030838	lipid metabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_133899	lipid metabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_156131	lipid metabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050473	lipid metabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071277	lipid metabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0042759	lipid metabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_5759	Honokiol	1	Y	Y	Y	359	1.6897937405476046e-16	4.667938509800014e-19	8173	1.0	1.0
+CHEBI_132062	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132076	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17395	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_490095	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_82626	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_57410	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132068	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_132073	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019369	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000016357	Honokiol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006936	muscle contraction	1	Y	Y	Y	34	3.846236032843966e-281	1.0683988980122125e-282	297	1.0	0.92517723262015
+GO_0008217	regulation of blood pressure	1	Y	Y	Y	377	1.0680993146722672e-15	2.8182039964967474e-18	261	1.0	0.6409593093948207
+UBERON_0001155	colon	2	Y	Y	Y	41	1.2957107781598798e-246	3.085025662285427e-248	8666	1.0	1.0
+CL_0000815	regulatory T cell	1	Y	Y	Y	170	4.019418766872026e-38	2.3505372905684368e-40	241	1.0	0.5539124090848399
+CL_0011108	colon epithelial cell	2	Y	Y	Y	1174	0.04372782157151316	3.7183521744483974e-05	8850	1.0	1.0
+GO_0007165	colon epithelial cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001896	medulla oblongata	1	Y	Y	Y	2433	1.0	0.026406799210654797	6739	1.0	1.0
+PR_O95399	medulla oblongata	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0097746	medulla oblongata	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001898	hypothalamus	1	Y	Y	Y	23	0.0	0.0	32	1.0703815309466607e-08	3.243580396808063e-10
+UBERON_0000988	pons	1	Y	Y	Y	245	1.0483707482175938e-23	4.261669708201602e-26	7099	1.0	1.0
+GO_0005102	pons	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000017210	pons	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000084	T cell	3	Y	Y	Y	29	0.0	0.0	146	1.0	0.08145975061878202
+GO_0005179	T cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0007268	chemical synaptic transmission	1	Y	Y	Y	337	2.67330620117754e-17	7.839607628086628e-20	7106	1.0	1.0
+CL_0002535	epithelial cell of cervix	2	Y	Y	Y	2488	1.0	0.026406799210654797	6695	1.0	1.0
+PR_000014108	epithelial cell of cervix	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0000002	uterine cervix	2	Y	Y	N	5382	1.0	0.3342218204141381	3578	1.0	1.0
+PR_Q8N6D2	uterine cervix	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0016567	protein ubiquitination	1	Y	Y	Y	1936	1.0	0.0054672462985972045	7255	1.0	1.0
+GO_0004842	protein ubiquitination	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000014867	protein ubiquitination	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q08ET2	protein ubiquitination	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000782	myeloid dendritic cell	1	Y	Y	Y	434	2.697137864396738e-13	6.143822014571158e-16	233	1.0	0.4668568030884577
+GO_0033691	myeloid dendritic cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0101003	myeloid dendritic cell	3	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000898	naive T cell	1	Y	Y	Y	438	2.697137864396738e-13	6.143822014571158e-16	2829	1.0	1.0
+PR_Q86Y46	naive T cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0045095	naive T cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000009488	naive T cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0008150	biological_process	1	Y	Y	Y	81	1.9125267653607954e-113	2.3323497138546284e-115	585	1.0	1.0
+GO_0000278	mitotic cell cycle	1	Y	Y	Y	1376	0.27631780941535045	0.00020037549631279943	6320	1.0	1.0
+GO_0001764	neuron migration	1	Y	Y	Y	173	2.5417430690308262e-37	1.4607718787533489e-39	258	1.0	0.6409593093948207
+GO_1903561	extracellular vesicle	1	Y	Y	Y	1981	1.0	0.0054672462985972045	2890	1.0	1.0
+GO_0005200	extracellular vesicle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_35549	extracellular vesicle	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_33217	extracellular vesicle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005874	microtubule	1	Y	Y	Y	310	6.6904844798423e-19	2.1512811832290357e-21	7142	1.0	1.0
+GO_0000226	microtubule	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000236	B cell	2	Y	Y	Y	45	2.3875272544339238e-227	5.190276640073749e-229	7136	1.0	1.0
+PR_000016816	B cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0002259	B cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0003924	B cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q13885	B cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_O95497	B cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0002328	bronchial epithelial cell	1	Y	Y	Y	864	0.00017328558757686134	2.0009883092016325e-07	6836	1.0	1.0
+GO_0033089	bronchial epithelial cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0002186	bronchiole	1	Y	Y	Y	146	1.5521439911371634e-48	1.055880266079703e-50	3059	1.0	1.0
+PR_000017313	pantetheinase	1	Y	Y	N	8056	1.0	0.3342218204141381	5836	1.0	1.0
+GO_0017159	pantetheinase	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006979	pantetheinase	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_16753	pantetheinase	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_58029	pantetheinase	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0002544	chronic inflammatory response	1	Y	Y	N	2479	1.0	0.026406799210654797	1298	1.0	1.0
+GO_0015939	chronic inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0098609	chronic inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_29032	chronic inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1902176	chronic inflammatory response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035577	chronic inflammatory response	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000066	epithelial cell	1	Y	Y	Y	126	1.4934234630717007e-60	1.1759239866706306e-62	8553	1.0	1.0
+GO_0031225	epithelial cell	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_34682	diazinon	1	Y	Y	Y	1164	0.04372782157151316	3.7183521744483974e-05	2821	1.0	1.0
+GO_0002250	adaptive immune response	5	Y	Y	Y	551	2.720077688706975e-09	4.909887524741831e-12	1471	1.0	1.0
+PR_Q8N6C8	adaptive immune response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019221	cytokine-mediated signaling pathway	1	Y	Y	Y	449	1.7047193073372383e-12	3.771502892339022e-15	8672	1.0	1.0
+GO_0032396	cytokine-mediated signaling pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000009805	cytokine-mediated signaling pathway	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010008	endosome membrane	1	Y	N	Y	8093	1.0	0.3342218204141381	9392	1.0	1.0
+PR_P01920	endosome membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019886	endosome membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0023026	endosome membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0002503	endosome membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030666	endosome membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030669	endosome membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071556	endosome membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006959	humoral immune response	2	Y	Y	Y	721	4.3390727418147066e-06	5.976684217375628e-09	749	1.0	1.0
+GO_0050870	humoral immune response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0012507	humoral immune response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032395	humoral immune response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0002381	humoral immune response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030658	humoral immune response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0000139	humoral immune response	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050852	T cell receptor signaling pathway	1	Y	Y	N	5477	1.0	0.3342218204141381	4932	1.0	1.0
+PR_000002017	MHC class II histocompatibility antigen beta chain DQB1	1	Y	N	Y	3649	1.0	0.11214271133478153	10211	1.0	1.0
+GO_0042613	MHC class II protein complex	1	Y	Y	Y	676	6.865996855739535e-07	1.01268390202648e-09	7156	1.0	1.0
+GO_0032588	trans-Golgi network membrane	1	Y	Y	Y	2525	1.0	0.026406799210654797	8361	1.0	1.0
+GO_0042605	trans-Golgi network membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P31997	trans-Golgi network membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0007157	trans-Golgi network membrane	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_32234	titanium dioxide	1	Y	Y	N	5936	1.0	0.3342218204141381	4405	1.0	1.0
+GO_0046982	titanium dioxide	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000001332	titanium dioxide	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_36560	titanium dioxide	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001987	placenta	2	Y	Y	Y	20	0.0	0.0	15	5.808217714742247e-20	3.6301360717139046e-21
+PR_000010657	placenta	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0051726	regulation of cell cycle	1	Y	Y	Y	235	2.6230762382586956e-25	1.1114729823130067e-27	363	1.0	1.0
+PR_Q96HJ5	regulation of cell cycle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071549	regulation of cell cycle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032964	collagen biosynthetic process	1	Y	Y	Y	858	0.00017328558757686134	2.0009883092016325e-07	2747	1.0	1.0
+GO_0048678	collagen biosynthetic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0070965	collagen biosynthetic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_29035	collagen biosynthetic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0060135	maternal process involved in female pregnancy	1	Y	Y	Y	1336	0.27631780941535045	0.00020037549631279943	1537	1.0	1.0
+GO_0042130	maternal process involved in female pregnancy	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006527	maternal process involved in female pregnancy	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0046686	maternal process involved in female pregnancy	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019547	maternal process involved in female pregnancy	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_2000552	maternal process involved in female pregnancy	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0051597	maternal process involved in female pregnancy	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0060336	maternal process involved in female pregnancy	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_33118	boric acid	1	Y	Y	Y	3900	1.0	0.11214271133478153	7704	1.0	1.0
+CL_0000945	boric acid	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000001844	boric acid	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030324	lung development	1	Y	Y	Y	72	4.5863563469010716e-123	6.282679927261743e-125	245	1.0	0.561091185408336
+GO_0010043	response to zinc ion	1	Y	Y	N	7058	1.0	0.3342218204141381	5343	1.0	1.0
+CHEBI_16199	urea	1	Y	Y	Y	66	2.6760662424321314e-138	3.994128720047958e-140	9167	1.0	1.0
+GO_0043005	neuron projection	1	Y	Y	Y	197	2.59673434207786e-29	1.3048916291848537e-31	8341	1.0	1.0
+GO_0004053	neuron projection	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0043200	neuron projection	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0046007	neuron projection	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_46911	neuron projection	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0035578	neuron projection	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P05089	neuron projection	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0002372	tonsil	2	Y	Y	N	2523	1.0	0.026406799210654797	1289	1.0	1.0
+GO_0007568	aging	1	Y	Y	Y	16	0.0	0.0	40	1.0994901696034178e-06	2.681683340496141e-08
+GO_0042832	defense response to protozoan	1	Y	Y	Y	1581	1.0	0.001074482875515041	2550	1.0	1.0
+GO_0010042	defense response to protozoan	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0010269	defense response to protozoan	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030145	defense response to protozoan	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_16811	defense response to protozoan	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0043025	defense response to protozoan	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0000050	urea cycle	1	Y	Y	Y	338	2.67330620117754e-17	7.839607628086628e-20	3034	1.0	1.0
+GO_0033189	urea cycle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_32682	urea cycle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0014075	urea cycle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1905541	urea cycle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0060056	urea cycle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_39589	urea cycle	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_16643	L-methionine	1	Y	Y	Y	2424	1.0	0.026406799210654797	8357	1.0	1.0
+CHEBI_3090	L-methionine	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_144094	L-methionine	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_64558	L-methionine	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071377	L-methionine	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0004867	L-methionine	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_379896	L-methionine	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17842	trypanothione	1	Y	Y	Y	131	6.0561531206385514e-55	4.58799478836254e-57	183	1.0	0.17910609045269513
+GO_0071353	trypanothione	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_58290	trypanothione	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071560	trypanothione	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001889	liver development	1	Y	Y	Y	162	3.9738864491689215e-42	2.4379671467294e-44	189	1.0	0.2150175019840713
+GO_0033197	response to vitamin E	1	Y	Y	N	6414	1.0	0.3342218204141381	4895	1.0	1.0
+GO_0061564	axon development	1	Y	Y	N	3835	1.0	0.11214271133478153	1724	1.0	1.0
+PR_Q8N300	axon development	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0031397	axon development	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005856	cytoskeleton	1	Y	Y	Y	154	2.4838775953472867e-45	1.6025016744176047e-47	347	1.0	1.0
+GO_0045177	apical part of cell	1	Y	Y	Y	595	1.7190788172817565e-08	2.8843604316807997e-11	8544	1.0	1.0
+GO_0008017	apical part of cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0009306	protein secretion	1	Y	Y	Y	724	4.3390727418147066e-06	5.976684217375628e-09	6971	1.0	1.0
+GO_0010596	protein secretion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_1905048	protein secretion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000031911	protein secretion	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006910	phagocytosis, recognition	1	Y	Y	N	5748	1.0	0.3342218204141381	4758	1.0	1.0
+GO_0003823	phagocytosis, recognition	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001895	phagocytosis, recognition	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P01834	phagocytosis, recognition	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050853	B cell receptor signaling pathway	1	Y	Y	Y	1599	1.0	0.001074482875515041	2570	1.0	1.0
+GO_0042571	immunoglobulin complex, circulating	1	Y	Y	Y	2	0.0	0.0	9861	1.0	1.0
+SO_0000460	immunoglobulin complex, circulating	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006911	phagocytosis, engulfment	1	Y	Y	N	3686	1.0	0.11214271133478153	2366	1.0	1.0
+PR_000008966	phagocytosis, engulfment	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0034987	phagocytosis, engulfment	2	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050871	phagocytosis, engulfment	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000001442	phagocytosis, engulfment	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0072488	phagocytosis, engulfment	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0008519	phagocytosis, engulfment	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q02161	phagocytosis, engulfment	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+SO_0001267	phagocytosis, engulfment	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0032036	phagocytosis, engulfment	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005938	cell cortex	1	Y	N	Y	6702	1.0	0.3342218204141381	10320	1.0	1.0
+GO_0001725	cell cortex	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0002570	cell cortex	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_16412	lipopolysaccharide	1	Y	Y	Y	10	0.0	0.0	9126	1.0	1.0
+PR_000010841	lipopolysaccharide	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+UBERON_0001135	smooth muscle tissue	1	Y	Y	Y	109	3.575034722882998e-74	3.250031566257269e-76	2680	1.0	1.0
+PR_P24844	smooth muscle tissue	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006937	regulation of muscle contraction	1	Y	Y	N	7638	1.0	0.3342218204141381	4669	1.0	1.0
+CHEBI_46762	(E,E,E)-geranylgeraniol	1	Y	N	Y	1931	1.0	0.0054672462985972045	10295	1.0	1.0
+CHEBI_28600	(E,E,E)-geranylgeraniol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005509	(E,E,E)-geranylgeraniol	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030018	Z disc	1	Y	Y	N	3422	1.0	0.11214271133478153	2290	1.0	1.0
+CHEBI_66964	Z disc	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0008307	Z disc	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_78761	Z disc	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_42680	Z disc	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0005859	muscle myosin complex	1	Y	Y	N	2491	1.0	0.026406799210654797	1204	1.0	1.0
+CHEBI_3387	carbamazepine	1	Y	Y	Y	165	1.5893360843906771e-40	9.574313761389623e-43	425	1.0	1.0
+CHEBI_75393	Y-27632	1	Y	Y	Y	722	4.3390727418147066e-06	5.976684217375628e-09	8604	1.0	1.0
+CHEBI_16975	Y-27632	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q8WTT0	Y-27632	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0030667	Y-27632	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0061760	Y-27632	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0044419	biological process involved in interspecies interaction between organisms	1	Y	Y	Y	336	2.67330620117754e-17	7.839607628086628e-20	737	1.0	1.0
+CL_0000542	lymphocyte	1	Y	Y	Y	40	2.9085819118905523e-260	7.0941022241233e-262	9069	1.0	1.0
+CL_0000784	plasmacytoid dendritic cell	2	Y	Y	Y	123	2.360531987825089e-61	1.903654828891201e-63	2823	1.0	1.0
+PR_000001292	plasmacytoid dendritic cell	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CL_0000787	memory B cell	1	Y	Y	N	7092	1.0	0.3342218204141381	5546	1.0	1.0
+GO_0030674	protein-macromolecule adaptor activity	1	Y	Y	Y	788	2.742099513971655e-05	3.46662391146859e-08	8320	1.0	1.0
+CHEBI_84069	protein-macromolecule adaptor activity	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000008965	protein-macromolecule adaptor activity	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_84268	nonanal	1	Y	Y	N	7865	1.0	0.3342218204141381	5196	1.0	1.0
+GO_0042834	nonanal	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0003697	nonanal	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071756	nonanal	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_34787	nonanal	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0042803	nonanal	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071757	nonanal	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17935	nonanal	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0060267	nonanal	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071751	secretory IgA immunoglobulin complex	1	Y	Y	N	8029	1.0	0.3342218204141381	4053	1.0	1.0
+GO_0031210	secretory IgA immunoglobulin complex	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0019862	secretory IgA immunoglobulin complex	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_88528	secretory IgA immunoglobulin complex	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0065003	protein-containing complex assembly	1	Y	Y	Y	633	1.086433677420638e-07	1.713617787729713e-10	1025	1.0	1.0
+GO_0071752	protein-containing complex assembly	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P01591	protein-containing complex assembly	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0003094	protein-containing complex assembly	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_17153	protein-containing complex assembly	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_15743	protein-containing complex assembly	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071750	protein-containing complex assembly	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071748	protein-containing complex assembly	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_9012	Salmeterol xinafoate	1	Y	Y	Y	1358	0.27631780941535045	0.00020037549631279943	8015	1.0	1.0
+CHEBI_10100	Salmeterol xinafoate	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006935	chemotaxis	1	Y	Y	Y	181	4.0638218290182025e-34	2.232869136823188e-36	8170	1.0	1.0
+GO_0004519	chemotaxis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0002227	chemotaxis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_P12724	chemotaxis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000014047	chemotaxis	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_3001	beclomethasone	1	Y	Y	Y	3585	1.0	0.11214271133478153	7346	1.0	1.0
+GO_0090501	beclomethasone	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0004540	beclomethasone	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0001530	beclomethasone	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0061844	beclomethasone	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0006401	RNA catabolic process	1	Y	Y	Y	861	0.00017328558757686134	2.0009883092016325e-07	8573	1.0	1.0
+GO_0003676	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_50730	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_3207	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_000031925	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071360	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PR_Q5T764	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0050688	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+CHEBI_2825	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+GO_0071357	RNA catabolic process	1	N	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+SO_0000336	pseudogene	1	Y	Y	Y	1351	0.27631780941535045	0.00020037549631279943	6303	1.0	1.0
