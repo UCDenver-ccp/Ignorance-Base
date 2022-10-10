@@ -1,8 +1,5 @@
 import os
-import nltk
-import argparse
 import xml.etree.ElementTree as ET
-import pandas as pd
 import pickle
 
 

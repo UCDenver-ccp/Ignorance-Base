@@ -15,6 +15,7 @@ import time
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+from dash.dependencies import Input, Output
 from colour import Color
 from textwrap import dedent as d
 import json
@@ -31,14 +32,12 @@ def read_in_graph_pkl_file(graph_file_path):
 #https://stackoverflow.com/questions/17381006/large-graph-visualization-with-python-and-networkx
 #https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7
 
-
 def create_graph_for_dash(graph, filename):
     ##add position tags
-    pos = nx.shell_layout(graph) ##dict from node to array in 2D space created by shell_layout
+    pos = nx.shell_layout(graph)  ##dict from node to array in 2D space created by shell_layout
     # print(pos)
     for node in graph.nodes:
         graph.nodes[node]['pos'] = list(pos[node])
-
 
     ##create edges: Add edges as disconnected lines in a single trace and nodes as a scatter trace
     edge_x = []
@@ -88,7 +87,6 @@ def create_graph_for_dash(graph, filename):
             ),
             line_width=2))
 
-
     ##color node points: Color node points by the number of connections. Another option would be to size points by the number of connections i.e. node_trace.marker.size = node_adjacencies
 
     ##good copy
@@ -103,14 +101,13 @@ def create_graph_for_dash(graph, filename):
     # node_trace.marker.color = node_adjacencies
     # node_trace.text = node_text
 
-
     node_adjacencies = []
     node_text = []
     for i, adjacencies in enumerate(graph.adjacency()):
-        print(adjacencies)
+        # print(adjacencies)
         node = adjacencies[0]
-        print(graph.nodes[node])
-        attribute_info_sting = '%s, ' %(node)
+        # print(graph.nodes[node])
+        attribute_info_sting = '%s, ' % (node)
         attribute_dict = graph.nodes[node]
         acceptable_attributes = []
 
@@ -130,24 +127,25 @@ def create_graph_for_dash(graph, filename):
             if attribute.upper() == 'NODE_TYPE':
 
                 if value.upper() == 'ALL_ARTICLES':
-                    attribute_info_sting += '%s' % (value.lower().replace('_',' '))
+                    attribute_info_sting += '%s' % (value.lower().replace('_', ' '))
                 elif value.upper() == 'ARTICLE':
-                    attribute_info_sting += '%s, ' %(value.lower().replace('_',' '))
-                    acceptable_attributes += ['ARTICLE_DATE', 'TOTAL_SENTENCE_COUNT', 'TOTAL_WORD_COUNT', 'IGNORANCE_SENTENCE_COUNT']
+                    attribute_info_sting += '%s, ' % (value.lower().replace('_', ' '))
+                    acceptable_attributes += ['ARTICLE_DATE', 'TOTAL_SENTENCE_COUNT', 'TOTAL_WORD_COUNT',
+                                              'IGNORANCE_SENTENCE_COUNT']
                 elif value.upper() == 'SENTENCE':
-                    attribute_info_sting += '%s, ' % (value.lower().replace('_',' '))
+                    attribute_info_sting += '%s, ' % (value.lower().replace('_', ' '))
                     acceptable_attributes += ['SENTENCE_SPAN', 'SENTENCE_TEXT']
                 elif value.upper() == 'ANNOTATED_LEXICAL_CUE':
-                    attribute_info_sting += '%s, ' % (value.lower().replace('_',' '))
+                    attribute_info_sting += '%s, ' % (value.lower().replace('_', ' '))
                     acceptable_attributes += ['MENTION_SPAN', 'MENTION_TEXT']
                 elif value.upper() == 'IGNORANCE_TAXONOMY':
-                    attribute_info_sting += '%s, ' % (value.lower().replace('_',' '))
+                    attribute_info_sting += '%s, ' % (value.lower().replace('_', ' '))
                 elif value.upper() == 'BROAD_IGNORANCE_TAXONOMY_CATEGORY':
-                    attribute_info_sting += '%s, ' % (value.lower().replace('_',' '))
+                    attribute_info_sting += '%s, ' % (value.lower().replace('_', ' '))
                 elif value.upper() == 'IGNORANCE_TAXONOMY_CATEGORY':
-                    attribute_info_sting += '%s, ' % (value.lower().replace('_',' '))
+                    attribute_info_sting += '%s, ' % (value.lower().replace('_', ' '))
                 elif value.upper() == 'TAXONOMY_LEXICAL_CUE':
-                    attribute_info_sting += '%s, ' % (value.lower().replace('_',' '))
+                    attribute_info_sting += '%s, ' % (value.lower().replace('_', ' '))
                 else:
                     print(attribute, value)
                     raise Exception('ERROR: Issue with missing a nodetype value!')
@@ -159,24 +157,20 @@ def create_graph_for_dash(graph, filename):
             else:
                 pass
 
-        node_adjacencies.append(len(adjacencies[1])) #dictionary of adjacency list
-        attribute_info_sting += '%s:\t%s' %('# of connections', str(len(adjacencies[1])))
-
-
+        node_adjacencies.append(len(adjacencies[1]))  # dictionary of adjacency list
+        attribute_info_sting += '%s:\t%s' % ('# of connections', str(len(adjacencies[1])))
 
         node_text.append(attribute_info_sting)
-
 
     # raise Exception('hold')
 
     node_trace.marker.color = node_adjacencies
     node_trace.text = node_text
 
-
     ##create network graph
     fig = go.Figure(data=[edge_trace, node_trace],
                     layout=go.Layout(
-                        title='<br>Ignornance graph from file: %s' %(filename),
+                        title='<br>Ignornance graph from file: %s' % (filename),
                         titlefont_size=16,
                         showlegend=False,
                         hovermode='closest',
@@ -241,7 +235,7 @@ if __name__=='__main__':
 
     article_count_summary_stats_file_path = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/Concept-Recognition-as-Translation-master/Output_Folders/eval_preprocess_article_summary.txt'
 
-    current_ignorance_graph_file = 'IGNORANCE_GRAPH_60_ARTICLES_09_02_21.gpickle'
+    current_ignorance_graph_file = 'IGNORANCE_GRAPH_60_ARTICLES_09_11_21.gpickle'
 
     ##save graph by date so we know when it is from
     today = datetime.datetime.now()
@@ -251,38 +245,117 @@ if __name__=='__main__':
 
 
     ##read in all gpickle files ignorance file
-    # Ignorance_Graph = read_in_graph_pkl_file('%s%s%s' %(output_folder, visualizations_folder, current_ignorance_graph_file))
+    Full_Ignorance_Graph = read_in_graph_pkl_file('%s%s%s' %(output_folder, visualizations_folder, current_ignorance_graph_file))
     # all_figs = []
+    #DASH APP - run all dash app after each other from terminal
+    colors = {'background': '#111111','text': '#7FDBFF'}
+
     app = dash.Dash()
 
-    file_count = 0
-    for root, directories, filenames in os.walk('%s%s' %(output_folder, visualizations_folder)):
-        for filename in sorted(filenames):
-            if filename.endswith('.gpickle') and (d in filename or current_d in filename) and 'SMALL' in filename:
-                file_count += 1
-                print('CURRENT GRAPH:', filename)
-                start_time = time.time()
-                current_graph = read_in_graph_pkl_file('%s%s' % (root, filename))
-                print("--- %.2f min to load graph ---" % (float(time.time() - start_time) / float(60)))
+    # file_count = 0
+    # for root, directories, filenames in os.walk('%s%s' %(output_folder, visualizations_folder)):
+    #     for filename in sorted(filenames):
+    #         if filename.endswith('.gpickle') and (d in filename or current_d in filename) and 'SMALL' in filename:
+    #             file_count += 1
+    #             print('CURRENT GRAPH:', filename)
+    #             start_time = time.time()
+    #             current_graph = read_in_graph_pkl_file('%s%s' % (root, filename))
+    #             print("--- %.2f min to load graph ---" % (float(time.time() - start_time) / float(60)))
+    #
+    #
+    #             # print(list(Ignorance_Graph.nodes))
+    #             print('NUMBER OF NODES:', len(list(current_graph.nodes)))
+    #             print('NUMBER OF EDGES:', len(list(current_graph.edges)))
+    #             # print(Ignorance_Graph.nodes.data())  # list of tuples
+    #             # if file_count == 7:
+    #             print('current filename', filename)
+    #             fig = create_graph_for_dash(current_graph, filename)
+    #
+    #             app.layout = html.Div([
+    #                 dcc.Graph(figure=fig)
+    #             ])
+    #
+    #             app.run_server(debug=True, use_reloader=False)
+    #
+    #             # else:
+    #             #     pass
+    #                 # raise Exception('hold!')
+    #
 
 
-                # print(list(Ignorance_Graph.nodes))
-                print('NUMBER OF NODES:', len(list(current_graph.nodes)))
-                print('NUMBER OF EDGES:', len(list(current_graph.edges)))
-                # print(Ignorance_Graph.nodes.data())  # list of tuples
-                # if file_count == 7:
-                print('current filename', filename)
-                fig = create_graph_for_dash(current_graph, filename)
 
-                app.layout = html.Div([
-                    dcc.Graph(figure=fig)
-                ])
+    ##DASH APP - run all through dropdown of article
+    full_ignorance_graph_fig = create_graph_for_dash(Full_Ignorance_Graph, 'FULL IGNORANCE GRAPH')
 
-                app.run_server(debug=True, use_reloader=False)
+    app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
+        html.H1(
+            children='Ignorance-Base',
+            style={
+                'textAlign': 'center',
+                'color': colors['text']
+            }
+        ),
 
-                # else:
-                #     pass
-                    # raise Exception('hold!')
+        html.Div(children='', style={
+            'textAlign': 'center',
+            'color': colors['text']
+        }),
+
+        dcc.Graph(
+            id='full_ignorance_graph',
+            figure=full_ignorance_graph_fig
+        ),
+
+        dcc.Dropdown(
+            id='article_dropdown',
+            options=[
+                {'label': a, 'value': a}
+                for a in articles
+            ],
+            placeholder='Choose an Article',
+
+        ),
+
+        dcc.Graph(
+            id='article_graph'
+        )
+
+
+    ])
+
+    ##it takes in the function right below it
+    ##for each thing in callback it matches (id, value that you will use - both need to match all things
+    @app.callback(
+        Output('article_graph', 'figure'), #populating the article_graph above
+        Input('article_dropdown', 'value')) #getting input from the article_dropdown from the value
+    def create_article_graph(article):
+        # read in the article gpickle file
+        if article:
+            # print(type(article))
+            article_graph = read_in_graph_pkl_file('%s%s%s_%s_%s.gpickle' % (
+            output_folder, visualizations_folder, article, 'SMALL_IGNORANCE_GRAPH', current_d))
+
+            ##take article graph and make dash figure
+            article_fig = create_graph_for_dash(article_graph, article)
+
+            return article_fig
+        ##empty graph: https://community.plotly.com/t/dropdown-not-populating-with-return-none/30671
+        else:
+            return {}
+
+
+    # app.layout = html.Div([
+    #     html.Label('Article'),
+    #     dcc.Dropdown(id='article_dropdown', options=articles, placeholder='Choose an Article'),
+    #     dcc.Graph(figure=fig)
+    #
+    # ])
+
+
+
+
+
+    app.run_server(debug=True, use_reloader=False)
 
     ##show figures on DASH
     # Run this app with `python ignorance_base_dash_app.py` and
