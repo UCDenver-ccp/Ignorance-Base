@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	CHEBI_13193 (hydrogen acceptor)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3268605	8/2011	S2-PMC3268605	['fawn-hooded hypertensive Rat (fhh) dams were supplied with the No-Donor Molsidomine in drinking Water from 2 weeks before to 4 weeks after Birth, and the Kidneys were subsequently collected from 2\u2009day, 2 week, and 9 to 10-month-old Adult offspring.']	N/A	N/A	[('NCBITaxon_9986', 'Oryctolagus cuniculus', 25, 'rat'), ('CHEBI_16382', 'iodide', 63, 'NO'), ('CHEBI_13193', 'hydrogen acceptor', 66, 'donor'), ('CHEBI_30629', 'diethylenetriamine', 72, 'molsidomine'), ('CHEBI_15377', 'water', 96, 'water'), ('GO_0007567', 'parturition', 139, 'birth'), ('UBERON_0002113', 'kidney', 154, 'kidneys'), ('UBERON_0007023', 'adult organism', 232, 'adult')]

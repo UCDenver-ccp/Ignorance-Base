@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	CHEBI_3001 (beclomethasone)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4896250	4/2016	S5664-PMC4896250	['medications taken included Albuterol, Beclomethasone, Salmeterol and montelukast.']	N/A	N/A	[('CHEBI_2549', 'albuterol', 27, 'albuterol'), ('CHEBI_3001', 'beclomethasone', 38, 'beclomethasone'), ('CHEBI_9011', 'salmeterol', 54, 'salmeterol')]

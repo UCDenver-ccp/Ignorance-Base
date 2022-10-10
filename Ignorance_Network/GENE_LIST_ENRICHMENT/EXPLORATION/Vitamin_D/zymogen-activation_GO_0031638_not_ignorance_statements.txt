@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0031638 (zymogen activation)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3095978	4/2011	S177-PMC3095978	['obesity and Lipids\nunger described Metabolic syndrome as “a failure of the system of Intracellular Lipid Homeostasis which prevents Lipotoxicity in Organs of overnourished Individuals” [23].']	N/A	N/A	[('CHEBI_18059', 'lipid', 12, 'Lipids'), ('GO_0008152', 'metabolic process', 35, 'metabolic'), ('GO_0005622', 'intracellular anatomical structure', 85, 'intracellular'), ('GO_0006260', 'DNA replication', 85, 'intracellular'), ('CHEBI_18059', 'lipid', 99, 'lipid'), ('GO_0055088', 'lipid homeostasis', 99, 'lipid homeostasis'), ('GO_0031638', 'zymogen activation', 132, 'lipotoxicity'), ('UBERON_0000062', 'organ', 148, 'organs'), ('NCBITaxon_1', 'root', 172, 'individuals')]

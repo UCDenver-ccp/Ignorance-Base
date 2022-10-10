@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	UBERON_0001896 (medulla oblongata)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3385441	2/2012	S45-PMC3385441	['Mehg, an organic form that is converted from inorganic Mercury primarily by micro-Organisms in the aquatic environment, is biomagnified in aquatic food Webs, so the highest concentrations occur in large and long-lived predatory fish and Marine Mammals at the top trophic levels (nrc 2000).']	N/A	N/A	[('CHEBI_82056', 'Mebenil', 0, 'MeHg'), ('CHEBI_16170', 'mercury(0)', 55, 'mercury'), ('NCBITaxon_1', 'root', 82, 'organisms'), ('UBERON_0001896', 'medulla oblongata', 152, 'webs'), ('NCBITaxon_40674', 'Mammalia', 237, 'marine'), ('NCBITaxon_40674', 'Mammalia', 244, 'mammals')]

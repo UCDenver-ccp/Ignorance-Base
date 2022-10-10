@@ -1,0 +1,5 @@
+OBO_ID (LABEL):	GO_0043621 (protein self-association)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3321448	3/2012	S25-PMC3321448	['this stimulates adenylyl cyclase activity and Generation Of Camp- and pka-Mediated Activation Of the Contraction-Relaxation Cycle [12,14].']	N/A	N/A	[('GO_0042078', 'germ-line stem cell division', 46, 'generation of cAMP- ... -mediated activation of ...'), ('CHEBI_17489', "3',5'-cyclic AMP", 60, 'cAMP'), ('GO_0043621', 'protein self-association', 101, 'contraction-relaxation cycle')]
+PMC4113768	7/2014	S3204-PMC4113768	['Vitamin D deficiency and severity of Acute Respiratory Infection among new zealand children—a case-control study\n\ningham, t.r.']	N/A	N/A	[('CHEBI_28384', 'vitamin K', 0, 'Vitamin D'), ('PR_000017319', 'vacuolar protein sorting-associated protein 13A', 0, 'Vitamin D'), ('GO_0042639', 'telogen', 37, 'Acute'), ('GO_0043621', 'protein self-association', 43, 'Respiratory Infection')]

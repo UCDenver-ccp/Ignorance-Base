@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0005654 (nucleoplasm)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4999234	8/2016	S100-PMC4999234	['Nucleus transverse diameter of Cardiomyocytes\nthe transverse diameters of the Nuclei Of Cardiomyocytes of the Left and Right Ventricles of male offspring were higher in the hs group than the ns group.']	N/A	N/A	[('GO_0005634', 'nucleus', 0, 'Nucleus'), ('CL_0000746', 'cardiac muscle cell', 31, 'cardiomyocytes'), ('GO_0005654', 'nucleoplasm', 78, 'nuclei of ...'), ('CL_0000746', 'cardiac muscle cell', 88, 'cardiomyocytes'), ('UBERON_0002079', 'left cardiac atrium', 110, 'left ...'), ('UBERON_0002080', 'heart right ventricle', 119, 'right ventricles')]

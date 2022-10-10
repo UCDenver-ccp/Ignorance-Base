@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0005794 (Golgi apparatus)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4100392	6/2014	S103-PMC4100392	['it works as a quality control station that allows for transit of correctly Folded Proteins to the Golgi Apparatus and retains Unfolded or Misfolded Proteins [88].']	N/A	N/A	[('GO_0006407', 'rRNA export from nucleus', 75, 'folded proteins'), ('GO_0005794', 'Golgi apparatus', 98, 'Golgi apparatus'), ('GO_0033353', 'S-adenosylmethionine cycle', 126, 'unfolded ...'), ('GO_0009554', 'megasporogenesis', 138, 'misfolded proteins')]

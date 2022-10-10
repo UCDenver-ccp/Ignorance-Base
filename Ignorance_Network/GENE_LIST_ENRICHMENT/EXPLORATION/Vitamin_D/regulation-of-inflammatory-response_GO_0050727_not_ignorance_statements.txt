@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0050727 (regulation of inflammatory response)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4490503	6/2015	S67-PMC4490503	['physiological Regulation Of the Innate Immune Response and changes in Cytokine Production prevent Rejection Of the foetal Allograft throughout Pregnancy [3].']	N/A	N/A	[('GO_0050727', 'regulation of inflammatory response', 14, 'regulation of ... innate immune response'), ('UBERON_0002405', 'immune system', 39, 'immune'), ('GO_0001814', 'negative regulation of antibody-dependent cellular cytotoxicity', 70, 'cytokine production'), ('GO_0001502', 'cartilage condensation', 98, 'rejection of ... allograft'), ('GO_0007565', 'female pregnancy', 143, 'pregnancy')]

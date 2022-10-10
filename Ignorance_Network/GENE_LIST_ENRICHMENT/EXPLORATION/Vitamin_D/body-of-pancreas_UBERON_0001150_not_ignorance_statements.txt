@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	UBERON_0001150 (body of pancreas)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3501517	11/2012	S52-PMC3501517	['1, 3, or 10 days after Lps or pbs instillation, Mice were anesthetized with 5% Isoflurane and underwent Tracheotomy and intubation with a blunt tip 18-gauge needle (bd bioscience, san jose, ca), which was secured with 3-0 silk suture (look, reading, pa).']	N/A	N/A	[('CHEBI_16412', 'lipopolysaccharide', 23, 'LPS'), ('NCBITaxon_10088', 'Mus <genus>', 48, 'mice'), ('CHEBI_6015', 'isoflurane', 79, 'isoflurane'), ('UBERON_0001150', 'body of pancreas', 104, 'tracheotomy')]

@@ -1,0 +1,6 @@
+OBO_ID (LABEL):	GO_0005911 (cell-cell junction)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3171895	9/2011	S21-PMC3171895	['the release of Trophoblast plugs with flow of Blood into the Intervillous space leads to the generation of oxidative stress [20].']	N/A	N/A	[('UBERON_0000088', 'trophoblast', 15, 'trophoblast'), ('UBERON_0000178', 'blood', 46, 'blood'), ('GO_0005911', 'cell-cell junction', 61, 'intervillous')]
+PMC4054662	7/2014	S18-PMC4054662	['this results in increased Apoptosis and necrosis of the Syncytiotrophoblast Layer lining the Intervillous space(10).']	N/A	N/A	[('GO_0006915', 'apoptotic process', 26, 'apoptosis'), ('UBERON_0004021', 'spongiotrophoblast layer', 56, 'syncytiotrophoblast layer'), ('GO_0005911', 'cell-cell junction', 93, 'intervillous'), ('UBERON_0010746', 'iliac blade', 93, 'intervillous')]
+PMC4152245	9/2014	S276-PMC4152245	['zen was found to inhibit Gap Junction Intercellular Communications[86].']	N/A	N/A	[('GO_0005921', 'gap junction', 25, 'gap junction'), ('GO_0005911', 'cell-cell junction', 38, 'intercellular communications'), ('GO_0006880', 'intracellular sequestering of iron ion', 38, 'intercellular communications')]

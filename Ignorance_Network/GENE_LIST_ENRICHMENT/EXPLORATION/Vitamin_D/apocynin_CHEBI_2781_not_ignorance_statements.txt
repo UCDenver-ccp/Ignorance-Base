@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	CHEBI_2781 (apocynin)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3538633	1/2013	S168-PMC3538633	['ach-induced relaxation in vessels incubated with Tram-34, apamin, L-Name & indo\nthe combination of Tram-34 (1 µm) and Apamin (30 µm) in the presence of L-Name (100 µm) and indo (10 µm) induced a significant reduction in ach-induced vasodilatation in all groups (figure 4d).']	N/A	N/A	[('PR_000016672', 'thyroid receptor-interacting protein 13', 49, 'TRAM-34'), ('CHEBI_72804', 'HOTrE', 66, 'L-NAME'), ('PR_000016672', 'thyroid receptor-interacting protein 13', 99, 'TRAM-34'), ('CHEBI_2781', 'apocynin', 118, 'Apamin'), ('CHEBI_72804', 'HOTrE', 152, 'L-NAME')]

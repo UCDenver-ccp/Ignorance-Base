@@ -1,0 +1,5 @@
+OBO_ID (LABEL):	GO_0005925 (focal adhesion)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3411795	8/2012	S93-PMC3411795	['confocal Z-Projections of larval Brains are shown from a dorsal perspective, anterior to the left.']	N/A	N/A	[('GO_0005925', 'focal adhesion', 9, 'z-'), ('GO_0042995', 'cell projection', 11, 'projections'), ('UBERON_0000955', 'brain', 33, 'brains')]
+PMC4271720	12/2014	S183-PMC4271720	['they performed pathway analysis of the shared differentially methylated Genes and reported a significant upregulation in a set of Genes involved with Extracellular Matrix-receptor interaction and Focal Adhesion (altorok et al., 2014b).']	N/A	N/A	[('SO_0000704', 'gene', 72, 'genes'), ('SO_0000704', 'gene', 130, 'genes'), ('GO_0031012', 'extracellular matrix', 150, 'extracellular matrix'), ('GO_0005925', 'focal adhesion', 196, 'focal adhesion')]

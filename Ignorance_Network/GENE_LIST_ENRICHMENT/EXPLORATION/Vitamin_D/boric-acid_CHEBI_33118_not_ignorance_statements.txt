@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	CHEBI_33118 (boric acid)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3742769	8/2013	S51-PMC3742769	['for immunocytochemical detection of Brdu-labeled Nuclei, dna was denatured to expose the Antigen for incubation with 2 n Hydrochloric Acid for 30 min at 37°c, followed by neutralization with two 10-min incubation periods in 0.5 m Boric Acid (ph 8.5) at room temperature (rt).']	N/A	N/A	[('CHEBI_472552', "5-bromo-2'-deoxyuridine", 36, 'BrdU'), ('GO_0005634', 'nucleus', 49, 'nuclei'), ('CHEBI_59132', 'antigen', 89, 'antigen'), ('CHEBI_17883', 'hydrogen chloride', 121, 'hydrochloric acid'), ('CHEBI_33118', 'boric acid', 230, 'boric acid')]

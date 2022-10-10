@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0006396 (RNA processing)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4129499	8/2014	S86-PMC4129499	['epigenetic changes in asd occur through methylation, Histone Modification (31), Chromatin Remodeling, transcriptional feedback loops, and Rna Silencing (32).']	N/A	N/A	[('CHEBI_15358', 'histone', 53, 'histone'), ('GO_0016570', 'histone modification', 53, 'histone modification'), ('PR_000043452', 'core histone', 53, 'histone'), ('GO_0000785', 'chromatin', 80, 'chromatin'), ('GO_0006338', 'chromatin remodeling', 80, 'chromatin remodeling'), ('GO_0006396', 'RNA processing', 138, 'RNA silencing')]

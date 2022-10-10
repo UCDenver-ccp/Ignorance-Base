@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0038027 (apolipoprotein A-I-mediated signaling pathway)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3107945	5/2011	S26-PMC3107945	['to increase the surface for Nutrient and Oxygen Exchange, the Placenta can expand its invasion across the surface of the Uterine lining or invade the maternal Spiral Arteries more deeply.']	N/A	N/A	[('CHEBI_33284', 'nutrient', 28, 'nutrient'), ('GO_0038027', 'apolipoprotein A-I-mediated signaling pathway', 41, 'oxygen exchange'), ('UBERON_0001987', 'placenta', 62, 'placenta'), ('UBERON_0000995', 'uterus', 121, 'uterine'), ('UBERON_0002537', 'hermaphrodite gonad', 159, 'spiral arteries')]

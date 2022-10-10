@@ -1,0 +1,5 @@
+OBO_ID (LABEL):	CL_0000782 (myeloid dendritic cell)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4329404	10/2014	S88-PMC4329404	['total Cd8+T Cells and Cd4+T Cells remained unchanged across all groups, regardless of dietary status (fig.3a,b).']	N/A	N/A	[('CL_0002532', 'CD16-positive myeloid dendritic cell', 6, 'CD8+'), ('PR_000005170', 'CD37 molecule', 6, 'CD8'), ('CL_0000084', 'T cell', 10, 'T cells'), ('CL_0000782', 'myeloid dendritic cell', 22, 'CD4+'), ('PR_000001204', 'C-C chemokine receptor type 8', 22, 'CD4'), ('CL_0000084', 'T cell', 26, 'T cells')]
+PMC4896250	4/2016	S2930-PMC4896250	['we sorted Cd4+T Cells into yfp+and yfp- groups and activated them with anti-cd3/Cd28.']	N/A	N/A	[('CL_0000782', 'myeloid dendritic cell', 10, 'CD4+'), ('PR_000001204', 'C-C chemokine receptor type 8', 10, 'CD4'), ('CL_0000084', 'T cell', 14, 'T cells'), ('PR_000001309', 'CD70 molecule', 80, 'CD28')]

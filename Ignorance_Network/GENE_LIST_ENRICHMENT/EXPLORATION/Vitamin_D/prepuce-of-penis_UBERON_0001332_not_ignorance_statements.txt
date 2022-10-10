@@ -1,0 +1,5 @@
+OBO_ID (LABEL):	UBERON_0001332 (prepuce of penis)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4701936	1/2016	S59-PMC4701936	['the presence of a Vaginal Plug or Spermatozoa in the Vaginal Smear the following morning confirmed successful Mating, and this was designated as Gestational day 0.']	N/A	N/A	[('UBERON_0010148', 'mating plug', 18, 'vaginal plug'), ('CL_0000019', 'sperm', 34, 'spermatozoa'), ('UBERON_0001332', 'prepuce of penis', 53, 'vaginal smear'), ('GO_0007618', 'mating', 110, 'mating'), ('GO_0007565', 'female pregnancy', 145, 'gestational')]
+PMC5187359	12/2016	S49-PMC5187359	['the presence of Plug or Spermatozoa in the Vaginal Smear confirmed the successful Mating, and this was designated as Gestational day 0 (gd 0).']	N/A	N/A	[('UBERON_0010148', 'mating plug', 16, 'plug'), ('CL_0000019', 'sperm', 24, 'spermatozoa'), ('UBERON_0001332', 'prepuce of penis', 43, 'vaginal smear'), ('GO_0007618', 'mating', 82, 'mating'), ('GO_0007565', 'female pregnancy', 117, 'gestational')]

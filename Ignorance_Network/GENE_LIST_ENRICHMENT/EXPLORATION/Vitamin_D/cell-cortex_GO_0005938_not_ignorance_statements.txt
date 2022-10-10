@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0005938 (cell cortex)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4896250	4/2016	S8444-PMC4896250	['Autoantibodies to Thyroid Tissue and many other Cellular and Cell Surface receptors commonly coexist.']	N/A	N/A	[('GO_0044308', 'axonal spine', 0, 'Autoantibodies'), ('UBERON_0002046', 'thyroid gland', 18, 'thyroid'), ('UBERON_0000479', 'tissue', 26, 'tissue'), ('GO_0005938', 'cell cortex', 48, 'cellular ...'), ('GO_0009986', 'cell surface', 61, 'cell surface')]

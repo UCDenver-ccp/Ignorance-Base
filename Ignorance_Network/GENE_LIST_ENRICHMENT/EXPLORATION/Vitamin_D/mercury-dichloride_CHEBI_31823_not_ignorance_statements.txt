@@ -1,0 +1,5 @@
+OBO_ID (LABEL):	CHEBI_31823 (mercury dichloride)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4154213	5/2014	S131-PMC4154213	['1999atrazinenoneatrazine Mercapturate< 5cdc 2009benzenebenzenema Metabolites> 50 (Blood)alwis et al.']	N/A	N/A	[('CHEBI_31823', 'mercury dichloride', 25, 'mercapturate'), ('CHEBI_25212', 'metabolite', 65, 'metabolites'), ('UBERON_0000178', 'blood', 82, 'blood')]
+PMC4896250	4/2016	S2955-PMC4896250	['it is often given with Mercaptoethane Sulfonate (mesna) to prevent Bladder toxicity.']	N/A	N/A	[('CHEBI_31823', 'mercury dichloride', 23, 'mercaptoethane sulfonate'), ('UBERON_0018707', 'bladder organ', 67, 'bladder')]

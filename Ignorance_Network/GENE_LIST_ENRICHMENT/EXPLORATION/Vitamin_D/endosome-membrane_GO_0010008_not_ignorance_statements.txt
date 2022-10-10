@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0010008 (endosome membrane)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4670104	12/2015	S133-PMC4670104	['color depicts representative Tissue origins or subcellular localization of proteins: black-Intracellular Space; green-Hepatic origin and Secreted into Plasma; red-Extracellular Matrix; blue-Extracellular Matrix Membrane binding.']	N/A	N/A	[('UBERON_0000479', 'tissue', 29, 'tissue'), ('GO_0005622', 'intracellular anatomical structure', 91, 'intracellular'), ('GO_0045202', 'synapse', 105, 'space'), ('UBERON_0002107', 'liver', 118, 'hepatic'), ('GO_0046903', 'secretion', 137, 'secreted'), ('GO_0005886', 'plasma membrane', 151, 'plasma'), ('UBERON_0001969', 'blood plasma', 151, 'plasma'), ('GO_0031012', 'extracellular matrix', 163, 'extracellular matrix'), ('GO_0010008', 'endosome membrane', 190, 'extracellular matrix membrane')]

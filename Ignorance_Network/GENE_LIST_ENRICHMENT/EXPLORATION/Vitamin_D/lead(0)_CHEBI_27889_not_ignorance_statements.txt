@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	CHEBI_27889 (lead(0))
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4249952	12/2014	S102-PMC4249952	['other Oral sources of Lead include Ingestion of preserved eggs, and fried Food.']	N/A	N/A	[('UBERON_0000165', 'mouth', 6, 'oral'), ('CHEBI_27889', 'lead(0)', 22, 'lead'), ('GO_0007631', 'feeding behavior', 35, 'ingestion'), ('CHEBI_33290', 'food', 74, 'food')]

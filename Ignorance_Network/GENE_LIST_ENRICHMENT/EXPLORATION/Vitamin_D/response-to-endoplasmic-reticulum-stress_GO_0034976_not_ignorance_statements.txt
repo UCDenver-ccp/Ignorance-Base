@@ -1,0 +1,5 @@
+OBO_ID (LABEL):	GO_0034976 (response to endoplasmic reticulum stress)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC3812030	10/2013	S19-PMC3812030	['for example, the Hypomethylation Of Genomic Dna in Lymphocytes in Postmenopausal women is reversed by increasing dietary Folate[7].']	N/A	N/A	[('GO_0034976', 'response to endoplasmic reticulum stress', 17, 'hypomethylation of ... DNA'), ('SO_0001026', 'genome', 36, 'genomic'), ('CL_0000542', 'lymphocyte', 51, 'lymphocytes'), ('GO_0007595', 'lactation', 66, 'postmenopausal'), ('CHEBI_30863', '5-azaorotic acid', 121, 'folate')]
+PMC4100392	6/2014	S106-PMC4100392	['in order to adapt Er function to this stress, a highly conserved signaling Pathway called the Unfolded Protein Response (upr), or the Er Stress Response, is activated [87,89–91].']	N/A	N/A	[('GO_0005783', 'endoplasmic reticulum', 18, 'ER'), ('GO_0051324', 'prophase', 75, 'pathway'), ('GO_0006954', 'inflammatory response', 94, 'unfolded protein response'), ('GO_0005783', 'endoplasmic reticulum', 134, 'ER'), ('GO_0034976', 'response to endoplasmic reticulum stress', 134, 'ER stress response')]

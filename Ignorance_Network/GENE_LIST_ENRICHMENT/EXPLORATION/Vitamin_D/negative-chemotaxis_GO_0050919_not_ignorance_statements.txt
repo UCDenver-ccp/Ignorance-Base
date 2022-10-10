@@ -1,0 +1,4 @@
+OBO_ID (LABEL):	GO_0050919 (negative chemotaxis)
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4571073	9/2015	S10-PMC4571073	['the condition occurs in much higher frequencies among women with multi-fetal Gestation, Coagulopathies, acquired forms of thrombophilia, Uterine anomalies, Abdominal trauma, hypertension, premature rupture of Membranes, maternal-fetal hemorrhage, and Intrauterine infections [4–8].']	N/A	N/A	[('GO_0007565', 'female pregnancy', 77, 'gestation'), ('GO_0050919', 'negative chemotaxis', 88, 'coagulopathies'), ('UBERON_0000995', 'uterus', 137, 'uterine'), ('UBERON_0000916', 'abdomen', 156, 'abdominal'), ('UBERON_0000922', 'embryo', 209, 'membranes'), ('UBERON_0022293', 'reproductive gland secretion', 251, 'intrauterine')]
