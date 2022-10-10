@@ -1,0 +1,7 @@
+OBO_ID (LABEL):	CHEBI_15365 (acetylsalicylic acid)
+
+IGNORANCE CATEGORY:	incomplete_evidence
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC5487839	3/2016	S316-PMC5487839	['low-dose Acetylsalicylic Acid MAY BE INDICATED for pe PREVENTION.']	[('INCOMPLETE_EVIDENCE', 30), ('INCOMPLETE_EVIDENCE', 37), ('SUPERFICIAL_RELATIONSHIP', 54)]	3	[('CHEBI_15365', 'acetylsalicylic acid', 9, 'acetylsalicylic acid')]
+PMC5133238	12/2016	S45-PMC5133238	['THEREFORE, neuraxial anesthesia was CONSIDERED safer for this patient because Acetylsalicylic Acid had been discontinued by the obstetrician 3 days before the surgery, when the cardiotocography tracing began to show an abnormal phase patterns and a maternal ecg ruled out any POTENTIAL Thromboembolism risk.']	[('PROBABLE_UNDERSTANDING', 0), ('INCOMPLETE_EVIDENCE', 36), ('INCOMPLETE_EVIDENCE', 276)]	3	[('CHEBI_15365', 'acetylsalicylic acid', 78, 'acetylsalicylic acid'), ('GO_0006000', 'fructose metabolic process', 286, 'thromboembolism')]
