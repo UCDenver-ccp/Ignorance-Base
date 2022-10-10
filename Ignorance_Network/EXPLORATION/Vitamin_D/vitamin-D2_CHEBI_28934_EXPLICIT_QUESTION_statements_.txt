@@ -1,0 +1,6 @@
+OBO_ID (LABEL):	CHEBI_28934 (vitamin D2)
+
+IGNORANCE CATEGORY:	explicit_question
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC4113768	7/2014	S1485-PMC4113768	['dietary Vitamin D2—IS it a POTENTIALLY under-estimated contributor to Vitamin D nutriture at a population level?']	[('EXPLICIT_QUESTION', 19), ('INCOMPLETE_EVIDENCE', 27), ('EXPLICIT_QUESTION', 111)]	3	[('CHEBI_28934', 'vitamin D2', 8, 'Vitamin D2'), ('PR_000017279', 'testis-specific basic protein Y 1', 8, 'Vitamin D2'), ('CHEBI_28384', 'vitamin K', 70, 'Vitamin D'), ('PR_000017319', 'vacuolar protein sorting-associated protein 13A', 70, 'Vitamin D')]

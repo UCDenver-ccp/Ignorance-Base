@@ -1,0 +1,6 @@
+OBO_ID (LABEL):	CHEBI_28934 (vitamin D2)
+
+IGNORANCE CATEGORY:	difficult_task
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC5273824	1/2017	S68-PMC5273824	['the Serum level of 25-Oh Vitamin D2 in the intervention group was 11.61\u2009±\u20096.71 (6.06–24.71) nmol/l, HOWEVER, the Serum 25-Oh Vitamin D2 level in the fourteen cases in the control group was TOO low TO BE detected with the current technology (table\xa02).']	[('ALTERNATIVE_OPTIONS_CONTROVERSY', 100), ('DIFFICULT_TASK', 189)]	2	[('UBERON_0001977', 'blood serum', 4, 'serum'), ('CHEBI_86198', '1,2-di-[(11Z)-eicosenoyl]-sn-glycero-3-phosphocholine', 19, '25-OH'), ('CHEBI_28934', 'vitamin D2', 25, 'Vitamin D2'), ('PR_000017279', 'testis-specific basic protein Y 1', 25, 'Vitamin D2'), ('UBERON_0001977', 'blood serum', 113, 'serum'), ('CHEBI_86198', '1,2-di-[(11Z)-eicosenoyl]-sn-glycero-3-phosphocholine', 119, '25-OH'), ('CHEBI_28934', 'vitamin D2', 125, 'Vitamin D2'), ('PR_000017279', 'testis-specific basic protein Y 1', 125, 'Vitamin D2')]

@@ -1,0 +1,6 @@
+OBO_ID (LABEL):	CHEBI_28934 (vitamin D2)
+
+IGNORANCE CATEGORY:	future_prediction
+
+ARTICLE	ARTICLE DATE	SENTENCE NUM	SENTENCE	IGNORANCE CATEGORIES	NUM IGNORANCE CATEGORIES	OBO ID (LABEL)
+PMC5273824	1/2017	S114-PMC5273824	['in addition, researchers find dairy products in china are MAINLY fortified with Vitamin D3, which WILL not translate into higher Vitamin D2 DETECTION rate among participants.']	[('PROBABLE_UNDERSTANDING', 58), ('FUTURE_PREDICTION', 98), ('INCOMPLETE_EVIDENCE', 140)]	3	[('CHEBI_33237', 'vitamin D4', 80, 'Vitamin D3'), ('PR_000017319', 'vacuolar protein sorting-associated protein 13A', 80, 'Vitamin D3'), ('CHEBI_28934', 'vitamin D2', 129, 'Vitamin D2'), ('PR_000017279', 'testis-specific basic protein Y 1', 129, 'Vitamin D2')]
