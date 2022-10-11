@@ -1,0 +1,27 @@
+T0	explicit_question 3680 3681	?
+T1	explicit_question 45 46	?
+T0	incomplete_evidence 1767 1775	believed
+T1	incomplete_evidence 1828 1836	proposed
+T2	incomplete_evidence 1843 1851	possible
+T3	incomplete_evidence 1895 1900	could
+T4	incomplete_evidence 2023 2028	could
+T5	incomplete_evidence 199 202	may
+T6	incomplete_evidence 2562 2567	first
+T7	incomplete_evidence 2647 2652	could
+T8	incomplete_evidence 2722 2743	insufficient evidence
+T9	incomplete_evidence 3044 3051	lack of
+T10	incomplete_evidence 4078 4086	apparent
+T11	incomplete_evidence 4318 4328	thought to
+T12	incomplete_evidence 4423 4434	potentially
+T13	incomplete_evidence 519 526	believe
+T14	incomplete_evidence 812 827	well documented
+T15	incomplete_evidence 1282 1292	previously
+T0	superficial_relationship 1299 1311	associations
+T1	superficial_relationship 2751 2757	impact
+T2	superficial_relationship 220 227	effects
+T0	future_work 4610 4617	hope to
+T0	future_prediction 2594 2598	will
+T0	anomaly_curious_finding 2863 2871	Although
+T1	anomaly_curious_finding 4414 4422	Although
+T0	alternative_options_controversy 1362 1374	not observed
+T1	alternative_options_controversy 2044 2050	either

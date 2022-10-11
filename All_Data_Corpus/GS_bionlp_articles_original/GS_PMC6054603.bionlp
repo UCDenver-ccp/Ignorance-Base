@@ -1,0 +1,91 @@
+T0	full_unknown 286 301	little is known
+T0	incomplete_evidence 24435 24443	has been
+T1	incomplete_evidence 24592 24595	may
+T2	incomplete_evidence 25142 25150	has been
+T3	incomplete_evidence 25458 25467	potential
+T4	incomplete_evidence 25468 25478	limitation
+T5	incomplete_evidence 25527 25531	bias
+T6	incomplete_evidence 25538 25542	only
+T7	incomplete_evidence 26148 26156	indicate
+T8	incomplete_evidence 26403 26413	previously
+T9	incomplete_evidence 26657 26660	may
+T10	incomplete_evidence 26688 26695	lack of
+T11	incomplete_evidence 26797 26800	may
+T12	incomplete_evidence 26944 26952;27032 27039	evidence ... limited
+T13	incomplete_evidence 27348 27357	have been
+T14	incomplete_evidence 28304 28312	recently
+T15	incomplete_evidence 28434 28441	suggest
+T16	incomplete_evidence 28699 28709	consistent
+T17	incomplete_evidence 28988 28996	emerging
+T18	incomplete_evidence 29505 29509;29515 29519	have ... been
+T19	incomplete_evidence 29709 29719	first time
+T20	incomplete_evidence 30107 30116	potential
+T21	incomplete_evidence 30354 30361	remains
+T22	incomplete_evidence 30481 30485	view
+T23	incomplete_evidence 30601 30609	emerging
+T24	incomplete_evidence 30785 30794	potential
+T25	incomplete_evidence 2998 3009	potentially
+T26	incomplete_evidence 24195 24214	considered reliable
+T27	incomplete_evidence 24704 24727	not considered feasible
+T28	incomplete_evidence 25407 25430	not considered feasible
+T29	incomplete_evidence 3210 3218	has been
+T30	incomplete_evidence 3232 3249	research interest
+T31	incomplete_evidence 3505 3512;3587 3601	studies ... small in scope
+T32	incomplete_evidence 3677 3688	very little
+T33	incomplete_evidence 3682 3698	little attention
+T34	incomplete_evidence 3699 3707	has been
+T35	incomplete_evidence 3845 3849	only
+T36	incomplete_evidence 4049 4058	have been
+T37	incomplete_evidence 4059 4066	limited
+T38	incomplete_evidence 252 260	has been
+T39	incomplete_evidence 4202 4214	not reported
+T40	incomplete_evidence 4361 4377	previously shown
+T41	incomplete_evidence 22466 22477	no evidence
+T42	incomplete_evidence 22892 22902	consistent
+T43	incomplete_evidence 22958 22966	indicate
+T44	incomplete_evidence 23184 23195	no evidence
+T45	incomplete_evidence 24052 24061	have been
+T46	incomplete_evidence 24296 24305	have been
+T0	probable_understanding 29269 29275	likely
+T0	superficial_relationship 0 7	Effects
+T1	superficial_relationship 2323 2330	impacts
+T2	superficial_relationship 2410 2414	role
+T3	superficial_relationship 25654 25660	impact
+T4	superficial_relationship 2556 2566	associated
+T5	superficial_relationship 29049 29060	association
+T6	superficial_relationship 29725 29731	impact
+T7	superficial_relationship 30509 30520	association
+T8	superficial_relationship 30610 30622	associations
+T9	superficial_relationship 30829 30840	contributes
+T10	superficial_relationship 3649 3655	impact
+T11	superficial_relationship 181 187	impact
+T12	superficial_relationship 4563 4573	associated
+T13	superficial_relationship 4787 4793	impact
+T14	superficial_relationship 309 316	effects
+T15	superficial_relationship 23073 23080	effects
+T16	superficial_relationship 23216 23223	effects
+T17	superficial_relationship 24306 24316	correlated
+T0	future_work 25626 25634	consider
+T1	future_work 4756 4764	required
+T0	future_prediction 25042 25047	would
+T1	future_prediction 30048 30052	will
+T2	future_prediction 30708 30712	will
+T0	important_consideration 26865 26875	importance
+T1	important_consideration 30062 30071	important
+T2	important_consideration 30362 30371	important
+T3	important_consideration 3090 3095;3118 3130	major ... implications
+T4	important_consideration 3144 3156	implications
+T5	important_consideration 3708 3724	directed towards
+T0	anomaly_curious_finding 26391 26398	despite
+T1	anomaly_curious_finding 27245 27253	Although
+T2	anomaly_curious_finding 30337 30344	Despite
+T0	alternative_options_controversy 26646 26651	While
+T1	alternative_options_controversy 28578 28583	While
+T2	alternative_options_controversy 28667 28679	questionable
+T3	alternative_options_controversy 30085 30092	whether
+T4	alternative_options_controversy 2841 2846	while
+T5	alternative_options_controversy 28295 28302	However
+T0	difficult_task 25337 25344	complex
+T0	question_answered_by_this_work 363 374	to evaluate
+T1	question_answered_by_this_work 4835 4850	This manuscript
+T2	question_answered_by_this_work 349 358	objective
