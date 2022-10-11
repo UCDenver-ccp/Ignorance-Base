@@ -1,0 +1,146 @@
+T18210	GO_PATO_EXT:biological_behavior 15 24	Behaviour
+T18211	GO_EXT:biological_growth_entity_or_process 301 307	growth
+T18212	GO:0000001 2114 2125	adolescence
+T18213	GO:0042697 2373 2382	menopause
+T18214	GO:0007605 3428 3437	postnatal
+T18215	GO:0007605 3510 3519	postnatal
+T18216	GO:0001501 3520 3540	skeletal development
+T18217	GO:0001501 3543 3563	Skeletal Development
+T18218	GO_EXT:bone_development_or_ossification 3680 3696	bone development
+T18219	GO:0001958 3816 3841	endochondral ossification
+T18220	GO:0007565 3936 3945	gestation
+T18221	GO:0001755 3955 3964;3982 4002	migration ... of mesenchymal cells
+T18222	GO_RO_EXT:developmental_differentiation_process 4220 4233	differentiate
+T18223	GO:0008283 4299 4310	proliferate
+T18224	GO:0001525 4367 4379	angiogenesis
+T18225	GO:0001781 4436 4452;4457 4469	proliferation of ... chondrocytes
+T18226	GO:0051301 4795 4808	cell division
+T18227	GO_EXT:biological_growth_entity_or_process 4880 4886	growth
+T18228	GO:0051301 4937 4950	cell division
+T18229	GO:0007565 4990 4999	gestation
+T18230	GO:0007567 5104 5109	birth
+T18231	GO_EXT:bone_development_or_ossification 5398 5414	bone development
+T18232	GO:0007613 5574 5580	memory
+T18233	GO_PATO_EXT:biological_behavior 5698 5706	behavior
+T18234	GO_EXT:bone_development_or_ossification 5712 5728	bone development
+T18235	GO:0007567 5876 5881	birth
+T18236	GO:0007565 6075 6084	pregnancy
+T18237	GO_PATO_EXT:physiological_process_or_quality 6157 6170	physiological
+T18238	GO_EXT:reaction_or_response 6280 6289	responses
+T18239	GO_EXT:reaction_or_response 6395 6403	response
+T18240	GO_PATO_EXT:biological_behavior 6680 6688	Behavior
+T18241	GO_EXT:bone_development_or_ossification 6693 6709	Bone Development
+T18242	GO:0007567 6866 6870	born
+T18243	GO_EXT:biological_growth_entity_or_process 8317 8323	growth
+T18244	GO:0007567 8871 8876	birth
+T18245	GO:0007567 9023 9028	birth
+T18246	GO_EXT:biological_growth_entity_or_process 9370 9376	growth
+T18247	GO:0007567 9494 9499	birth
+T18248	GO_EXT:biological_growth_entity_or_process 9578 9584	growth
+T18249	GO_EXT:biological_growth_entity_or_process 9698 9704	growth
+T18250	GO_EXT:biological_growth_entity_or_process 9918 9924	growth
+T18251	GO:0007567 10045 10050	Birth
+T18252	GO_EXT:biological_growth_entity_or_process 10065 10071	growth
+T18253	GO:0007567 10102 10106	born
+T18254	GO:0007567 10387 10392	birth
+T18255	GO_EXT:biological_growth_entity_or_process 10430 10436	growth
+T18256	GO:0007567 10549 10554	birth
+T18257	GO_EXT:biological_growth_entity_or_process 10687 10693	growth
+T18258	CHEBI_GO_EXT:biological_process_or_quality_or_role 11024 11034	biological
+T18259	GO:0007565 11376 11384	pregnant
+T18260	GO_PATO_EXT:physiological_process_or_quality 11440 11450	physiology
+T18261	GO:0008152 11455 11465	metabolism
+T18262	GO:0007567 11713 11718	birth
+T18263	GO_EXT:biological_growth_entity_or_process 11877 11883	growth
+T18264	GO_EXT:reaction_or_response 11896 11904	response
+T18265	GO:0007567 12034 12039	natal
+T18266	GO:0006281 12187 12193	repair
+T18267	GO:0007567 12449 12454	birth
+T18268	GO:0007605 12568 12577	postnatal
+T18269	GO:0007567 12733 12737	born
+T18270	GO:0007567 13141 13146	birth
+T18271	GO:0051318 13338 13346	adaptive
+T18272	GO_EXT:reaction_or_response 13347 13356	responses
+T18273	GO:0007567 13480 13485	birth
+T18274	GO:0051607 13576 13593	adaptive response
+T18275	GO:0051318 13703 13711	adaptive
+T18276	GO_EXT:reaction_or_response 13712 13721	responses
+T18277	GO:0007565 14194 14205	gestational
+T18278	GO:0007567 14281 14286	birth
+T18279	GO:0007567 14295 14300	birth
+T18280	GO:0007129 14436 14442	smoked
+T18281	GO:0007565 14446 14455	pregnancy
+T18282	GO:0061708 14591 14600	menstrual
+T18283	GO:0007565 15094 15103	pregnancy
+T18284	GO_PATO_EXT:physiological_process_or_quality 15291 15304	Physiological
+T18285	GO_PATO_EXT:biological_behavior 15439 15447	behavior
+T18286	GO_EXT:bone_development_or_ossification 15532 15546	bone formation
+T18287	GO:0007565 15642 15651	pregnancy
+T18288	GO:0007567 15775 15780	birth
+T18289	GO:0007565 15939 15948	pregnancy
+T18290	GO:0007565 16054 16063	pregnancy
+T18291	GO:0007565 16331 16340	pregnancy
+T18292	GO:0007631 16908 16914	intake
+T18293	GO:0007565 16944 16953	pregnancy
+T18294	GO:0055067 17280 17299	calcium homeostasis
+T18295	GO:0007567 17511 17518	intakes
+T18296	GO:0007568 17697 17703	eating
+T18297	GO:0007565 17800 17809	pregnancy
+T18298	GO:0007565 18029 18038	pregnancy
+T18299	GO_EXT:bone_development_or_ossification 18086 18102	bone development
+T18300	GO_EXT:bone_development_or_ossification 18198 18214	bone development
+T18301	GO:0038002 18305 18324	Endocrine Signaling
+T18302	GO_EXT:biological_growth_entity_or_process 18350 18356	Growth
+T18303	GO_EXT:biological_growth_entity_or_process 18378 18384	Growth
+T18304	GO_EXT:bone_development_or_ossification 18440 18456	bone development
+T18305	GO_PATO_EXT:physiological_process_or_quality 18579 18592	Physiological
+T18306	GO_EXT:biological_growth_entity_or_process 18655 18661	growth
+T18307	GO:0010467 18845 18852	express
+T18308	GO:0008283 18909 18922	proliferation
+T18309	GO:0001501 19301 19321	skeletal development
+T18310	GO:0007613 19878 19884	memory
+T18311	GO_PATO_EXT:physiological_process_or_quality 20075 20088	physiological
+T18312	GO:0007613 20106 20112	memory
+T18313	GO_EXT:biological_growth_entity_or_process 20449 20455	growth
+T18314	GO_EXT:biological_growth_entity_or_process 20600 20606	growth
+T18315	GO:0007605 21023 21032	postnatal
+T18316	GO:0007567 21471 21476	birth
+T18317	GO:0007567 21594 21599	birth
+T18318	GO:0007567 21736 21741	birth
+T18319	GO:0007567 21804 21809	birth
+T18320	GO:0061743 21947 21955	maternal
+T18321	GO_PATO_EXT:biological_behavior 21956 21964	behavior
+T18322	GO:0036268 22088 22097	endocrine
+T18323	GO:0006936 22567 22578	programming
+T18324	GO_PATO_EXT:physiological_process_or_quality 22597 22607	physiology
+T18325	GO:0040007 22718 22723	grows
+T18326	GO:0008152 22801 22811	metabolism
+T18327	GO:0007568 22835 22840	acids
+T18328	GO:0045491 22874 22894	long-distance flight
+T18329	GO:0040007 22981 22986	grows
+T18330	GO:0008152 23034 23044	metabolism
+T18331	GO:0060396 23236 23246	prenatally
+T18332	GO:0007567 23334 23338	born
+T18333	GO:0010467 23636 23651	gene expression
+T18334	GO:0006306 24023 24038	DNA methylation
+T18335	GO:0016570 24043 24063	histone modification
+T18336	GO:0006306 24065 24080	DNA methylation
+T18337	GO:0006306 24189 24204	DNA methylation
+T18338	GO_EXT:transcription 24282 24295	transcription
+T18339	GO_EXT:transcription 24361 24376	transcriptional
+T18340	GO:0007565 24455 24464	pregnancy
+T18341	GO_MOP_EXT:methylation 24502 24513	methylation
+T18342	GO:0010467 24591 24601	expression
+T18343	GO:0007567 24847 24852	birth
+T18344	GO:0001501 25323 25343	skeletal development
+T18345	GO:0098761 25481 25491	conception
+T18346	GO:0007565 25503 25512	pregnancy
+T18347	GO:0007565 25770 25779	pregnancy
+T18348	GO:0001501 25809 25829	skeletal development
+T18349	GO:0007565 25938 25946	pregnant
+T18350	GO:1903169 26102 26143	modulation of placental calcium transport
+T18351	GO_EXT:biological_growth_entity_or_process 26584 26590	growth
+T18352	GO_EXT:bone_development_or_ossification 26663 26679	bone development
+T18353	GO:0007613 26834 26840	memory
+T18354	GO_PATO_EXT:biological_behavior 26962 26970	behavior
+T18355	GO:0001501 26991 27011	skeletal development

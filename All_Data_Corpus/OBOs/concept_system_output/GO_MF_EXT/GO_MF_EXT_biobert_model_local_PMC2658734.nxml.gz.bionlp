@@ -1,0 +1,51 @@
+T380	GO_EXT:0008094 4191 4213	DNA methylase catalyze
+T381	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4589 4596	binding
+T382	GO_EXT:0004407 4620 4639	histone deacetylase
+T383	GO_EXT:transcription_factor 6408 6428	transcription factor
+T384	CHEBI_GO_SO_EXT:enzyme 7620 7626	enzyme
+T385	GO_EXT:0004402 7677 7703	histone acetyltransferases
+T386	GO_EXT:0004407 7705 7709	HATs
+T387	GO_EXT:0004407 7712 7732	histone deacetylases
+T388	GO_EXT:0004407 7734 7739	HDACs
+T389	GO_EXT:0042054 7742 7768	histone methyltransferases
+T390	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7784 7791	binding
+T391	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8154 8161	binding
+T392	GO_EXT:0004407 8185 8204	histone deacetylase
+T393	GO_EXT:transcription_factor 10285 10315	transcription factorInhibition
+T394	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 10468 10475	binding
+T395	GO_EXT:0008859 11442 11451	RNase-III
+T396	CHEBI_GO_SO_EXT:enzyme 11452 11458	enzyme
+T397	GO_EXT:0008859 11903 11911	RNaseIII
+T398	CHEBI_GO_SO_EXT:enzyme 11912 11918	enzyme
+T399	GO_PR_EXT:idrowth_factor_receptor 11988 11993	Dicer
+T400	GO_MOP_EXT:catalysis 12408 12417	catalytic
+T401	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12943 12950	binding
+T402	GO:0097617 16697 16710	hybridization
+T403	GO_PR_EXT:medium_chain_acyl_CoA_dehydrogenase 17721 17724	MCA
+T404	GO:0097617 17873 17886	hybridization
+T405	GO_EXT:0019826 19399 19406	histone
+T406	CHEBI_GO_EXT:ligase_inhibitor 19421 19431	inhibitors
+T407	GO_EXT:0004407 19433 19438	HDACs
+T408	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 19903 19907	bind
+T409	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 19994 19998	bind
+T410	GO:0097617 20440 20453	Hybridization
+T411	GO_EXT:0016856 20502 20509	miRBase
+T412	GO_EXT:0004496 20643 20650	MiRBase
+T413	GO_EXT:0016856 21858 21865	miRBase
+T414	GO_EXT:0004523 22917 22923	RNaseH
+T415	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23106 23113	binding
+T416	GO_EXT:0004523 23145 23151	RNaseH
+T417	GO_EXT:0004519 24032 24044	endonuclease
+T418	GO_EXT:0010853 25586 25594	cofactor
+T419	GO_EXT:0004883 26775 26798	glucocorticoid receptor
+T420	GO_PR_EXT:glucokinase 26800 26802	GR
+T421	GO_EXT:0004872 26842 26850	receptor
+T422	GO_EXT:0003713 26998 27025	transcriptional coactivator
+T423	GO_EXT:0008168 28333 28351	methyltransferease
+T424	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 28493 28500	binding
+T425	GO_EXT:0008168 28527 28545	methyltransferease
+T426	GO_EXT:transcription_factor 29966 29986	transcription factor
+T427	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 31424 31431	binding
+T428	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 31783 31790	binding
+T429	GO_PR_EXT:idrowth_factor_receptor 33782 33787	Dicer
+T430	GO_PR_EXT:idrowth_factor_receptor 34011 34016	Dicer

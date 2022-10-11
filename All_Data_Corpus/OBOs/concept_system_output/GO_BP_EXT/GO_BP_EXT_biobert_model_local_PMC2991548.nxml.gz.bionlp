@@ -1,0 +1,208 @@
+T21750	GO_EXT:biological_growth_entity_or_process 269 275	growth ...
+T21751	GO_EXT:biological_growth_entity_or_process 401 407	growth
+T21752	GO_EXT:neuron_development_or_generation 421 432	development
+T21753	GO_PATO_EXT:biological_behavior 438 449	behavioural ...
+T21754	GO:0051216 454 475	cognitive development
+T21755	GO:0007565 538 546	pregnant
+T21756	GO_EXT:biological_routing_or_transport 598 606	delivery
+T21757	GO_PATO_EXT:biological_behavior 867 878	behavioural
+T21758	CHEBI_GO_EXT:biological_process_or_quality_or_role 897 907	biological
+T21759	GO:0007565 1231 1239	pregnant
+T21760	GO_EXT:biological_growth_entity_or_process 1479 1485	growth ...
+T21761	GO_EXT:biological_growth_entity_or_process 1611 1617	growth
+T21762	GO_EXT:neuron_development_or_generation 1631 1642	development
+T21763	GO_PATO_EXT:biological_behavior 1648 1659	behavioural ...
+T21764	GO:0051216 1664 1685	cognitive development
+T21765	GO:0007565 1748 1756	pregnant
+T21766	GO:0060009 2013 2019;2021 2032	growth ... development
+T21767	CHEBI_GO_EXT:biological_process_or_quality_or_role 2099 2109	biological
+T21768	GO:0060009 2172 2178;2180 2191	growth ... development
+T21769	GO_EXT:neuron_development_or_generation 2423 2434	development
+T21770	GO_EXT:biological_growth_entity_or_process 2441 2447	growth
+T21771	GO:0048513 2461 2478	organ development
+T21772	GO:0007565 2479 2488	Pregnancy
+T21773	GO:0007596 2503 2512	Postnatal
+T21774	GO_EXT:biological_growth_entity_or_process 2513 2519	growth
+T21775	GO:0051216 2661 2682	cognitive development
+T21776	GO:0006887 2683 2688	Fetal ...
+T21777	GO:0007605 2693 2702	postnatal
+T21778	GO:0007420 2703 2720	brain development
+T21779	GO_PATO_EXT:biological_behavior 2721 2732	Behavioural
+T21780	GO:0021764 2778 2800	Neuromotor development
+T21781	GO:0051216 2822 2843	cognitive development
+T21782	GO:0048568 3065 3079;3084 3097	Development of ... immune system
+T21783	GO:0007605 3466 3475	postnatal
+T21784	GO_EXT:biological_growth_entity_or_process 3476 3482	growth
+T21785	GO:0019230 3616 3624	prenatal
+T21786	GO:0007565 4490 4498	pregnant
+T21787	GO:0007567 5254 5258	born
+T21788	GO:0019230 5323 5331	prenatal
+T21789	GO_EXT:biological_routing_or_transport 5887 5895	delivery
+T21790	GO:0007565 6094 6103	pregnancy
+T21791	GO:0007565 6126 6135	pregnancy
+T21792	GO:0007565 6137 6148	gestational
+T21793	GO:0007565 6170 6179	pregnancy
+T21794	GO:0007565 6181 6192	gestational
+T21795	GO:0007565 6219 6228	pregnancy
+T21796	GO:0007565 6230 6241	gestational
+T21797	GO:0007565 6378 6387	pregnancy
+T21798	GO:0060396 6409 6419	prenatally
+T21799	GO:0007605 6902 6911	postnatal
+T21800	GO:0060009 6912 6918;6923 6934	growth ... development
+T21801	GO:0007565 7028 7039	gestational
+T21802	GO:0002542 7060 7071	postnatally
+T21803	GO:0019230 7224 7232	prenatal
+T21804	GO:0009566 7244 7256	pregnancyMid
+T21805	GO:0090381 7271 7291	pregnancyBirthMother
+T21806	GO:0007565 7609 7618	pregnancy
+T21807	GO:0007565 7620 7631	gestational
+T21808	GO:0007565 7652 7661	pregnancy
+T21809	GO:0007565 7663 7674	gestational
+T21810	GO:0007565 7697 7706	pregnancy
+T21811	GO:0007565 7708 7719	gestational
+T21812	GO:0043298 7954 7975	Airway inflammationSS
+T21813	GO_EXT:biological_routing_or_transport 8560 8568	delivery
+T21814	GO_EXT:biological_routing_or_transport 8584 8592	delivery
+T21815	GO:0007565 8670 8679	pregnancy
+T21816	GO:0007565 8681 8692	gestational
+T21817	GO:0007567 8741 8749	birth of
+T21818	GO:0019230 8847 8855	prenatal
+T21819	GO:0007565 9198 9207	pregnancy
+T21820	GO:0008150 9264 9272;9279 9284	birth of ... child
+T21821	GO:0007565 9632 9641	pregnancy
+T21822	GO:0007565 9682 9691	pregnancy
+T21823	GO:0007565 9910 9919	pregnancy
+T21824	GO:0007565 9947 9956	pregnancy
+T21825	GO:0007565 9985 9994	pregnancy
+T21826	GO:0007567 10018 10026	birth of
+T21827	GO:0007567 10033 10038	child
+T21828	GO:0007565 10063 10071	pregnant
+T21829	GO:0007565 10164 10175	pregnancies
+T21830	GO:0007565 10221 10229	pregnant
+T21831	GO:0099503 11574 11583	perinatal
+T21832	GO:0007605 11588 11597	postnatal
+T21833	GO:0007565 11849 11860	Gestational
+T21834	GO:0007565 11888 11899	pregnancy69
+T21835	GO:0007565 11905 11916	pregnancy19
+T21836	GO:0007565 11923 11933	pregnancy3
+T21837	GO:0007565 11942 11951	Pregnancy
+T21838	GO:0007565 11976 11987	pregnancy94
+T21839	GO:0007565 11993 12003	pregnancy6
+T21840	GO:0007565 12009 12019	pregnancy0
+T21841	GO:0007567 12350 12355	birth
+T21842	GO_EXT:reaction_or_response 12368 12376	response
+T21843	GO:0007567 12556 12560	born
+T21844	GO:0007567 12581 12586	birth
+T21845	GO:0007565 12788 12796	pregnant
+T21846	GO:0007565 12877 12888	pregnancies
+T21847	GO_EXT:reaction_or_response 12942 12950	response
+T21848	GO:0007565 12960 12968	pregnant
+T21849	GO:0007567 13023 13028	birth
+T21850	GO_EXT:reaction_or_response 13049 13057	response
+T21851	GO:0007567 13095 13100	birth
+T21852	GO:0007605 13131 13140	postnatal
+T21853	GO:0007567 13229 13234	birth
+T21854	GO:0007605 13291 13300	postnatal
+T21855	GO:0007567 13476 13481	birth
+T21856	GO:0007605 13524 13533	postnatal
+T21857	GO:0007605 13660 13669	postnatal
+T21858	GO:0007605 13720 13729	postnatal
+T21859	GO:0007605 13786 13795	postnatal
+T21860	GO:0019230 14215 14223	prenatal
+T21861	GO:0007565 14311 14320	pregnancy
+T21862	GO:0007565 14326 14335	pregnancy
+T21863	GO:0007565 14345 14354	pregnancy
+T21864	GO_EXT:reaction_or_response 14440 14448	response
+T21865	GO:0007565 14600 14611	gestational
+T21866	GO:0007565 14678 14689	gestational
+T21867	GO:0019230 14835 14843	prenatal
+T21868	GO:0006412 14981 14992	translation
+T21869	GO:0007565 15233 15244	pregnancies
+T21870	GO:0007565 15411 15420	pregnancy
+T21871	GO:0007565 15493 15502	pregnancy
+T21872	GO:0019230 15959 15967	prenatal
+T21873	GO_EXT:reaction_or_response 15983 15991	response
+T21874	GO:0007565 16160 16171	gestational
+T21875	GO_EXT:biological_growth_entity_or_process 16196 16202	growth
+T21876	GO:0007565 16292 16303	gestational
+T21877	GO:0061708 16343 16352	menstrual
+T21878	GO:0044350 16486 16502	menstrual cycles
+T21879	GO:0007565 16565 16574	pregnancy
+T21880	GO:0007565 16663 16672	pregnancy
+T21881	GO_EXT:biological_growth_entity_or_process 16732 16738	growth
+T21882	GO_EXT:biological_growth_entity_or_process 16778 16784	growth
+T21883	GO:0007565 16826 16835	Pregnancy
+T21884	GO:0061708 16969 16978	menstrual
+T21885	GO:0007565 17052 17063	gestational
+T21886	GO_EXT:biological_growth_entity_or_process 17122 17128	growth
+T21887	GO_EXT:biological_growth_entity_or_process 17304 17310	growth
+T21888	GO_EXT:biological_growth_entity_or_process 17412 17418	growth
+T21889	GO:0007567 17423 17428	birth
+T21890	GO_EXT:biological_growth_entity_or_process 17470 17476	growth
+T21891	GO:0061708 17632 17641	menstrual
+T21892	GO_EXT:biological_routing_or_transport 17703 17712	trimester
+T21893	GO_EXT:biological_growth_entity_or_process 17713 17719	growth
+T21894	GO:0008380 17905 17910	brain ...
+T21895	GO:0006936 17912 17919	cardiac ...
+T21896	GO:0001822 17924 17942	kidney development
+T21897	GO:0007565 17992 18001	Pregnancy
+T21898	GO:0007565 18266 18275	pregnancy
+T21899	GO:0099503 18335 18344	perinatal
+T21900	GO:0007565 18351 18360	pregnancy
+T21901	GO:0007565 18401 18412	gestational
+T21902	GO:0007567 18563 18567	born
+T21903	GO:0007567 18598 18603	birth
+T21904	GO:0007565 18615 18626	gestational
+T21905	GO:0007565 18741 18750	pregnancy
+T21906	CHEBI_GO_EXT:biological_process_or_quality_or_role 18787 18797	Biological
+T21907	GO:0007565 18852 18861	pregnancy
+T21908	GO:0007567 18869 18874	birth
+T21909	CHEBI_GO_EXT:biological_process_or_quality_or_role 18929 18939	biological
+T21910	GO:0007565 19065 19074	pregnancy
+T21911	GO:0007565 19083 19092	pregnancy
+T21912	GO_EXT:biological_routing_or_transport 19150 19158	delivery
+T21913	GO:0007567 19492 19496	born
+T21914	GO:0007567 19517 19522	birth
+T21915	GO:0001525 19801 19813	angiogenesis
+T21916	GO_EXT:biological_growth_entity_or_process 19882 19888	growth
+T21917	GO_PATO_EXT:inflammatory_process_or_quality 20015 20027	inflammation
+T21918	GO_EXT:reaction_or_response 20272 20280	Response
+T21919	GO:0007565 20354 20363	pregnancy
+T21920	GO_EXT:biological_growth_entity_or_process 22134 22140	Growth
+T21921	GO:0007605 22896 22905	postnatal
+T21922	GO:0048888 22996 23018	neuromotor development
+T21923	GO_EXT:biological_growth_entity_or_process 23116 23122	growth
+T21924	GO_EXT:reaction_or_response 23691 23699	Response
+T21925	GO_EXT:reaction_or_response 24072 24080	Response
+T21926	GO:0007605 24196 24205	postnatal
+T21927	GO:0007565 24379 24388	Pregnancy
+T21928	GO:0030537 24707 24723	Eating behaviour
+T21929	GO_PATO_EXT:biological_behavior 25037 25046	Behaviour
+T21930	GO:0050890 25051 25060	cognition
+T21931	GO:0046849 25062 25070	Sleeping
+T21932	GO:0030917 25128 25145	Motor development
+T21933	GO_PATO_EXT:biological_behavior 25158 25167	Behaviour
+T21934	GO:0045010 25206 25221	Pain perception
+T21935	GO:0021562 25235 25255	Language development
+T21936	GO:0050890 25276 25285	cognition
+T21937	GO_PATO_EXT:biological_behavior 25834 25843	Behaviour
+T21938	GO_PATO_EXT:biological_behavior 25888 25897	behaviour
+T21939	GO:0070268 25924 25933	parenting
+T21940	GO_PATO_EXT:biological_behavior 25961 25970	behaviour
+T21941	GO:0007378 26342 26360	Neurodevelopmental
+T21942	GO_PATO_EXT:biological_behavior 26941 26950	behaviour
+T21943	CHEBI_GO_EXT:biological_process_or_quality_or_role 27203 27213	Biological
+T21944	GO_EXT:reaction_or_response 27535 27543	Response
+T21945	GO_PATO_EXT:biological_behavior 27962 27973	behavioural
+T21946	CHEBI_GO_EXT:biological_process_or_quality_or_role 27991 28001	biological
+T21947	GO_PATO_EXT:biological_behavior 28232 28241	behaviour
+T21948	GO:0050890 28246 28255	cognition
+T21949	GO:0001654 28275 28278;28289 28300	eye ... development
+T21950	GO:0010088 28312 28332	vascular development
+T21951	GO:0007567 28334 28340	kidney
+T21952	GO_EXT:biological_growth_entity_or_process 28341 28347	growth
+T21953	GO:0008152 28492 28501	metabolic
+T21954	GO:0060396 29387 29397	prenatally
+T21955	GO:0007567 29399 29404	birth
+T21956	GO:0006412 31504 31513	translate
+T21957	GO:0007566 31604 31615	communicate

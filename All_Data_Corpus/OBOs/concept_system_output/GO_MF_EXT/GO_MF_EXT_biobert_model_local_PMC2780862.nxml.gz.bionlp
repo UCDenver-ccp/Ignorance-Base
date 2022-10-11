@@ -1,0 +1,79 @@
+T945	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2313 2320	binding
+T946	GO_EXT:transcription_factor 2324 2345	transcription factors
+T947	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2402 2406	bind
+T948	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2436 2443	binding
+T949	GO_EXT:0004402 2494 2522	histone deacetyltransferases
+T950	GO_EXT:0004407 2524 2529	HDACs
+T951	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2760 2767	binding
+T952	GO_EXT:transcription_factor 2771 2792	transcription factors
+T953	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2844 2851	binding
+T954	GO_EXT:transcription_factor 2855 2876	transcription factors
+T955	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3007 3011	bind
+T956	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3043 3050	binding
+T957	GO_EXT:0004407 3111 3116	HDACs
+T958	GO_EXT:0008168 3269 3287	methyltransferases
+T959	GO_EXT:0009008 3313 3335	DNA methyltransferases
+T960	CHEBI_GO_SO_EXT:enzyme 4101 4108	enzymes
+T961	GO_EXT:0004407 4386 4391	HDACs
+T962	GO_EXT:0004402 4403 4430	histone acetyl transferases
+T963	GO_EXT:0004407 4432 4436	HATs
+T964	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4772 4776	bind
+T965	GO_EXT:0042054 5570 5596	Histone methyltransferases
+T966	GO_EXT:0032452 5601 5621	histone demethylases
+T967	GO_EXT:transcription_factor 7154 7174	transcription factor
+T968	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7175 7182	binding
+T969	GO_PR_EXT:glucokinase 7621 7632	Glucokinase
+T970	CHEBI_GO_SO_EXT:enzyme 7642 7648	enzyme
+T971	GO_PR_EXT:glucokinase 7768 7779	glucokinase
+T972	GO_PR_EXT:glucokinase 7959 7970	glucokinase
+T973	CHEBI_GO_SO_EXT:enzyme 7986 7992	enzyme
+T974	GO_PR_EXT:glucokinase 8052 8063	glucokinase
+T975	GO_PR_EXT:glucokinase 8209 8220	glucokinase
+T976	GO_EXT:0008168 8530 8547	methyltransferase
+T977	GO_EXT:0032452 9410 9429	histone demethylase
+T978	GO_EXT:0030359 9536 9548	proliferator
+T979	GO_EXT:0004872 9559 9567	receptor
+T980	GO_PR_EXT:medium_chain_acyl_CoA_dehydrogenase 9574 9609	medium-chain acyl-CoA dehydrogenase
+T981	CHEBI_GO_SO_EXT:enzyme 9816 9823	enzymes
+T982	GO_EXT:0004407 9947 9952	HDACs
+T983	GO_EXT:0003878 10210 10227	ATP-citrate lyase
+T984	CHEBI_GO_SO_EXT:enzyme 10234 10240	enzyme
+T985	GO_EXT:0003878 10459 10476	ATP-citrate lyase
+T986	CHEBI_GO_EXT:hormone 10572 10579	hormone
+T987	GO_EXT:0005152 12271 12278	insulin
+T988	GO_EXT:0015216 12279 12287	promoter
+T989	GO_EXT:transcription_factor 12308 12328	transcription factor
+T990	GO_EXT:0004355 14191 14195	GLUT
+T991	GO_EXT:transcription_factor 14266 14286	transcription factor
+T992	GO_EXT:0004679 14605 14633	AMP-activated protein kinase
+T993	GO_EXT:0004683 15069 15108	Ca+/calmodulin-dependent protein kinase
+T994	GO_PR_EXT:catalase 15110 15114	CaMK
+T995	GO_EXT:0003713 15845 15872	transcriptional coactivator
+T996	GO_EXT:0042054 16938 16963	histone methyltransferase
+T997	GO_EXT:0004407 17078 17083	HDACs
+T998	GO_EXT:0004407 17151 17155	HDAC
+T999	GO_EXT:0042054 17869 17894	histone methyltransferase
+T1000	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 17932 17939	binding
+T1001	GO_EXT:transcription_factor 18337 18358	transcription factors
+T1002	GO_EXT:0004407 18523 18528	HDACs
+T1003	GO_EXT:0004743 18861 18876	pyruvate kinase
+T1004	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 19121 19125	bind
+T1005	GO_EXT:0004409 19140 19143	HAT
+T1006	GO_EXT:0005050 19655 19665	recruiting
+T1007	GO_EXT:0008168 19666 19683	methyltransferase
+T1008	GO_EXT:0004409 19857 19860	HAT
+T1009	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 20180 20187	binding
+T1010	GO_EXT:transcription_factor 21027 21047	transcription factor
+T1011	GO_EXT:transcription_factor 21668 21688	transcription factor
+T1012	GO_EXT:0005125 21918 21927	cytokines
+T1013	GO_EXT:0018697 22116 22130	cyclooxygenase
+T1014	GO_EXT:0042800 22153 22190	histone H3 lysine 4 methyltransferase
+T1015	GO_EXT:0050641 22628 22653	H3K9me3 methyltransferase
+T1016	GO_EXT:0032452 22668 22687	histone demethylase
+T1017	GO_EXT:0032451 22709 22720	demethylase
+T1018	GO_EXT:0008454 23935 23938	NF-
+T1019	GO_EXT:0042054 24557 24574	histone methylase
+T1020	GO_EXT:0032452 24588 24607	histone demethylase
+T1021	CHEBI_GO_EXT:histone_deacetylase_inhibitor 24974 24989	HDAC inhibitors
+T1022	GO_EXT:0004407 25154 25158	HDAC
+T1023	CHEBI_GO_EXT:histone_deacetylase_inhibitor 25275 25290	HDAC inhibitors

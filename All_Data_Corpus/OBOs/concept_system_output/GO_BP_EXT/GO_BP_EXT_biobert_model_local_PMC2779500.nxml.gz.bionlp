@@ -1,0 +1,90 @@
+T14576	GO:0007267 227 242	cell signalling
+T14577	GO_EXT:interferon_gamma_biosynthesis_or_production 247 256	infection
+T14578	GO:0065007 257 264	control
+T14579	GO:0070231 551 567	T-cell apoptosis
+T14580	GO:0045163 1498 1518	cellular respiration
+T14581	GO:0007267 1573 1587	cell signaling
+T14582	GO:0065007 1600 1610	regulation
+T14583	GO_EXT:biological_growth_entity_or_process 1628 1634	growth
+T14584	GO_EXT:secretion_entity_or_process 1666 1675	secretion
+T14585	GO:0006811 1677 1690	ion transport
+T14586	GO_EXT:transcription 1692 1705	transcription
+T14587	GO:0042551 1707 1722	neuromodulation
+T14588	GO:0006915 1728 1737	apoptosis
+T14589	GO:0008283 1933 1957	proliferation of T cells
+T14590	GO:0010226 1962 1983	immunological defence
+T14591	GO:0007565 2220 2229	transfers
+T14592	GO_EXT:biological_routing_or_transport 2246 2255	transport
+T14593	GO:0008152 2397 2408	metabolized
+T14594	GO_EXT:transcription 2622 2635	transcription
+T14595	GO_EXT:positive_regulation 2648 2659	upregulates
+T14596	GO:0009987 2668 2686	cellular processes
+T14597	GO:0008283 2698 2716	cell proliferation
+T14598	GO:0006915 2721 2730	apoptosis
+T14599	GO:0016265 2931 2938	defence
+T14600	GO:0060004 3350 3356	remove
+T14601	GO:0006281 3618 3624	repair
+T14602	GO_EXT:reaction_or_response 3783 3790	respond
+T14603	GO:0019042 3839 3854	proinflammatory
+T14604	GO:0010467 3855 3870	gene expression
+T14605	GO:0006412 3926 3936	translated
+T14606	GO:0007568 3951 3960	signaling
+T14607	GO_EXT:biological_growth_entity_or_process 4019 4025	growth
+T14608	GO_EXT:reaction_or_response 4083 4091	response
+T14609	GO_PATO_EXT:inflammatory_process_or_quality 4095 4107	inflammatory
+T14610	GO_EXT:biological_growth_entity_or_process 4109 4115	growth
+T14611	GO_PATO_EXT:apoptotic_process_or_quality 4132 4141	apoptotic
+T14612	GO:0006915 4334 4343	apoptosis
+T14613	GO_PATO_EXT:inflammatory_process_or_quality 4511 4523	inflammatory
+T14614	GO_EXT:reaction_or_response 4877 4885	response
+T14615	GO:0006915 5047 5056	apoptosis
+T14616	GO_EXT:transcription 5079 5092	transcription
+T14617	GO:0006260 5270 5281	replication
+T14618	GO:0007631 5748 5754	intake
+T14619	GO:0031298 5773 5786	malabsorption
+T14620	GO:0007099 7289 7298;7309 7321	mother-to ... transmission
+T14621	GO:0019230 7764 7772	prenatal
+T14622	GO:0006272 11690 11707;11710 11711	activation of NF- ... B
+T14623	GO:0019049 11830 11847	virion production
+T14624	GO:0019049 11887 11904	virion production
+T14625	GO:0031099 12077 12091	ROS generation
+T14626	GO:0007623 12189 12210	production of virions
+T14627	GO:0065007 12247 12254	control
+T14628	GO:0006099 12268 12273	cycle
+T14629	GO_EXT:transcription 12702 12715	transcription
+T14630	GO_EXT:transcription 12746 12759	transcription
+T14631	GO_EXT:killing 12900 12910	eliminated
+T14632	GO_EXT:killing 13476 13486	eliminated
+T14633	GO:0007631 13739 13745	intake
+T14634	GO:0007631 14009 14020	consumption
+T14635	GO_EXT:transcription 14099 14112	transcription
+T14636	CHEBI_GO_EXT:biological_process_or_quality_or_role 15280 15292	biologically
+T14637	GO:0007601 15398 15408	production
+T14638	GO:0034205 15414 15420	of ROS
+T14639	GO:0000003 15606 15618	reproductive
+T14640	CHEBI_GO_EXT:biological_process_or_quality_or_role 16113 16125	biologically
+T14641	CHEBI_GO_EXT:biological_process_or_quality_or_role 16347 16359	biologically
+T14642	GO_EXT:transcription 18055 18068	transcription
+T14643	GO:0022617 18136 18150	H2O2scavenging
+T14644	GO_EXT:transcription 22719 22732	transcription
+T14645	GO:0065007 24578 24585	control
+T14646	CHEBI_GO_EXT:biological_process_or_quality_or_role 24990 25002	biologically
+T14647	GO_PATO_EXT:physiological_process_or_quality 31335 31350	physiologically
+T14648	GO_PATO_EXT:biological_behavior 32921 32930	behaviour
+T14649	GO:0007631 34898 34904	intake
+T14650	GO:0007631 35912 35918	intake
+T14651	GO:0006260 36456 36465	replicate
+T14652	GO:0000003 37896 37908	reproductive
+T14653	GO_EXT:reaction_or_response 38919 38927	response
+T14654	GO_EXT:reaction_or_response 39712 39720	response
+T14655	GO:0000003 41245 41257	reproductive
+T14656	GO:0072535 41684 41698	ROS production
+T14657	GO:0072535 41780 41794	ROS production
+T14658	GO_PATO_EXT:physiological_process_or_quality 42303 42316	physiological
+T14659	GO_PATO_EXT:physiological_process_or_quality 42681 42694	physiological
+T14660	GO:0007631 44402 44415	immunological
+T14661	GO_EXT:reaction_or_response 44416 44424	response
+T14662	GO_PATO_EXT:biological_behavior 44624 44633	behaviour
+T14663	GO_PATO_EXT:biological_behavior 49781 49790	behaviour
+T14664	GO:0030223 49843 49858	pharmacokinetic
+T14665	GO_EXT:killing 50121 50132	elimination

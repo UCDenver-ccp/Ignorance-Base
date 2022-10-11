@@ -1,0 +1,228 @@
+T17982	GO:0061730 55 63	Geophagy
+T17983	CHEBI_GO_EXT:biological_process_or_quality_or_role 145 155	biological
+T17984	CHEBI_GO_EXT:biological_process_or_quality_or_role 231 241	biological
+T17985	GO:0007566 383 392	ingestion
+T17986	GO:0007565 406 414	geophagy
+T17987	GO:0007566 457 466	ingestion
+T17988	GO:0065007 539 546	control
+T17989	CHEBI_GO_EXT:biological_process_or_quality_or_role 547 557	biological
+T17990	CHEBI_GO_EXT:biological_process_or_quality_or_role 962 972	biological
+T17991	GO:0007566 1210 1219	ingestion
+T17992	GO:0007565 1232 1240	geophagy
+T17993	GO_EXT:biological_mover_or_transporter 1727 1738	transported
+T17994	GO_EXT:biological_mover_or_transporter 1857 1868	transported
+T17995	GO:0061730 2142 2150	Geophagy
+T17996	GO:0007565 2249 2257	geophagy
+T17997	GO:0061730 2299 2307	Geophagy
+T17998	GO:0007631 2385 2392	consume
+T17999	GO:0098754 2479 2487	detoxify
+T18000	GO:0007565 2584 2592	geophagy
+T18001	CHEBI_GO_EXT:biological_process_or_quality_or_role 2871 2878	biology
+T18002	GO_PATO_EXT:biological_behavior 3515 3524	behaviors
+T18003	CHEBI_GO_EXT:biological_process_or_quality_or_role 4717 4724	biology
+T18004	GO:0008150 4782 4802	biological processes
+T18005	GO_EXT:reaction_or_response 4870 4878	response
+T18006	CHEBI_GO_EXT:biological_process_or_quality_or_role 4970 4980	biological
+T18007	GO:0008152 5074 5082	modifies
+T18008	GO:0007565 5402 5410	geophagy
+T18009	GO_EXT:reaction_or_response 5659 5668	responses
+T18010	GO:0007608 6154 6161	of soil
+T18011	CHEBI_GO_EXT:biological_process_or_quality_or_role 6267 6277	biological
+T18012	CHEBI_GO_EXT:biological_process_or_quality_or_role 6379 6389	biological
+T18013	GO:0043047 6419 6429	weathering
+T18014	GO_EXT:biological_growth_entity_or_process 6634 6640	growth
+T18015	GO_EXT:biological_growth_entity_or_process 8056 8062	growth
+T18016	GO:0007631 8164 8175	consumption
+T18017	GO_EXT:biological_mover_or_transporter 9655 9666	transported
+T18018	GO:0015757 9754 9768	dust transport
+T18019	GO_EXT:biological_routing_or_transport 10281 10295	transportation
+T18020	GO_EXT:biological_routing_or_transport 11146 11155	transport
+T18021	GO_EXT:biological_mover_or_transporter 12241 12252	transported
+T18022	GO_EXT:biological_mover_or_transporter 12329 12340	transported
+T18023	GO_EXT:biological_routing_or_transport 13757 13771	transportation
+T18024	GO:0001783 14984 15015	formation of fibroblastic cells
+T18025	GO:0051072 15039 15060	formation of collagen
+T18026	CHEBI_GO_EXT:biological_process_or_quality_or_role 15596 15606	biological
+T18027	GO_EXT:reaction_or_response 15901 15909	response
+T18028	GO_EXT:biological_growth_entity_or_process 16105 16111	growth
+T18029	GO_PATO_EXT:biological_adhesion_or_attachedness 17204 17210	adhere
+T18030	GO:0009294 17281 17287	travel
+T18031	GO_EXT:biological_mover_or_transporter 17602 17613	transported
+T18032	GO:0042267 17889 17896	Colony-
+T18033	GO_EXT:biological_routing_or_transport 18350 18359	transport
+T18034	GO_EXT:killing 19598 19609	saprophytic
+T18035	GO:0006099 19834 19839	cycle
+T18036	GO:0007631 20267 20274	inhaled
+T18037	GO_EXT:fatality_or_lethality 21159 21164	fatal
+T18038	GO:0050890 21970 21977	cooking
+T18039	GO:0065007 22297 22314	Ingestion of Soil
+T18040	GO:0061730 22316 22324	Geophagy
+T18041	GO:0007565 22447 22455	geophagy
+T18042	GO:0007565 22504 22512	geophagy
+T18043	GO:0007631 22562 22573	consumption
+T18044	GO:0007565 22754 22762	geophagy
+T18045	GO_PATO_EXT:biological_behavior 22780 22788	behavior
+T18046	GO:0007631 22881 22889	consumed
+T18047	GO:0098754 23034 23045	detoxifying
+T18048	GO:0006887 23479 23483	Eats
+T18049	GO:0007565 23845 23853	geophagy
+T18050	GO:0007567 23873 23876	eat
+T18051	GO_EXT:biological_growth_entity_or_process 23964 23970	growth
+T18052	GO:0007565 23994 24002	geophagy
+T18053	GO_PATO_EXT:biological_adhesion_or_attachedness 24152 24159	adhered
+T18054	GO:0007631 24217 24225	consumed
+T18055	GO:0040007 24267 24278	geophageous
+T18056	GO_PATO_EXT:biological_behavior 24279 24287	behavior
+T18057	GO:0007565 24351 24359	geophagy
+T18058	GO:0007565 24425 24433	geophagy
+T18059	GO:0007565 24494 24502	geophagy
+T18060	GO:0007566 24705 24714	ingestion
+T18061	GO_PATO_EXT:biological_behavior 24794 24802	behavior
+T18062	GO:0007566 24889 24898	ingestion
+T18063	GO:0007631 25063 25074	consumption
+T18064	GO:0007631 25261 25270	consuming
+T18065	GO:0007565 25506 25514	geophagy
+T18066	GO_PATO_EXT:biological_behavior 25706 25714	behavior
+T18067	GO:0016265 25797 25801	eats
+T18068	GO:0007565 25832 25840	geophagy
+T18069	GO:0007565 25857 25865	pregnant
+T18070	GO:0007567 25876 25879	eat
+T18071	GO:0019230 25922 25930	prenatal
+T18072	GO:0007565 25968 25976	geophagy
+T18073	GO_EXT:biological_mover_or_transporter 26057 26063	hunger
+T18074	GO:0007565 26083 26091	geophagy
+T18075	GO:0007565 26163 26168	eaten
+T18076	GO:0006457 27042 27055	food shopping
+T18077	GO:0007631 27118 27129	consumption
+T18078	GO_PATO_EXT:biological_behavior 27338 27346	behavior
+T18079	GO:0043652 27518 27531	domestication
+T18080	GO_EXT:fatality_or_lethality 27673 27678	fatal
+T18081	GO:0007631 27760 27769	consuming
+T18082	GO:0007565 27937 27945	geophagy
+T18083	GO:0007565 28415 28420	eaten
+T18084	GO:0061730 28595 28603	Geophagy
+T18085	GO_PATO_EXT:biological_behavior 28628 28636	behavior
+T18086	GO:0007631 28661 28668	consume
+T18087	GO:0061730 28777 28785	Geophagy
+T18088	GO:0007565 28846 28854	geophagy
+T18089	GO:0007568 28900 28906	eating
+T18090	GO:0007565 28972 28980	geophagy
+T18091	GO:0007565 28996 29004	pregnant
+T18092	GO:0007565 29048 29056	geophagy
+T18093	GO:0007566 29280 29289	ingestion
+T18094	GO:0007565 29556 29564	geophagy
+T18095	GO:0098754 29879 29890	detoxifying
+T18096	GO:0061730 29988 29996	Geophagy
+T18097	GO:0007565 30469 30477	geophagy
+T18098	GO:0007565 30521 30529	geophagy
+T18099	GO:0007565 30533 30542	pregnancy
+T18100	GO_PATO_EXT:biological_behavior 30593 30601	behavior
+T18101	GO:0007565 30649 30658	pregnancy
+T18102	GO_PATO_EXT:biological_behavior 30715 30723	behavior
+T18103	GO:0007565 30725 30733	geophagy
+T18104	GO:0007565 30741 30750	pregnancy
+T18105	GO:0007631 30849 30857	consumed
+T18106	GO:0007565 31000 31009	pregnancy
+T18107	GO:0007565 31058 31066	geophagy
+T18108	GO:0007567 31121 31126	natal
+T18109	GO:0007565 31191 31200	pregnancy
+T18110	GO:0007565 31209 31217	geophagy
+T18111	GO_PATO_EXT:biological_adhesion_or_attachedness 31287 31301;31308 31327	development of ... skeletal structures
+T18112	GO:0007565 31360 31369	pregnancy
+T18113	GO:0007631 31408 31414	intake
+T18114	GO:0007565 31584 31592	geophagy
+T18115	GO:0007631 31991 32004	immunological
+T18116	GO_EXT:reaction_or_response 32005 32013	response
+T18117	CHEBI_GO_EXT:biological_process_or_quality_or_role 32578 32588	Biological
+T18118	CHEBI_GO_EXT:biological_process_or_quality_or_role 32965 32975	biological
+T18119	CHEBI_GO_EXT:biological_process_or_quality_or_role 33128 33138	biological
+T18120	GO:0008152 33181 33199	metabolic pathways
+T18121	GO_EXT:biological_growth_entity_or_process 33287 33293	growth
+T18122	GO:0008150 33783 33803	biological processes
+T18123	CHEBI_GO_EXT:biological_process_or_quality_or_role 33837 33847	biological
+T18124	GO:0007567 34037 34040	eat
+T18125	CHEBI_GO_EXT:biological_process_or_quality_or_role 34385 34395	biological
+T18126	GO:0010035 34415 34426;34437 34450	response of ... immune system
+T18127	GO_EXT:reaction_or_response 34729 34736	respond
+T18128	GO_EXT:reaction_or_response 34850 34859	responses
+T18129	GO:0030263 35789 35800	parturition
+T18130	GO_EXT:biological_routing_or_tranformant 35834 35842	transfer
+T18131	GO_EXT:breeding 36016 36024	breathed
+T18132	GO:0007631 36170 36178	ingested
+T18133	GO:0007565 36206 36214	geophagy
+T18134	GO:0007568 36221 36227	eating
+T18135	GO:0007565 36309 36317	geophagy
+T18136	GO:0007631 36464 36472	ingested
+T18137	GO:0048841 37870 37880	epigenesis
+T18138	GO:0065007 38062 38070	regulate
+T18139	GO:0008150 38106 38126	biological processes
+T18140	GO:0006955 38349 38364	immune response
+T18141	GO:0065007 38728 38739	controlling
+T18142	GO_EXT:biological_growth_entity_or_process 38744 38750	growth
+T18143	GO:0065007 38793 38803	regulating
+T18144	GO:0008150 38808 38828	biological processes
+T18145	GO:0065007 39051 39059	controls
+T18146	GO:0007631 39683 39696	immunological
+T18147	GO_EXT:reaction_or_response 39697 39705	response
+T18148	CHEBI_GO_EXT:biological_process_or_quality_or_role 40837 40849	Biologically
+T18149	GO:0002834 41137 41150;41155 41168	regulation of ... immune system
+T18150	CHEBI_GO_EXT:biological_process_or_quality_or_role 41280 41290	biological
+T18151	GO:0007631 41549 41556	inhaled
+T18152	GO_EXT:reaction_or_response 41706 41713	respond
+T18153	GO_EXT:reaction_or_response 41765 41773	reaction
+T18154	GO_PATO_EXT:inflammatory_process_or_quality 41789 41801	inflammation
+T18155	GO:0006955 41971 41986	immune response
+T18156	GO_EXT:reaction_or_response 42282 42289	respond
+T18157	GO:0008152 42388 42397	metabolic
+T18158	GO:0065007 42426 42435	regulated
+T18159	GO_EXT:reaction_or_response 42575 42583	responds
+T18160	GO:0010035 42835 42846;42851 42864	response of ... immune system
+T18161	GO:0010467 43822 43837	gene expression
+T18162	GO_MOP_EXT:methylation 43871 43882	methylation
+T18163	GO:0048841 44039 44049	epigenesis
+T18164	GO:0065007 44113 44124	controlling
+T18165	CHEBI_GO_EXT:biological_process_or_quality_or_role 44202 44214	biologically
+T18166	GO:0010467 44266 44276	expression
+T18167	GO_MOP_EXT:methylation 44335 44346	methylation
+T18168	GO:0070989 44377 44390	demethylation
+T18169	GO:0006306 44469 44484	DNA methylation
+T18170	GO:0016346 44497 44522	modifications of histones
+T18171	GO:0065007 44558 44565	control ...
+T18172	GO:0010184 44570 44589	regulation of genes
+T18173	GO_MOP_EXT:developmental_differentiation_process 44617 44630	Demethylation
+T18174	GO_PATO_EXT:biological_behavior 44709 44717	behavior
+T18175	GO_RO_EXT:developmental_differentiation_process 44833 44848	differentiation
+T18176	GO:0065007 44852 44862	controlled
+T18177	GO:0048841 45098 45108	epigenesis
+T18178	GO:0071514 45295 45305	imprinting
+T18179	GO_MOP_EXT:methylation 45483 45494	methylation
+T18180	GO:0098761 45598 45608	conception
+T18181	GO_EXT:reaction_or_response 45712 45719	respond
+T18182	GO:0065007 45887 45896	regulated
+T18183	GO:0007565 46083 46092	pregnancy
+T18184	GO:0006260 46395 46408	maternal care
+T18185	GO_MOP_EXT:methylation 46458 46469	methylation
+T18186	GO_EXT:reaction_or_response 46582 46590	response
+T18187	GO:0006306 46786 46801	DNA methylation
+T18188	GO_MOP_EXT:methylation 46914 46925	methylation
+T18189	GO:0006306 47121 47136	DNA methylation
+T18190	GO_MOP_EXT:methylation 47189 47200	methylation
+T18191	GO:0006306 47294 47309	DNA methylation
+T18192	GO:0048468 47412 47433;47446 47451	methylation of DNA of ... cells
+T18193	GO:0044747 47601 47619	methylation of DNA
+T18194	GO:0070989 47674 47687	demethylation
+T18195	GO:0006306 47795 47810	DNA methylation
+T18196	GO:0006306 47922 47937	DNA methylation
+T18197	GO:0034205 48098 48111;48122 48145	production of ... reactive oxygen species
+T18198	GO:0097476 48340 48354;48359 48362	methylation of ... DNA
+T18199	GO:0043470 48377 48392	hypomethylation
+T18200	GO:0006306 48420 48435	DNA methylation
+T18201	GO:0065007 48793 48801	regulate
+T18202	GO_PATO_EXT:physiological_process_or_quality 48816 48829	physiological
+T18203	GO:0065007 48848 48856	regulate
+T18204	GO_EXT:reaction_or_response 48868 48877	responses
+T18205	CHEBI_GO_EXT:biological_process_or_quality_or_role 49050 49060	biological
+T18206	GO_EXT:reaction_or_response 49061 49069	response
+T18207	CHEBI_GO_EXT:biological_process_or_quality_or_role 49418 49428	biological
+T18208	CHEBI_GO_EXT:biological_process_or_quality_or_role 49939 49949	biological
+T18209	GO_PATO_EXT:biological_behavior 50320 50329	behaviors

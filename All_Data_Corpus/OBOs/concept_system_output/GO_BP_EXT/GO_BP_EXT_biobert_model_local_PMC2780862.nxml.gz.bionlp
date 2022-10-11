@@ -1,0 +1,285 @@
+T14666	GO:0007568 129 134	aging
+T14667	GO:0065007 825 835	regulation
+T14668	GO:0006909 1045 1051	passed
+T14669	GO:0007067 1090 1097	mitotic
+T14670	GO:0007126 1149 1156	meiotic
+T14671	GO:0006304 1634 1650	DNA methylations
+T14672	GO:0016570 1652 1673	histone modifications
+T14673	GO_RO_EXT:developmental_differentiation_process 1752 1765	differentiate
+T14674	GO:0006306 1863 1878	DNA methylation
+T14675	GO:0016570 1883 1903	histone modification
+T14676	GO:0006306 2122 2137	DNA methylation
+T14677	GO:0006306 2158 2173	DNA methylation
+T14678	GO:0006342 2193 2218	transcriptional silencing
+T14679	GO:0016458 2262 2271	silencing
+T14680	GO_EXT:transcription 2324 2337	transcription
+T14681	GO_EXT:biological_recruitment 2364 2374	recruiting
+T14682	GO_MOP_EXT:methylation 2410 2420	methylated
+T14683	GO_EXT:biological_recruitment 2486 2493	recruit
+T14684	GO:0006306 2602 2617	DNA methylation
+T14685	GO:0010467 2621 2636	gene expression
+T14686	GO:0006306 2664 2679	DNA methylation
+T14687	GO_EXT:transcription 2771 2784	transcription
+T14688	GO:0006306 2803 2818	DNA methylation
+T14689	GO_EXT:transcription 2855 2868	transcription
+T14690	GO:0006306 2910 2925	DNA methylation
+T14691	GO_EXT:transcription 2966 2979	transcription
+T14692	GO_MOP_EXT:methylation 3015 3025	methylated
+T14693	GO_EXT:biological_recruitment 3103 3110	recruit
+T14694	GO_EXT:transcription 3121 3136	transcriptional
+T14695	GO:0006306 3228 3243	DNA methylation
+T14696	GO:0006306 3361 3376	DNA methylation
+T14697	GO:0006260 3417 3428	replication
+T14698	GO_MOP_EXT:methylation 3442 3453	methylation
+T14699	GO:0044747 3513 3531	methylation of DNA
+T14700	GO:0097271 3561 3581	demethylation of DNA
+T14701	GO:0016570 4082 4100	histone- modifying
+T14702	GO:0007369 4123 4134	acetylation
+T14703	GO_MOP_EXT:methylation 4136 4147	methylation
+T14704	GO_PATO_EXT:phosphorylation_process 4149 4164	phosphorylation
+T14705	GO:0051923 4166 4177	sumoylation
+T14706	GO:0016567 4182 4196	ubiquitination
+T14707	GO_EXT:transcription 4289 4302	transcription
+T14708	GO:0006260 4328 4339	replication
+T14709	GO_SO_EXT:sequence_rearrangement_process 4341 4354	recombination
+T14710	GO:0016573 4566 4585	histone acetylation
+T14711	GO_EXT:transcription 4616 4629	transcription
+T14712	GO_EXT:transcription 4662 4675	transcription
+T14713	GO_EXT:transcription 4839 4854	transcriptional
+T14714	GO:0016573 4894 4913	histone acetylation
+T14715	GO_EXT:transcription 5026 5041	transcriptional
+T14716	GO_EXT:transcription 5064 5077	transcription
+T14717	GO:0016570 5196 5217	histone modifications
+T14718	GO:0065007 5240 5248	regulate
+T14719	GO_EXT:transcription 5249 5262	transcription
+T14720	GO:0036124 5272 5291	Histone acetylation
+T14721	GO_EXT:biological_recruitment 5301 5308	recruit
+T14722	GO_EXT:transcription 5346 5361	transcriptional
+T14723	GO:0010424 5379 5398	Histone methylation
+T14724	GO_EXT:transcription 5420 5435	transcriptional
+T14725	GO_MOP_EXT:methylation 5491 5502	methylation
+T14726	GO:0006306 5698 5713	DNA methylation
+T14727	GO:0016570 5718 5739	histone modifications
+T14728	GO:0007568 5914 5919	aging
+T14729	GO:0007568 5921 5926	Aging
+T14730	GO:0042544 6321 6338	respiratory chain
+T14731	GO:0042544 6391 6408	respiratory chain
+T14732	GO:0010467 6435 6445	expression
+T14733	GO:0006306 6493 6508	DNA methylation
+T14734	GO:0006306 6526 6541	DNA methylation
+T14735	GO:0010467 6676 6691	gene expression
+T14736	GO:0046323 6799 6813	glucose uptake
+T14737	GO:0006306 6876 6891	DNA methylation
+T14738	GO:0010467 6893 6908	gene expression
+T14739	GO:0008152 6935 6945	metabolism
+T14740	GO:0006306 7098 7113	DNA methylation
+T14741	GO_EXT:transcription 7154 7167	transcription
+T14742	GO:0006306 7240 7255	DNA methylation
+T14743	GO:0010467 7267 7282	gene expression
+T14744	GO:0008152 7306 7316	metabolism
+T14745	GO:0006306 7434 7449	DNA methylation
+T14746	GO:0008152 7511 7521	metabolism
+T14747	GO:0007568 7594 7599	aging
+T14748	GO:0006096 7660 7679	glucose utilization
+T14749	GO_PATO_EXT:aging_or_agedness 7891 7895	aged
+T14750	GO:0010467 7971 7981	expression
+T14751	GO:0006306 8029 8044	DNA methylation
+T14752	GO_PATO_EXT:aging_or_agedness 8099 8103	aged
+T14753	GO_MOP_EXT:developmental_differentiation_process 8159 8171	demethylated
+T14754	GO:0010467 8221 8231	expression
+T14755	GO:0006306 8266 8281	DNA methylation
+T14756	GO:0065007 8301 8311	regulation
+T14757	GO:0007568 8394 8399	aging
+T14758	GO:0043413 8433 8449	hypermethylation
+T14759	GO:0043486 8493 8515	hypomethylation of DNA
+T14760	GO:0010467 8567 8577	expression
+T14761	GO:0043486 8619 8641	hypomethylation of DNA
+T14762	GO:0007568 8717 8722	aging
+T14763	GO:0043470 8762 8777	hypomethylation
+T14764	GO:0043413 8893 8909	hypermethylation
+T14765	GO:0007568 8978 8983	aging
+T14766	GO:0008152 9183 9193	metabolism
+T14767	GO:0043584 9210 9234	epigenetic modifications
+T14768	GO:0010467 9477 9487	expression
+T14769	GO:0008152 9491 9504	metabolically
+T14770	GO:0010467 9681 9691	expression
+T14771	GO:1902241 9847 9868	control of metabolism
+T14772	GO:0065007 10054 10063	regulates
+T14773	GO:0008152 10072 10090	metabolic pathways
+T14774	GO:0060612 10101 10113	adipogenesis
+T14775	GO_EXT:biogenesis_or_biosynthesis 10129 10139	biogenesis
+T14776	GO:0006096 10141 10160	glucose utilization
+T14777	GO_EXT:secretion_entity_or_process 10189 10198	secretion
+T14778	GO:0065007 10246 10255	regulates
+T14779	GO:0006883 10332 10355	acetylation of histones
+T14780	GO:0016573 10433 10452	histone acetylation
+T14781	GO:0008152 10518 10528	metabolism
+T14782	GO:0065007 10543 10553	regulation
+T14783	GO:0046903 10580 10588	secreted
+T14784	GO:0065007 10610 10619	regulates
+T14785	GO:0051320 10620 10628	appetite
+T14786	GO:0097009 10633 10651	energy homeostasis
+T14787	GO:0010467 10673 10682	expressed
+T14788	GO:0010467 10716 10726	expression
+T14789	GO_RO_EXT:developmental_differentiation_process 10764 10779	differentiating
+T14790	GO:0006306 10908 10923	DNA methylation
+T14791	GO:0010467 10961 10971	expression
+T14792	GO_MOP_EXT:developmental_differentiation_process 11006 11018	demethylated
+T14793	GO:0010467 11056 11069	expression in
+T14794	GO:0030154 11070 11090	differentiated cells
+T14795	GO:0006306 11135 11150	DNA methylation
+T14796	GO:0010468 11303 11316;11324 11334	regulation of ... expression
+T14797	GO:0010467 11404 11419	gene expression
+T14798	GO:0038001 11567 11586	paracrine-signaling
+T14799	GO_MOP_EXT:methylation 11781 11791	methylated
+T14800	GO:0065007 11792 11801	regulates
+T14801	GO:0010467 11809 11819	expression
+T14802	GO:0007565 11907 11915	pregnant
+T14803	GO:0006306 12003 12018	DNA methylation
+T14804	GO:0010467 12073 12083	expression
+T14805	GO_EXT:transcription 12308 12321	transcription
+T14806	GO:0065007 12329 12339	regulating
+T14807	GO:0003323 12340 12360	pancreas development
+T14808	GO:0030154 12365 12387	β-cell differentiation
+T14809	GO_EXT:biological_growth_entity_or_process 12483 12489	growth
+T14810	GO:0016458 12595 12604	silencing
+T14811	GO:0007567 12755 12759	born
+T14812	GO:0019230 12835 12843	prenatal
+T14813	GO:0019230 12958 12966	prenatal
+T14814	GO:0060396 13101 13111	prenatally
+T14815	GO:0006306 13155 13170	DNA methylation
+T14816	GO:0071514 13178 13187	imprinted
+T14817	GO:0006306 13224 13239	DNA methylation
+T14818	GO:0007565 13426 13435	pregnancy
+T14819	GO:0042593 13472 13491	glucose homeostasis
+T14820	GO:0016049 13765 13786	Histone modifications
+T14821	GO:0010467 14100 14110	expression
+T14822	GO:0065007 14137 14145	regulate
+T14823	GO:0046323 14146 14160	glucose uptake
+T14824	GO:0010467 14227 14237	expression
+T14825	GO:0065007 14249 14258	regulated
+T14826	GO_EXT:transcription 14266 14279	transcription
+T14827	GO_EXT:negative_regulation 14447 14459	deacetylated
+T14828	GO:0010467 14545 14555	expression
+T14829	GO_PATO_EXT:phosphorylation_process 14587 14601	phosphorylated
+T14830	GO:0006289 14662 14670	exported
+T14831	GO_EXT:transcription 14882 14897	transcriptional
+T14832	GO:0010467 14928 14938	expression
+T14833	GO:0016570 14977 14998	histone modifications
+T14834	GO:0010468 15018 15031;15038 15048	regulation of ... expression
+T14835	GO:0065007 15130 15138	modulate
+T14836	GO:0016573 15157 15176	histone acetylation
+T14837	GO_EXT:reaction_or_response 15180 15188	response
+T14838	GO:0010467 15223 15238	gene expression
+T14839	CHEBI_GO_EXT:biological_process_or_quality_or_role 15404 15414	biological
+T14840	GO:0016570 15459 15480	histone modifications
+T14841	GO_EXT:transcription 15845 15860	transcriptional
+T14842	GO:0010467 15894 15909	gene expression
+T14843	GO:0045333 15940 15960	oxidative metabolism
+T14844	GO:0006306 15995 16010	DNA methylation
+T14845	GO:0010467 16161 16171	expression
+T14846	GO:0006306 16246 16261	DNA methylation
+T14847	GO:0010467 16290 16300	expression
+T14848	GO_EXT:secretion_entity_or_process 16355 16364	secretion
+T14849	GO:0065007 16440 16448	regulate
+T14850	GO:0010467 16449 16464	gene expression
+T14851	GO_EXT:secretion_entity_or_process 16492 16501	secretion
+T14852	GO:0010468 16587 16600;16609 16624	regulation of ... gene expression
+T14853	GO:0016265 16641 16646	cells
+T14854	GO:0010422 16686 16702	hyperacetylation
+T14855	GO:0043413 16713 16729	hypermethylation
+T14856	GO_EXT:biological_recruitment 16975 16984	recruited
+T14857	GO:0001822 17094 17116	pancreatic development
+T14858	GO:0009790 17174 17195	embryonic development
+T14859	GO:0008283 17413 17433	β-cell proliferation
+T14860	GO:0007567 17449 17454	birth
+T14861	GO:0008283 17456 17476	β-cell proliferation
+T14862	GO:0042751 17507 17515	adaption
+T14863	GO:0010467 17609 17619	expression
+T14864	GO:0030168 17679 17698	β-cell regeneration
+T14865	GO:0007568 17702 17707	aging
+T14866	GO:0010467 17744 17754	expression
+T14867	GO:0070400 17833 17847	trimethylation
+T14868	GO:0006289 17954 17957	H2A
+T14869	GO:0016567 17958 17972	ubiquitylation
+T14870	GO:0008283 18178 18198	β-cell proliferation
+T14871	GO_EXT:transcription 18337 18350	transcription
+T14872	GO:0065007 18443 18451	regulate
+T14873	GO_EXT:transcription 18452 18465	transcription
+T14874	GO_EXT:transcription 18546 18559	transcription
+T14875	GO_EXT:biological_recruitment 18598 18609	recruitment
+T14876	GO_EXT:transcription 18625 18638	transcription
+T14877	GO:0006338 18657 18677	chromatin remodeling
+T14878	GO:0006338 18708 18728	chromatin remodeling
+T14879	GO_EXT:biological_recruitment 18738 18749	recruitment
+T14880	GO:0030964 18789 18817	hyperacetylation of histones
+T14881	GO:0010467 19246 19256	expression
+T14882	GO:0065007 19285 19295	regulation
+T14883	GO:0010422 19354 19370	hyperacetylation
+T14884	GO:0010467 19488 19498	expression
+T14885	GO_EXT:biological_recruitment 19506 19517	recruitment
+T14886	GO_EXT:transcription 19559 19572	transcription
+T14887	GO:0098761 19587 19612	methylation of histone H3
+T14888	GO_EXT:biological_recruitment 19655 19665	recruiting
+T14889	GO:0065007 19753 19761	modulate
+T14890	GO:0048513 20005 20019;20024 20032	development of ... pancreas
+T14891	GO:0065007 20037 20046	regulates
+T14892	GO_EXT:transcription 20051 20064	transcription
+T14893	GO:0016568 20273 20296	chromatin modifications
+T14894	GO:0006306 20423 20438	DNA methylation
+T14895	GO_EXT:biological_growth_entity_or_process 20577 20583	growth
+T14896	GO:0043470 20815 20830	hypomethylation
+T14897	GO_EXT:transcription 21027 21040	transcription
+T14898	GO:0043470 21085 21100	hypomethylation
+T14899	GO:0071514 21135 21144	imprinted
+T14900	GO_PATO_EXT:inflammatory_process_or_quality 21307 21319	inflammation
+T14901	GO:0010467 21335 21345	expression
+T14902	GO_PATO_EXT:inflammatory_process_or_quality 21349 21361	inflammatory
+T14903	GO_PATO_EXT:inflammatory_process_or_quality 21623 21635	inflammation
+T14904	GO_EXT:transcription 21668 21681	transcription
+T14905	GO:0065007 21689 21699	regulating
+T14906	GO:0010467 21700 21710	expression
+T14907	GO_PATO_EXT:inflammatory_process_or_quality 21732 21744	inflammatory
+T14908	GO:0006097 21819 21835	glycemic control
+T14909	GO:0010467 21886 21901	gene expression
+T14910	GO_PATO_EXT:inflammatory_process_or_quality 21905 21917	inflammatory
+T14911	GO:0065007 21944 21954	regulation
+T14912	GO:0010422 22033 22049	hyperacetylation
+T14913	GO_PATO_EXT:necrosis 22086 22094	necrosis
+T14914	GO_EXT:biological_recruitment 22221 22232	recruitment
+T14915	GO:0065007 22280 22290	regulation
+T14916	GO:0019042 22294 22309	proinflammatory
+T14917	GO:0000234 22423 22429	lysine
+T14918	8 22430 22431	9
+T14919	GO:0070400 22432 22446	trimethylation
+T14920	GO:0070924 22448 22455	H3K9me3
+T14921	GO:0000238 22491 22499	lysine 4
+T14922	GO:0070490 22500 22513	dimethylation
+T14923	GO:0051216 22515 22522	H3K4me2
+T14924	GO_PATO_EXT:inflammatory_process_or_quality 22544 22556	inflammatory
+T14925	GO:0010467 22764 22778	overexpression
+T14926	GO:0016458 22880 22894	gene silencing
+T14927	GO:0010467 22965 22975	expression
+T14928	GO_PATO_EXT:inflammatory_process_or_quality 22979 22991	inflammatory
+T14929	GO:0070490 23076 23089	dimethylation
+T14930	GO:0019042 23231 23246	proinflammatory
+T14931	GO:0065007 23273 23281	regulate
+T14932	GO:0010467 23282 23297	gene expression
+T14933	GO_PATO_EXT:inflammatory_process_or_quality 23338 23350	inflammation
+T14934	GO:0006097 23370 23386	glycemic control
+T14935	GO:0007631 23579 23592	modifications
+T14936	GO:0065007 23941 23950	regulated
+T14937	GO:0010467 23951 23966	gene expression
+T14938	GO:0010467 24197 24207	expression
+T14939	GO:0019953 24382 24403	superoxide production
+T14940	GO:0010467 24437 24450	overexpressed
+T14941	GO:0065007 24619 24627	regulate
+T14942	GO:0007631 24741 24754	modifications
+T14943	GO:0001501 24806 24819	hyperglycemic
+T14944	GO:0007613 24820 24826	memory
+T14945	GO:0033314 25195 25225	histone acetylation of histone
+T14946	GO:0008219 25356 25366	cell death
+T14947	GO:0010467 25433 25448	gene expression
+T14948	GO:0043584 25658 25682	epigenetic modifications
+T14949	GO:0016570 25993 26014	histone modifications
+T14950	GO:0006306 26019 26034	DNA methylation

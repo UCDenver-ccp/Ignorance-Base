@@ -1,0 +1,270 @@
+T2478	SO_EXT:epigenetic_modification_entity_or_process 0 11	Epigenetics
+T2479	SO_EXT:0001026 256 262	genome
+T2480	SO_EXT:0000704 316 323	genetic
+T2481	SO_EXT:sequence_variant_entity 324 332	variants
+T2482	SO_EXT:sequence_variation_entity_or_quality 374 383	variation
+T2483	SO_EXT:epigenetic_modification_entity_or_process 483 493	epigenetic
+T2484	SO_EXT:0000704 535 540	genes
+T2485	SO_EXT:epigenetic_modification_entity_or_process 743 753	epigenetic
+T2486	SO_EXT:epigenetic_modification_entity_or_process 814 824	epigenetic
+T2487	SO_EXT:epigenetic_modification_entity_or_process 880 891	epigenetics
+T2488	SO_EXT:0000704 939 943	gene
+T2489	SO_EXT:sequence_alteration_entity_or_process 974 980	change
+T2490	CHEBI_SO_EXT:nucleotide 988 998	nucleotide
+T2491	SO_EXT:biological_sequence 999 1007	sequence
+T2492	SO_EXT:epigenetic_modification_entity_or_process 1013 1037	Epigenetic modifications
+T2493	SO_EXT:epigenetic_modification_entity_or_process 1210 1234	epigenetic modifications
+T2494	SO_EXT:epigenetic_modification_entity_or_process 1357 1367	epigenetic
+T2495	SO_EXT:epigenetic_modification_entity_or_process 1422 1432	epigenetic
+T2496	SO_EXT:epigenetic_modification_entity_or_process 1607 1617	Epigenetic
+T2497	CHEBI_SO_EXT:DNA 1634 1637	DNA
+T2498	SO_EXT:sequence_alteration_entity_or_process 1660 1673	modifications
+T2499	SO_EXT:0000276 1679 1688	microRNAs
+T2500	CHEBI_SO_EXT:DNA 1744 1747	DNA
+T2501	CHEBI_SO_EXT:DNA 1863 1866	DNA
+T2502	SO_EXT:sequence_alteration_entity_or_process 1891 1903	modification
+T2503	SO_EXT:epigenetic_modification_entity_or_process 1996 2006	epigenetic
+T2504	CHEBI_SO_EXT:dinucleotide 2092 2105	dinucleotides
+T2505	CHEBI_SO_EXT:DNA 2122 2125	DNA
+T2506	CHEBI_SO_EXT:DNA 2158 2161	DNA
+T2507	GO_SO_EXT:chromosome 2244 2254	chromosome
+T2508	CHEBI_SO_EXT:DNA 2602 2605	DNA
+T2509	SO_EXT:0000704 2621 2625	gene
+T2510	CHEBI_SO_EXT:DNA 2664 2667	DNA
+T2511	SO_EXT:0000704 2683 2687	gene
+T2512	SO_EXT:0000167 2688 2697	promoters
+T2513	SO_EXT:0000704 2736 2741	genes
+T2514	CHEBI_SO_EXT:DNA 2803 2806	DNA
+T2515	SO_EXT:0000167 2822 2831	promoters
+T2516	SO_EXT:0000704 2899 2904	genes
+T2517	CHEBI_SO_EXT:DNA 2910 2913	DNA
+T2518	SO_EXT:gene_product 2929 2943	gene promoters
+T2519	SO_EXT:0000704 2961 2965	gene
+T2520	SO_EXT:0000704 3221 3226	genes
+T2521	CHEBI_SO_EXT:DNA 3228 3231	DNA
+T2522	CHEBI_SO_EXT:DNA 3313 3316	DNA
+T2523	SO_EXT:sequence_copy_entity 3350 3356	copies
+T2524	CHEBI_SO_EXT:DNA 3361 3364	DNA
+T2525	CHEBI_SO_EXT:DNA 3528 3531	DNA
+T2526	CHEBI_SO_EXT:DNA 3578 3581	DNA
+T2527	SO_EXT:genomic_DNA 3653 3664	Genomic DNA
+T2528	SO_EXT:0000028 3843 3853	base pairs
+T2529	CHEBI_SO_EXT:DNA 3857 3860	DNA
+T2530	SO:0000357 3945 3952	flanked
+T2531	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 4044 4056	NH2-terminal
+T2532	SO_EXT:sequence_alteration_process 4070 4078	modified
+T2533	SO_EXT:sequence_alteration_process 4091 4100	modifying
+T2534	CHEBI_GO_SO_EXT:enzyme 4101 4108	enzymes
+T2535	SO_EXT:sequence_alteration_entity_or_process 4209 4222	modifications
+T2536	CHEBI_SO_EXT:DNA 4278 4281	DNA
+T2537	GO_SO_EXT:sequence_rearrangement_process 4341 4354	recombination
+T2538	GO_SO_EXT:chromosome 4360 4371	chromosomal
+T2539	CHEBI_SO_EXT:lysine 4459 4465	lysine
+T2540	SO_EXT:0000704 4611 4615	gene
+T2541	CHEBI_SO_EXT:lysine 4704 4710	lysine
+T2542	CHEBI_SO_EXT:DNA 4796 4799	DNA
+T2543	CHEBI_SO_EXT:DNA 5014 5017	DNA
+T2544	SO_EXT:sequence_alteration_entity_or_process 5204 5217	modifications
+T2545	SO_EXT:0002035 5520 5526	lysine ...
+T2546	CHEBI_SO_EXT:arginine 5534 5542	arginine
+T2547	SO_EXT:sequence_alteration_process 5552 5560	modified
+T2548	CHEBI_SO_EXT:DNA 5698 5701	DNA
+T2549	SO_EXT:sequence_alteration_entity_or_process 5726 5739	modifications
+T2550	SO_EXT:0001026 5745 5751	genome
+T2551	SO_EXT:epigenetic_modification_entity_or_process 5831 5842	epigenetics
+T2552	SO_EXT:epigenetic_modification_entity_or_process 5884 5894	Epigenetic
+T2553	SO_EXT:0000704 6165 6172	genetic
+T2554	SO_EXT:epigenetic_modification_entity_or_process 6237 6247	epigenetic
+T2555	SO_EXT:0000704 6308 6313	genes
+T2556	CHEBI_SO_EXT:DNA 6493 6496	DNA
+T2557	CHEBI_SO_EXT:DNA 6526 6529	DNA
+T2558	SO_EXT:0000167 6556 6564	promoter
+T2559	SO_EXT:0000704 6676 6680	gene
+T2560	SO_EXT:0000673 6716 6726	transcript
+T2561	CHEBI_SO_EXT:DNA 6876 6879	DNA
+T2562	SO_EXT:0000704 6893 6897	gene
+T2563	SO_EXT:0000853 6971 6981	nongenetic
+T2564	SO_EXT:epigenetic_modification_entity_or_process 6986 6996	epigenetic
+T2565	SO_EXT:0000704 7035 7042	genetic
+T2566	SO_EXT:polymorphism 7062 7074	polymorphism
+T2567	CHEBI_SO_EXT:DNA 7098 7101	DNA
+T2568	CHEBI_SO_EXT:dinucleotide 7125 7137	dinucleotide
+T2569	SO_EXT:0000235 7154 7187	transcription factor binding site
+T2570	SO_EXT:0000167 7202 7210	promoter
+T2571	CHEBI_SO_EXT:DNA 7240 7243	DNA
+T2572	SO_EXT:0000704 7267 7271	gene
+T2573	SO_EXT:0000704 7398 7405	genetic
+T2574	SO_EXT:polymorphism 7407 7419	polymorphism
+T2575	SO_EXT:epigenetic_modification_entity_or_process 7422 7432	epigenetic
+T2576	CHEBI_SO_EXT:DNA 7434 7437	DNA
+T2577	SO_EXT:0000853 7456 7466	nongenetic
+T2578	CHEBI_GO_SO_EXT:enzyme 7642 7648	enzyme
+T2579	SO_EXT:sequence_alteration_entity_or_process 7751 7760	Mutations
+T2580	SO_EXT:0000704 7780 7784	gene
+T2581	CHEBI_GO_SO_EXT:enzyme 7986 7992	enzyme
+T2582	CHEBI_SO_EXT:DNA 8029 8032	DNA
+T2583	SO_EXT:0000167 8064 8072	promoter
+T2584	CHEBI_SO_EXT:DNA 8140 8143	DNA
+T2585	CHEBI_SO_EXT:DNA 8266 8269	DNA
+T2586	SO_EXT:0000704 8320 8324	gene
+T2587	SO_EXT:0000704 8419 8423	gene
+T2588	CHEBI_SO_EXT:DNA 8512 8515	DNA
+T2589	CHEBI_SO_EXT:DNA 8638 8641	DNA
+T2590	SO_EXT:sequence_repeat_unit_or_region 8653 8663	repetitive
+T2591	SO_EXT:biological_sequence 8664 8673	sequences
+T2592	SO_EXT:0001026 8690 8697	genomic
+T2593	SO_EXT:0000704 8790 8795	genes
+T2594	SO_EXT:0000812 8803 8818	proto-oncogenes
+T2595	SO_EXT:0000704 8930 8935	genes
+T2596	SO_EXT:0001026 8987 8993	genome
+T2597	SO_EXT:epigenetic_modification_entity_or_process 8999 9018	epigenetic patterns
+T2598	SO_EXT:epigenetic_modification_entity_or_process 9210 9234	epigenetic modifications
+T2599	SO_EXT:0000704 9512 9517	genes
+T2600	SO_EXT:epigenetic_modification_entity_or_process 9759 9769	epigenetic
+T2601	CHEBI_GO_SO_EXT:enzyme 9816 9823	enzymes
+T2602	SO_EXT:epigenetic_modification_entity_or_process 9836 9846	epigenetic
+T2603	CHEBI_SO_EXT:nonanucleotide 9889 9909	adenine dinucleotide
+T2604	CHEBI_GO_SO_EXT:enzyme 10234 10240	enzyme
+T2605	SO_EXT:epigenetic_modification_entity_or_process 10532 10542	epigenetic
+T2606	CHEBI_SO_EXT:mRNA 10754 10760	marker
+T2607	SO_EXT:0000167 10806 10814	promoter
+T2608	CHEBI_SO_EXT:DNA 10908 10911	DNA
+T2609	SO_EXT:0000167 10938 10946	promoter
+T2610	SO_EXT:0000167 10994 11002	promoter
+T2611	CHEBI_SO_EXT:DNA 11135 11138	DNA
+T2612	SO_EXT:0000302 11158 11161	CpG
+T2613	SO_EXT:0000061 11162 11166	site
+T2614	SO_EXT:0000167 11181 11189	promoter
+T2615	SO_EXT:epigenetic_modification_entity_or_process 11292 11302	epigenetic
+T2616	SO_EXT:0000704 11404 11408	gene
+T2617	SO_EXT:epigenetic_modification_entity_or_process 11461 11485	epigenetic modifications
+T2618	SO_EXT:0000704 11552 11556	gene
+T2619	SO_EXT:sequence_coding_function 11557 11564	encodes
+T2620	SO_EXT:0000704 11773 11777	gene
+T2621	CHEBI_SO_EXT:DNA 12003 12006	DNA
+T2622	SO_EXT:0000704 12026 12030	gene
+T2623	SO_EXT:epigenetic_modification_entity_or_process 12235 12259	epigenetic modifications
+T2624	SO_EXT:0000167 12279 12287	promoter
+T2625	SO_EXT:sequence_alteration_entity_or_process 12393 12402	mutations
+T2626	SO_EXT:0000704 12411 12415	gene
+T2627	SO_EXT:microsatellite_unit_or_region 12428 12437	monogenic
+T2628	SO_EXT:epigenetic_modification_entity_or_process 12584 12594	epigenetic
+T2629	SO_EXT:epigenetic_modification_entity_or_process 12723 12733	epigenetic
+T2630	SO_EXT:epigenetic_modification_entity_or_process 12994 13012	epigenetic changes
+T2631	CHEBI_SO_EXT:DNA 13155 13158	DNA
+T2632	SO_EXT:0000704 13204 13209	genes
+T2633	CHEBI_SO_EXT:DNA 13224 13227	DNA
+T2634	SO_EXT:0000704 13286 13291	genes
+T2635	SO_EXT:epigenetic_modification_entity_or_process 13573 13583	epigenetic
+T2636	SO_EXT:epigenetic_modification_entity_or_process 13724 13742	epigenetic changes
+T2637	SO:0001728 13765 13772	Histone
+T2638	SO_EXT:sequence_alteration_entity_or_process 13773 13786	modifications
+T2639	SO_EXT:0000704 14126 14131	genes
+T2640	SO_EXT:0001060 14196 14203	isoform
+T2641	SO_EXT:0000165 14295 14303	enhancer
+T2642	SO_EXT:0000704 14430 14434	gene
+T2643	SO_EXT:0000704 14867 14871	gene
+T2644	SO_EXT:sequence_alteration_entity_or_process 14985 14998	modifications
+T2645	SO_EXT:0000704 15223 15227	gene
+T2646	SO_EXT:sequence_alteration_entity_or_process 15467 15480	modifications
+T2647	SO_EXT:epigenetic_modification_entity_or_process 15534 15552	Epigenetic changes
+T2648	SO_EXT:epigenetic_modification_entity_or_process 15642 15652	epigenetic
+T2649	SO_EXT:epigenetic_modification_entity_or_process 15768 15786	epigenetic changes
+T2650	SO_EXT:0000704 15894 15898	gene
+T2651	CHEBI_SO_EXT:DNA 15995 15998	DNA
+T2652	SO_EXT:0000167 16027 16035	promoter
+T2653	CHEBI_SO_EXT:DNA 16246 16249	DNA
+T2654	SO_EXT:epigenetic_modification_entity_or_process 16414 16424	epigenetic
+T2655	SO_EXT:0000704 16449 16453	gene
+T2656	SO_EXT:epigenetic_modification_entity_or_process 16576 16586	epigenetic
+T2657	SO_EXT:0000704 16609 16613	gene
+T2658	SO_EXT:0000704 16672 16676	gene
+T2659	CHEBI_SO_EXT:lysine 16739 16745	lysine
+T2660	SO_EXT:0000704 16767 16772	genes
+T2661	SO_EXT:epigenetic_modification_entity 16789 16805	epigenetic marks
+T2662	SO_EXT:0000704 16834 16838	gene
+T2663	SO_EXT:0000167 17000 17008	promoter
+T2664	SO_EXT:0000704 17025 17029	gene
+T2665	SO_EXT:epigenetic_modification_entity 17290 17306	epigenetic marks
+T2666	SO_EXT:0000704 17322 17326	gene
+T2667	CHEBI_SO_EXT:lysine 17823 17829	lysine
+T2668	SO_EXT:sequence_variant_or_variation 18021 18028	variant
+T2669	SO_EXT:sequence_variant_or_variation 18141 18148	variant
+T2670	SO_EXT:epigenetic_modification_entity_or_process 18256 18266	epigenetic
+T2671	SO_EXT:sequence_alteration_entity_or_process 18309 18318	mutations
+T2672	SO_EXT:0000704 18322 18327	genes
+T2673	SO_EXT:sequence_coding_function 18328 18336	encoding
+T2674	SO_EXT:0000704 18482 18487	genes
+T2675	SO_EXT:0000167 18681 18689	promoter
+T2676	SO_EXT:0000167 18830 18839	promoters
+T2677	SO_EXT:missense_quality_or_entity 18915 18923	missense
+T2678	SO_EXT:sequence_alteration_entity_or_process 18924 18932	mutation
+T2679	SO_EXT:0000704 18954 18958	gene
+T2680	SO_EXT:sequence_alteration_entity_or_process 19058 19067	mutations
+T2681	SO_EXT:0000704 19081 19085	gene
+T2682	SO_EXT:0000704 19400 19404	gene
+T2683	SO_EXT:0000167 19405 19413	promoter
+T2684	SO_EXT:0000167 19628 19636	promoter
+T2685	SO_EXT:sequence_alteration_entity_or_process 19708 19717	mutations
+T2686	CHEBI_SO_EXT:DNA 19801 19804	DNA
+T2687	SO_EXT:0000704 19919 19924	genes
+T2688	SO_EXT:sequence_alteration_entity_or_process 20086 20094	mutation
+T2689	SO_EXT:sequence_truncation_process 20126 20135	truncated
+T2690	SO_EXT:sequence_alteration_entity_or_process 20283 20296	modifications
+T2691	CHEBI_SO_EXT:DNA 20423 20426	DNA
+T2692	GO_SO_EXT:chromosome 20764 20774	chromosome
+T2693	GO_SO_EXT:chromosome 20834 20844	chromosome
+T2694	SO_EXT:sequence_duplication_entity_or_process 20872 20883	duplication
+T2695	GO_SO_EXT:chromosome 20931 20941	chromosome
+T2696	SO_EXT:sequence_alteration_entity_or_process 21000 21009	mutations
+T2697	SO_EXT:0000704 21145 21150	genes
+T2698	SO_EXT:epigenetic_modification_entity_or_process 21175 21185	Epigenetic
+T2699	SO_EXT:0000704 21362 21367	genes
+T2700	SO_EXT:epigenetic_modification_entity_or_process 21568 21592	epigenetic modifications
+T2701	SO_EXT:0000704 21596 21601	genes
+T2702	SO_EXT:0000704 21714 21719	genes
+T2703	SO_EXT:0000704 21886 21890	gene
+T2704	SO_EXT:0000704 22060 22065	genes
+T2705	SO_EXT:0000167 22133 22142	promoters
+T2706	CHEBI_SO_EXT:lysine 22164 22170	lysine
+T2707	SO_EXT:0000704 22249 22253	gene
+T2708	SO_EXT:0000167 22254 22263	promoters
+T2709	SO_EXT:0000704 22310 22315	genes
+T2710	CHEBI_SO_EXT:lysine 22423 22429	lysine
+T2711	SO_EXT:0001707 22448 22455	H3K9me3
+T2712	CHEBI_SO_EXT:lysine 22491 22497	lysine
+T2713	SO_EXT:0001950 22515 22522	H3K4me2
+T2714	SO_EXT:0000167 22531 22540	promoters
+T2715	SO_EXT:0000704 22557 22562	genes
+T2716	SO_EXT:0001707 22628 22635	H3K9me3
+T2717	CHEBI_SO_EXT:lysine 22693 22699	lysine
+T2718	SO_EXT:0000704 22880 22884	gene
+T2719	SO_EXT:0000704 22992 22997	genes
+T2720	SO_EXT:0000704 23037 23042	genes
+T2721	CHEBI_SO_EXT:lysine 23067 23073	lysine
+T2722	SO_EXT:epigenetic_modification_entity_or_process 23209 23227	epigenetic changes
+T2723	SO_EXT:0000704 23247 23252	genes
+T2724	SO_EXT:0000704 23282 23286	gene
+T2725	SO_EXT:epigenetic_modification_entity_or_process 23568 23592	epigenetic modifications
+T2726	SO_EXT:epigenetic_modification_entity_or_process 23904 23922	epigenetic changes
+T2727	SO_EXT:0000704 23951 23955	gene
+T2728	SO_EXT:epigenetic_modification_entity_or_process 24114 24132	epigenetic changes
+T2729	SO_EXT:0000167 24140 24148	promoter
+T2730	SO_EXT:0000704 24350 24355	genes
+T2731	SO_EXT:epigenetic_modification_entity_or_process 24632 24650	epigenetic changes
+T2732	SO_EXT:0000167 24670 24678	promoter
+T2733	SO_EXT:epigenetic_modification_entity_or_process 24730 24754	epigenetic modifications
+T2734	SO_EXT:epigenetic_modification_entity_or_process 24945 24955	epigenetic
+T2735	SO_EXT:0001026 25399 25405	genome
+T2736	SO_EXT:0000704 25433 25437	gene
+T2737	SO_EXT:0000704 25453 25460	genetic
+T2738	SO_EXT:sequence_variation_entity_or_quality 25461 25470	variation
+T2739	SO_EXT:0000704 25604 25609	genes
+T2740	SO_EXT:epigenetic_modification_entity_or_process 25658 25682	epigenetic modifications
+T2741	SO_EXT:epigenetic_modification_entity_or_process 25724 25734	Epigenetic
+T2742	SO_EXT:epigenetic_modification_entity_or_process 25828 25839	epigenetics
+T2743	SO_EXT:sequence_alteration_entity_or_process 26001 26014	modifications
+T2744	CHEBI_SO_EXT:DNA 26019 26022	DNA
+T2745	SO_EXT:epigenetic_modification_entity_or_process 26144 26154	epigenetic
+T2746	SO_EXT:epigenetic_modification_entity_or_process 26302 26312	epigenetic
+T2747	SO_EXT:epigenetic_modification_entity_or_process 26456 26466	epigenetic

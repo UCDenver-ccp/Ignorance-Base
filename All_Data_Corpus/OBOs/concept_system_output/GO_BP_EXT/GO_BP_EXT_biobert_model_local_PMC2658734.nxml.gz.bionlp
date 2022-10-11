@@ -1,0 +1,321 @@
+T9204	GO:0065007 33 43	regulation
+T9205	GO:0010468 323 336;342 357;366 376	regulation of ... transcriptional ... expression
+T9206	GO:0065007 435 444	regulated
+T9207	GO:0065007 479 490	controlling
+T9208	GO:0042593 491 510	glucose homeostasis
+T9209	GO:0065007 584 591	control
+T9210	GO:0019230 662 670	prenatal
+T9211	GO:0006306 741 756	DNA methylation
+T9212	GO:0016570 761 782	histone modifications
+T9213	GO_EXT:transcription 1021 1036	transcriptional
+T9214	GO:0065007 1037 1047	regulatory
+T9215	GO:0065007 1393 1403	regulation
+T9216	GO:0010467 1470 1485	gene expression
+T9217	GO_RO_EXT:developmental_differentiation_process 1605 1620	differentiation
+T9218	GO:0030263 1636 1640	cell
+T9219	GO:0007568 1749 1755	ageing
+T9220	GO_EXT:transcription 2108 2121	transcription
+T9221	GO_EXT:transcription 2284 2295	transcribed
+T9222	GO:0006260 2326 2336	replicates
+T9223	GO:0051320 2344 2351;	S phase ...
+T9224	GO:0000084 2353 2368;2370 2372;2377 2387	synthesis phase ... of ... cell cycle
+T9225	GO:0006260 2456 2467	replication
+T9226	GO:0007067 2539 2546	mitosis
+T9227	GO:0007067 3091 3098	mitosis
+T9228	GO:0007126 3103 3110	meiosis
+T9229	GO:0065007 3142 3149	control
+T9230	GO:0010467 3150 3160	expression
+T9231	GO:0043182 3324 3356	post-translational modifications
+T9232	GO_MOP_EXT:methylation 3381 3392	methylation
+T9233	GO_PATO_EXT:phosphorylation_process 3418 3433	phosphorylation
+T9234	GO:0016567 3438 3452	ubiquitination
+T9235	GO:0010467 3484 3499	gene expression
+T9236	GO:0006323 3511 3524	DNA packaging
+T9237	GO:0010467 3717 3726	expressed
+T9238	GO:0065007 3931 3941	controlled
+T9239	GO:0006306 3979 3994	DNA methylation
+T9240	GO:0016570 3999 4020	histone modifications
+T9241	GO:0010467 4034 4049	gene expression
+T9242	GO:0065007 4169 4179	regulation
+T9243	GO_EXT:biological_routing_or_tranformant 4218 4226	transfer
+T9244	GO_MOP_EXT:methylation 4307 4318	Methylation
+T9245	GO:0010467 4375 4390	gene expression
+T9246	GO:0036124 4398 4417	Histone acetylation
+T9247	GO:0010468 4449 4478	regulation of gene expression
+T9248	GO:0006900 4480 4495	Hyperacetylated
+T9249	GO_EXT:transcription 4509 4526	transcriptionally
+T9250	GO:0043486 4542 4556	hypoacetylated
+T9251	GO:0016458 4648 4662	gene silencing
+T9252	GO:0007079 4770 4808	chromosomal segregation during mitosis
+T9253	GO:0090670 4827 4842	telomere fusion
+T9254	GO:0065007 4869 4878	regulates
+T9255	GO:0010467 4879 4894	gene expression
+T9256	GO:0016458 4942 4951	silencing
+T9257	GO:0016458 4975 4984	silencing
+T9258	GO:0010467 4998 5013	gene expression
+T9259	GO:0065007 5059 5069	regulatory
+T9260	GO_PATO_EXT:physiological_process_or_quality 5116 5127	physiologic
+T9261	GO:0016265 5138 5143	cells
+T9262	GO:0065007 5474 5484	regulatory
+T9263	GO:0016570 5535 5556	histone modifications
+T9264	GO:0016458 5561 5575	gene-silencing
+T9265	GO:0008360 5634 5647;	regulation of ...
+T9266	GO_EXT:transcription 5653 5666	transcription
+T9267	GO:0006412 5667 5678	translation
+T9268	GO:0006306 5834 5849	DNA methylation
+T9269	GO:0065007 6114 6124	regulatory
+T9270	GO_MOP_EXT:methylation 6286 6297	methylation
+T9271	GO:0065007 6372 6381	modulates
+T9272	GO_EXT:transcription 6408 6421	transcription
+T9273	GO_EXT:transcription 6451 6466	transcriptional
+T9274	GO:0010467 6517 6532	gene expression
+T9275	GO:0044390 6549 6564	hypermethylated
+T9276	GO:0010467 6624 6639	gene expression
+T9277	GO:0043486 6666 6680	hypomethylated
+T9278	GO_EXT:transcription 6803 6816	transcription
+T9279	GO:0065007 6817 6827	regulation
+T9280	GO_MOP_EXT:methylation 6843 6854	methylation
+T9281	GO:1904258 6900 6912	DNA assembly
+T9282	GO:0043182 6980 7012	post-translational modifications
+T9283	GO:0006415 7194 7221	translational modifications
+T9284	GO:0007369 7233 7244	acetylation
+T9285	GO_MOP_EXT:methylation 7246 7257	methylation
+T9286	GO_PATO_EXT:phosphorylation_process 7283 7298	phosphorylation
+T9287	GO:0016567 7303 7317	ubiquitination
+T9288	GO:0016049 7373 7394	Histone modifications
+T9289	GO:0016570 7517 7538	histone modifications
+T9290	GO:0065007 7604 7614	regulation
+T9291	GO:0016570 7648 7668	histone modification
+T9292	GO_MOP_EXT:methylation 7826 7837	methylation
+T9293	GO:0016458 7912 7920	silenced
+T9294	GO_MOP_EXT:methylation 7975 7998	methylation of lysine 4
+T9295	GO:0034971 8002 8012	histone H3
+T9296	GO:0006306 8234 8249	DNA methylation
+T9297	GO:0016570 8254 8275	histone modifications
+T9298	GO:0006306 8315 8330	DNA methylation
+T9299	GO:0016575 8382 8403	histone deacetylation
+T9300	GO:0098761 8405 8430	methylation of histone H3
+T9301	GO:0065007 8649 8658	modulated
+T9302	GO:0010467 8674 8689	gene expression
+T9303	GO:0065007 8848 8858	regulation
+T9304	GO:0006371 9011 9019	MicroRNA
+T9305	GO_EXT:biogenesis_or_biosynthesis 9020 9030	biogenesis
+T9306	GO_EXT:transcription 9061 9072	transcribed
+T9307	GO:0065007 9276 9286	regulatory
+T9308	GO:0065007 9312 9319	control
+T9309	GO:0002244 9363 9398	haematopoietic cell differentiation
+T9310	GO:0006915 9405 9414	apoptosis
+T9311	GO:0008283 9421 9439	cell proliferation
+T9312	GO:0048513 9444 9461	organ development
+T9313	GO:0065007 9670 9678	regulate
+T9314	GO_EXT:transcription 9756 9771	transcriptional
+T9315	GO:0065007 9772 9782	regulatory
+T9316	GO:0065007 9991 10001	regulation
+T9317	GO_EXT:secretion_entity_or_process 10259 10268	secretion
+T9318	GO_EXT:transcription 10285 10298	transcription
+T9319	GO_EXT:biological_release 10346 10353	release
+T9320	GO_RO_EXT:developmental_differentiation_process 10506 10521	differentiation
+T9321	GO:0007565 10616 10625	glycation
+T9322	GO_EXT:reaction_or_response 10655 10663	response
+T9323	GO:0006915 10707 10716	apoptosis
+T9324	GO:0007219 10830 10846	Notch signalling
+T9325	GO:0010467 10851 10860	expressed
+T9326	GO:0009790 10962 10980	embryo development
+T9327	GO:0007567 11004 11014	signalling
+T9328	GO_EXT:biogenesis_or_biosynthesis 11060 11080	Biogenesis of miRNAs
+T9329	GO_EXT:transcription 11191 11202	transcribed
+T9330	GO:0031319 11220 11223	3′-
+T9331	GO:0043099 11224 11238	polyadenylated
+T9332	GO:0006412 11783 11788	miRNA
+T9333	GO:0051168 11789 11802;11807 11814	export out of ... nucleus
+T9334	GO_EXT:biological_release 12027 12034	release
+T9335	GO:0006412 12183 12188	miRNA
+T9336	GO:0016458 12197 12206	silencing
+T9337	GO:0065007 12689 12697	modulate
+T9338	GO:0010467 12698 12702;12715 12725	gene ... expression
+T9339	GO:0006402 12818 12834	mRNA degradation
+T9340	GO3 12971 12973	′-
+T9341	GO:0006412 12973 12985	untranslated
+T9342	GO:0017031 13021 13028	protein
+T9343	GO:0006412 13029 13040	translation
+T9344	GO:0006412 13109 13122	translational
+T9345	GO:0007595 13165 13175	elongation
+T9346	GO:0006302 13177 13196	degradation of mRNA
+T9347	GO:0017031 13213 13220	protein
+T9348	GO:0006298 13233 13237	mRNA
+T9349	GO:0006412 13268 13281	translational
+T9350	GO:0043631 13308 13321	deadenylation
+T9351	GO:0065007 13462 13472	regulation
+T9352	GO:0010467 13508 13518	expression
+T9353	GO:0042476 13553 13560	genesis
+T9354	GO_EXT:transcription 13604 13615	transcribed
+T9355	GO:0003015 13677 13686	processes
+T9356	GO:0006289 13757 13765	exported
+T9357	GO_EXT:biological_release 13898 13905	release
+T9358	GO:0006402 14108 14124	mRNA degradation
+T9359	GO:0017031 14149 14156	protein
+T9360	GO:0006412 14157 14168	translation
+T9361	GO:0006412 14219 14232	translational
+T9362	GO:0007595 14275 14285	elongation
+T9363	GO:0006302 14287 14306	degradation of mRNA
+T9364	GO:0006412 14381 14394	translational
+T9365	GO:0043631 14418 14431	deadenylation
+T9366	GO_EXT:transcription 14508 14523	transcriptional
+T9367	GO:0010467 14544 14559	gene expression
+T9368	GO:0008152 14603 14612	metabolic
+T9369	GO:0016560 14837 14877	protein post-translational modifications
+T9370	GO:0065007 14997 15007	regulatory
+T9371	GO:0065007 15514 15524	regulation
+T9372	GO_EXT:transcription 15534 15549	transcriptional
+T9373	GO:0065007 15975 15985	regulation
+T9374	GO:0042476 16025 16032	genomic
+T9375	GO:0006306 16033 16048	DNA methylation
+T9376	GO:0006306 16770 16785	DNA methylation
+T9377	GO_MOP_EXT:methylation 16827 16837	methylated
+T9378	GO_EXT:positive_regulation 16842 16854	unmethylated
+T9379	GO_MOP_EXT:methylation 16971 16981	methylated
+T9380	GO:0006304 17261 17313	DNA methylationMethodDescriptionReferenceMethylation
+T9381	GO_MOP_EXT:methylation 17410 17421	methylation
+T9382	GO_MOP_EXT:methylation 17685 17695	Methylated
+T9383	GO_MOP_EXT:methylation 17784 17794	methylated
+T9384	GO_MOP_EXT:methylation 17861 17872	methylation
+T9385	GO_MOP_EXT:methylation 17958 17968	methylated
+T9386	GO_MOP_EXT:methylation 18157 18168	Methylation
+T9387	GO_MOP_EXT:methylation 18254 18265	methylation
+T9388	GO_MOP_EXT:methylation 18362 18372	methylated
+T9389	GO_EXT:positive_regulation 18379 18391	unmethylated
+T9390	GO_EXT:negative_regulation 18423 18436	demethylating
+T9391	GO:0010467 18448 18463	gene expression
+T9392	GO:0010467 18497 18512	gene expression
+T9393	GO_EXT:negative_regulation 18536 18549	demethylating
+T9394	GO:0010467 18588 18603	gene expression
+T9395	GO_MOP_EXT:methylation 18631 18642	methylation
+T9396	GO_MOP_EXT:methylation 19185 19196	methylation
+T9397	GO:0080111 19341 19358	DNA demethylating
+T9398	GO:0016575 19399 19420	histone deacetylation
+T9399	GO_EXT:transcription 19453 19466	transcription
+T9400	GO:0010467 19545 19555	expression
+T9401	GO:0006306 19637 19652	DNA methylation
+T9402	GO_EXT:transcription 19697 19712	transcriptional
+T9403	GO:0006306 19725 19740	DNA methylation
+T9404	GO_EXT:transcription 19756 19769	transcription
+T9405	GO:0010467 19784 19794	expression
+T9406	GO:0065007 19929 19936	control
+T9407	GO:0065007 20006 20014	regulate
+T9408	GO:0006417 20176 20189;20205 20224	regulation of ... protein translation
+T9409	GO:0010467 20268 20278	expression
+T9410	GO:0010467 20395 20405	expression
+T9411	GO:0007618 21205 21214	marketing
+T9412	GO:0010467 21337 21352	gene expression
+T9413	GO:0002002 22942 22956;22961 22976	degradation of ... miRNA molecules
+T9414	GO_EXT:biological_routing_or_transport 23505 23514	targeting
+T9415	GO:0009294 24194 24206	transfecting
+T9416	GO_RO_EXT:developmental_differentiation_process 24463 24478	differentiation
+T9417	GO:0065007 24515 24525	regulation
+T9418	GO:0065007 24549 24559	modulating
+T9419	GO:0065007 24615 24625	regulatory
+T9420	GO:0008152 24709 24718	metabolic
+T9421	GO_EXT:secretion_entity_or_process 24872 24881	secretion
+T9422	GO_EXT:secretion_entity_or_process 24957 24966	secretion
+T9423	GO:0006306 25180 25195	DNA methylation
+T9424	GO:0007631 25240 25246	tuning
+T9425	GO:0010467 25251 25261	expression
+T9426	GO:0006306 25427 25442	DNA methylation
+T9427	GO_EXT:biological_direction_or_guidance 25451 25459	directed
+T9428	GO:0008152 25667 25677	metabolism
+T9429	CHEBI_GO_EXT:biological_process_or_quality_or_role 25714 25724	biological
+T9430	GO_MOP_EXT:methylation 25725 25736	methylation
+T9431	GO:0009790 25755 25776	embryonic development
+T9432	GO:0070989 25809 25822	demethylation
+T9433	GO_EXT:reaction_or_response 25835 25848	remethylation
+T9434	GO:0006306 25866 25881	DNA methylation
+T9435	GO:0008283 25933 25955	cellular proliferation
+T9436	GO:0009790 26015 26036	embryonic development
+T9437	GO:0006306 26070 26085	DNA methylation
+T9438	GO:0008152 26335 26344	metabolic
+T9439	GO:0016568 26503 26526	chromatin modifications
+T9440	GO:0007565 26707 26715	pregnant
+T9441	GO:0043470 26747 26762	hypomethylation
+T9442	GO_EXT:transcription 26998 27013	transcriptional
+T9443	GO:0010467 27059 27069	expression
+T9444	GO:0006754 27107 27121	ATP production
+T9445	GO:0006119 27150 27175	oxidative phosphorylation
+T9446	GO:0006306 27241 27256	DNA methylation
+T9447	GO:0010467 27377 27387	expression
+T9448	GO_EXT:secretion_entity_or_process 27400 27409	secretion
+T9449	GO:0006306 27541 27556	DNA methylation
+T9450	GO:0030702 27663 27688	Heterochromatin silencing
+T9451	GO:0033152 27693 27721;27738 27751	histone H3-K9 methylation of ... transcription
+T9452	GO:0065007 27893 27903	regulation
+T9453	GO:0051332 27943 27953;27958 27968	S-phase of ... cell cycle
+T9454	GO:0006306 28026 28041	DNA methylation
+T9455	GO:0010467 28086 28101	gene expression
+T9456	GO:0007568 28171 28177	ageing
+T9457	GO:0010467 28204 28219	gene expression
+T9458	GO_EXT:regulator 28289 28298	regulator
+T9459	GO:0002402 28313 28324;28333 28359	assembly of ... methyltransferease complex
+T9460	GO_EXT:transcription 28393 28406	Transcription
+T9461	GO:0006906 28469 28478	localizes
+T9462	GO_EXT:biological_recruitment 28514 28522	recruits
+T9463	GO_EXT:regulator 28611 28621	regulators
+T9464	GO:0044390 28872 28887	hypermethylated
+T9465	GO:0016458 28892 28900	silenced
+T9466	GO:0016246 29042 29058	RNA interference
+T9467	GO:0006306 29068 29083	DNA methylation
+T9468	GO_EXT:reaction_or_response 29118 29127	responses
+T9469	GO_EXT:interferon_gamma_biosynthesis_or_production 29225 29240	insulin release
+T9470	GO:0065007 29241 29251	regulation
+T9471	GO:0008152 29318 29327	metabolic
+T9472	GO:2000188 29328 29361	regulation of glucose homeostasis
+T9473	GO_EXT:secretion_entity_or_process 29549 29558	secretion
+T9474	GO:0010467 29605 29615	expression
+T9475	GO:0034383 29760 29776	F-actin assembly
+T9476	GO:0036301 29792 29805;29814 29822	exocytosis of ... granules
+T9477	GO:0040007 29908 29915	glucose ...
+T9478	GO_EXT:interferon_gamma_biosynthesis_or_production 29927 29942	insulin release
+T9479	GO_EXT:negative_regulation 29946 29961	down-regulating
+T9480	GO_EXT:transcription 29966 29979	transcription
+T9481	GO:0010467 30038 30048	expression
+T9482	GO:0065007 30123 30134	controlling
+T9483	GO_EXT:interferon_gamma_biosynthesis_or_production 30135 30150	insulin release
+T9484	GO:0065007 30367 30375	regulate
+T9485	GO:0065007 30418 30429	controlling
+T9486	GO:0010467 30510 30520	expression
+T9487	GO:0002120 30717 30757	Notch signalling pathway gene expression
+T9488	GO:0065007 30971 30981	regulatory
+T9489	GO_EXT:biological_growth_entity_or_process 31061 31066	Notch
+T9490	GO:0007229 31121 31140	signalling cascades
+T9491	GO:0048821 31153 31171;31176 31187	cell specification ... development
+T9492	GO:0065007 31234 31243	regulated
+T9493	GO_EXT:negative_regulation 31244 31263	negative regulatory
+T9494	GO:0065007 31379 31389	regulatory
+T9495	GO:0065007 31594 31602	regulate
+T9496	GO:0007567 31609 31619	signalling
+T9497	GO:0065007 31686 31694	regulate
+T9498	GO_RO_EXT:developmental_differentiation_process 31732 31747	differentiation
+T9499	GO:0008152 31855 31865	metabolism
+T9500	GO:0036268 31873 31882	endocrine
+T9501	GO:0065007 31961 31968	control
+T9502	GO:0016055 31973 31976;31987 32005	Wnt ... signalling pathway
+T9503	GO:0016055 32039 32042;32053 32063	Wnt ... signalling
+T9504	GO:0065007 32064 32073	regulates
+T9505	GO:0001822 32094 32105	nephrogenic
+T9506	GO:0001822 32129 32147	kidney development
+T9507	GO:0065007 32165 32175	regulatory
+T9508	CHEBI_GO_EXT:biological_process_or_quality_or_role 32309 32319	biological
+T9509	GO:0051349 32342 32358	passage of water
+T9510	GO:0065007 32369 32378	molecules
+T9511	GO:0006306 32915 32930	DNA methylation
+T9512	GO:0010467 33085 33095	expression
+T9513	GO:0006412 33332 33337	miRNA
+T9514	GO:0065007 33338 33348	regulation
+T9515	GO:0006915 33500 33509	apoptosis
+T9516	GO:0007567 33567 33572	birth
+T9517	GO:0016265 33693 33698	death
+T9518	GO:0010467 33737 33752	gene expression
+T9519	GO:0042592 33900 33910	homestasis
+T9520	GO:0010467 34053 34063	expression
+T9521	GO_EXT:transcription 34426 34441	transcriptional
+T9522	GO_EXT:transcription 34552 34567	transcriptional
+T9523	GO:0065007 34568 34578	regulatory
+T9524	GO:0065007 34606 34616	regulation

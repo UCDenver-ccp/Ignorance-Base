@@ -1,0 +1,93 @@
+T13107	GO:0007631 9 20	overfeeding
+T13108	GO:0065007 162 172	regulating
+T13109	GO_PATO_EXT:biological_behavior 503 513	behaviours
+T13110	GO_PATO_EXT:biological_behavior 857 866	behaviour
+T13111	GO_EXT:reaction_or_response 984 993	responses
+T13112	GO:0065007 1279 1289	regulation
+T13113	GO:0036268 1442 1451	Nutrition
+T13114	GO:0099503 1463 1472	perinatal
+T13115	GO:0065007 1510 1520	regulatory
+T13116	GO:0099503 1613 1622	perinatal
+T13117	GO:0007565 1818 1827	gestation
+T13118	GO_EXT:biological_growth_entity_or_process 2203 2209	growth
+T13119	GO:0007567 2240 2245	natal
+T13120	GO:0007565 2352 2361	gestation
+T13121	GO:0001967 2447 2455	suckling
+T13122	GO:0007595 2514 2523	lactation
+T13123	GO_EXT:positive_regulation 3185 3198	dysregulation
+T13124	GO:0007253 3443 3462	HPA axis maturation
+T13125	GO_EXT:secretion_entity_or_process 3518 3527	secretion
+T13126	GO_EXT:positive_regulation 3894 3907	dysregulation
+T13127	GO_EXT:reaction_or_response 4049 4057	response
+T13128	GO:1903855 4182 4198;4203 4227	up-regulation of ... axis responses to stress
+T13129	GO_EXT:positive_regulation 4326 4339	up-regulation
+T13130	GO:0070966 4575 4592	negative feedback
+T13131	GO_PATO_EXT:biological_behavior 5294 5305	behavioural
+T13132	GO:0065007 5396 5406	regulation
+T13133	GO:0007631 5571 5582	overfeeding
+T13134	GO:0007605 5933 5942	postnatal
+T13135	GO:0007631 5943 5954	overfeeding
+T13136	GO:0007565 6125 6133	pregnant
+T13137	GO:0007567 6633 6638	birth
+T13138	GO:0007605 6640 6649	postnatal
+T13139	GO:0070267 6712 6723	reallocated
+T13140	GO:0007567 6980 6984	born
+T13141	GO:0007349 7000 7012	reallocation
+T13142	GO_EXT:biological_growth_entity_or_process 7142 7148	growth
+T13143	GO:0007631 7334 7341	feeding
+T13144	GO:0007631 7536 7547	Food intake
+T13145	GO:0007631 7711 7722	food intake
+T13146	GO:0016265 8593 8598	moved
+T13147	GO:0040011 8754 8763	locomotor
+T13148	GO:0040011 8906 8915	locomotor
+T13149	GO:0040011 9350 9360	locomotion
+T13150	GO:0007595 12028 12038	activation
+T13151	GO:0007631 13794 13805	food intake
+T13152	GO:0007605 15628 15637	postnatal
+T13153	GO:0007631 16711 16722	Food intake
+T13154	GO:0007631 16737 16745	consumed
+T13155	GO:0007631 17321 17330	consuming
+T13156	GO_PATO_EXT:biological_behavior 17430 17439	Behaviour
+T13157	GO_PATO_EXT:biological_behavior 18018 18027	behaviour
+T13158	GO:0040011 18654 18664	locomotion
+T13159	GO_PATO_EXT:biological_behavior 19695 19705	behaviours
+T13160	GO_EXT:reaction_or_response 20430 20439	responses
+T13161	GO_EXT:reaction_or_response 21191 21200	responses
+T13162	GO_EXT:reaction_or_response 21783 21792	responses
+T13163	GO_EXT:reaction_or_response 23260 23269	responses
+T13164	GO:0010467 23455 23465	expressing
+T13165	GO_EXT:reaction_or_response 23662 23671	responses
+T13166	GO_PATO_EXT:physiological_process_or_quality 24857 24867	physiology
+T13167	GO_PATO_EXT:biological_behavior 25028 25038	behaviours
+T13168	GO_EXT:reaction_or_response 26193 26201	response
+T13169	GO_EXT:reaction_or_response 26275 26283	response
+T13170	GO:0010018 26499 26521	vasopressin signalling
+T13171	GO:0071611 26565 26580	ACTH production
+T13172	GO:0008211 26607 26632	glucocorticoid metabolism
+T13173	GO_PATO_EXT:physiological_process_or_quality 27082 27092	physiology
+T13174	GO_PATO_EXT:biological_behavior 27418 27428	behaviours
+T13175	GO_PATO_EXT:biological_behavior 29557 29567	behaviours
+T13176	GO:0010467 29589 29599	expression
+T13177	GO_PATO_EXT:biological_behavior 29754 29764	behaviours
+T13178	GO_EXT:breeding 29829 29833	bred
+T13179	GO_PATO_EXT:biological_behavior 30127 30137	behaviours
+T13180	GO:0007631 30570 30577	nursing
+T13181	GO_PATO_EXT:biological_behavior 30618 30629	behavioural
+T13182	GO_EXT:reaction_or_response 30674 30683	responses
+T13183	GO:0007631 30854 30861	nursing
+T13184	GO_PATO_EXT:biological_behavior 30992 31002	behaviours
+T13185	GO:0007631 31185 31192	nursing
+T13186	GO_EXT:reaction_or_response 31566 31575	responses
+T13187	GO:0007128 31676 31680	axis
+T13188	GO_EXT:reaction_or_response 31681 31690	responses
+T13189	GO_EXT:reaction_or_response 31916 31924	response
+T13190	GO:0007567 32034 32038	care
+T13191	GO:0042592 32415 32426	homeostatic
+T13192	GO_EXT:reaction_or_response 32787 32796	responses
+T13193	GO_PATO_EXT:biological_behavior 32955 32964	behaviour
+T13194	GO_EXT:reaction_or_response 34033 34042	responses
+T13195	GO_EXT:positive_regulation 34154 34167	up-regulation
+T13196	GO:0007567 34176 34186	signalling
+T13197	GO_EXT:reaction_or_response 34361 34369	response
+T13198	GO_PATO_EXT:biological_behavior 34534 34545	behavioural
+T13199	GO_EXT:reaction_or_response 34558 34567	responses
