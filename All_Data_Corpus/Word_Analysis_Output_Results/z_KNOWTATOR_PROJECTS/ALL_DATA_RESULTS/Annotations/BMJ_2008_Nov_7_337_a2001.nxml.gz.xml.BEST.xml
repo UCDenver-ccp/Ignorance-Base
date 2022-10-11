@@ -1,0 +1,954 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="BMJ_2008_Nov_7_337_a2001.nxml.gz" text-file="BMJ_2008_Nov_7_337_a2001.nxml.gz.txt">
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-1" type="identity">
+         <class id="full_unknown"/>
+         <span end="4236" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-2" start="4234">no</span>
+         <span end="4254" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-3" start="4246">policies</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-4" type="identity">
+         <class id="full_unknown"/>
+         <span end="9490" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-5" start="9474">Newly identified</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-6" type="identity">
+         <class id="complex"/>
+         <span end="42960" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-7" start="42953">complex</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-8" type="identity">
+         <class id="why"/>
+         <span end="37269" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-9" start="37266">why</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-10" type="identity">
+         <class id="how"/>
+         <span end="39488" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-11" start="39485">how</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-12" type="identity">
+         <class id="why"/>
+         <span end="41205" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-13" start="41202">why</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-14" type="identity">
+         <class id="possible"/>
+         <span end="2934" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-15" start="2926">possible</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-16" type="identity">
+         <class id="can"/>
+         <span end="3348" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-17" start="3345">can</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-18" type="identity">
+         <class id="proposed"/>
+         <span end="3521" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-19" start="3513">proposed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-20" type="identity">
+         <class id="showed"/>
+         <span end="3855" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-21" start="3849">showed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-22" type="identity">
+         <class id="estimated"/>
+         <span end="4026" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-23" start="4017">estimated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-24" type="identity">
+         <class id="study"/>
+         <span end="5122" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-25" start="5117">study</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-26" type="identity">
+         <class id="found"/>
+         <span end="5128" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-27" start="5123">found</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-28" type="identity">
+         <class id="only"/>
+         <span end="5952" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-29" start="5948">only</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-30" type="identity">
+         <class id="estimated"/>
+         <span end="6303" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-31" start="6294">estimated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-32" type="identity">
+         <class id="estimated"/>
+         <span end="7367" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-33" start="7358">estimated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-34" type="identity">
+         <class id="only"/>
+         <span end="7755" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-35" start="7751">only</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-36" type="identity">
+         <class id="excluded"/>
+         <span end="12301" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-37" start="12293">excluded</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-38" type="identity">
+         <class id="excluded"/>
+         <span end="13536" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-39" start="13528">excluded</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-40" type="identity">
+         <class id="potentially"/>
+         <span end="13677" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-41" start="13666">potentially</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-42" type="identity">
+         <class id="only"/>
+         <span end="16634" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-43" start="16630">only</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-44" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="18524" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-45" start="18513">not usually</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-46" type="identity">
+         <class id="observed"/>
+         <span end="23666" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-47" start="23658">observed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-48" type="identity">
+         <class id="observed"/>
+         <span end="27236" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-49" start="27228">observed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-50" type="identity">
+         <class id="shows"/>
+         <span end="27610" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-51" start="27605">shows</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-52" type="identity">
+         <class id="indicating"/>
+         <span end="28225" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-53" start="28215">indicating</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-54" type="identity">
+         <class id="showed"/>
+         <span end="29430" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-55" start="29424">showed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-56" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="30421" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-57" start="30416">model</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-58" type="identity">
+         <class id="showed"/>
+         <span end="30452" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-59" start="30446">showed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-60" type="identity">
+         <class id="indicating"/>
+         <span end="30869" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-61" start="30859">indicating</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-62" type="identity">
+         <class id="no_evidence"/>
+         <span end="30881" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-63" start="30870">no evidence</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-64" type="identity">
+         <class id="showed"/>
+         <span end="31087" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-65" start="31081">showed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-66" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="33137" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-67" start="33125">On the basis</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-68" type="identity">
+         <class id="have_shown"/>
+         <span end="34840" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-69" start="34830">have shown</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-70" type="identity">
+         <class id="recently"/>
+         <span end="35606" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-71" start="35598">recently</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-72" type="identity">
+         <class id="found"/>
+         <span end="35670" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-73" start="35665">found</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-74" type="identity">
+         <class id="findings"/>
+         <span end="35912" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-75" start="35904">findings</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-76" type="identity">
+         <class id="suggest"/>
+         <span end="35935" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-77" start="35928">suggest</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-78" type="identity">
+         <class id="observed"/>
+         <span end="35987" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-79" start="35979">observed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-80" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="36318" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-81" start="36315">not</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-82" type="identity">
+         <class id="has_been"/>
+         <span end="36677" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-83" start="36669">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-84" type="identity">
+         <class id="reported"/>
+         <span end="36686" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-85" start="36678">reported</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-86" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="36714" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-87" start="36710">19In</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-88" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="36931" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-89" start="36912">Bangladesh4indicate</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-90" type="identity">
+         <class id="reported"/>
+         <span end="37137" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-91" start="37129">reported</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-92" type="identity">
+         <class id="plausible"/>
+         <span end="37252" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-93" start="37243">plausible</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-94" type="identity">
+         <class id="could_be"/>
+         <span end="37396" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-95" start="37388">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-96" type="identity">
+         <class id="small"/>
+         <span end="37776" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-97" start="37771">small</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-98" type="identity">
+         <class id="similar_to"/>
+         <span end="38636" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-99" start="38626">similar to</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-100" type="identity">
+         <class id="reported"/>
+         <span end="38651" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-101" start="38643">reported</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-102" type="identity">
+         <class id="limitation"/>
+         <span end="38911" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-103" start="38901">limitation</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-104" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="38923" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-105" start="38920">low</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-106" type="identity">
+         <class id="hypothesis"/>
+         <span end="39099" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-107" start="39089">hypothesis</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-108" type="identity">
+         <class id="did_not"/>
+         <span end="39114" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-109" start="39107">did not</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-110" type="identity">
+         <class id="might"/>
+         <span end="39314" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-111" start="39309">might</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-112" type="identity">
+         <class id="might"/>
+         <span end="39978" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-113" start="39973">might</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-114" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="40161" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-115" start="40153">apparent</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-116" type="identity">
+         <class id="reported"/>
+         <span end="40215" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-117" start="40207">reported</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-118" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="40226" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-119" start="40221">other</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-120" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="40793" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-121" start="40777">23These findings</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-122" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="40810" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-123" start="40799">interpreted</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-124" type="identity">
+         <class id="showed"/>
+         <span end="40930" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-125" start="40924">showed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-126" type="identity">
+         <class id="could"/>
+         <span end="41189" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-127" start="41184">could</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-128" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="41352" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-129" start="41340">similarities</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-130" type="identity">
+         <class id="findings"/>
+         <span end="42413" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-131" start="42405">findings</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-132" type="identity">
+         <class id="consistent"/>
+         <span end="42434" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-133" start="42424">consistent</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-134" type="identity">
+         <class id="observational"/>
+         <span end="42464" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-135" start="42451">observational</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-136" type="identity">
+         <class id="reported"/>
+         <span end="42486" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-137" start="42478">reported</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-138" type="identity">
+         <class id="showed"/>
+         <span end="42672" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-139" start="42666">showed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-140" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="43135" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-141" start="43131">31In</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-142" type="identity">
+         <class id="might"/>
+         <span end="43441" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-143" start="43436">might</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-144" type="identity">
+         <class id="finding"/>
+         <span end="43934" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-145" start="43927">finding</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-146" type="identity">
+         <class id="similar_to"/>
+         <span end="43949" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-147" start="43939">similar to</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-148" type="identity">
+         <class id="observed"/>
+         <span end="43963" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-149" start="43955">observed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-150" type="identity">
+         <class id="less"/>
+         <span end="44155" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-151" start="44151">less</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-152" type="identity">
+         <class id="reported"/>
+         <span end="44174" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-153" start="44166">reported</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-154" type="identity">
+         <class id="other_studies"/>
+         <span end="44191" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-155" start="44178">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-156" type="identity">
+         <class id="did_not"/>
+         <span end="44210" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-157" start="44203">did not</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-158" type="identity">
+         <class id="might"/>
+         <span end="44322" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-159" start="44317">might</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-160" type="identity">
+         <class id="have_shown"/>
+         <span end="44475" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-161" start="44465">have shown</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-162" type="identity">
+         <class id="potential"/>
+         <span end="44577" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-163" start="44568">potential</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-164" type="identity">
+         <class id="possibly"/>
+         <span end="44786" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-165" start="44778">possibly</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-166" type="identity">
+         <class id="proposed"/>
+         <span end="44942" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-167" start="44934">proposed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-168" type="identity">
+         <class id="remain"/>
+         <span end="45379" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-169" start="45373">remain</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-170" type="identity">
+         <class id="probable_understanding"/>
+         <span end="3353" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-171" start="3349">lead</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-172" type="identity">
+         <class id="account_for"/>
+         <span end="6775" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-173" start="6764">account for</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-174" type="identity">
+         <class id="probable_understanding"/>
+         <span end="7020" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-175" start="7013">because</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-176" type="identity">
+         <class id="likely"/>
+         <span end="8663" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-177" start="8657">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-178" type="identity">
+         <class id="explained"/>
+         <span end="36075" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-179" start="36066">explained</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-180" type="identity">
+         <class id="reason"/>
+         <span end="37259" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-181" start="37253">reason</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-182" type="identity">
+         <class id="therefore"/>
+         <span end="39598" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-183" start="39589">therefore</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-184" type="identity">
+         <class id="likelihood"/>
+         <span end="39642" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-185" start="39632">likelihood</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-186" type="identity">
+         <class id="explain"/>
+         <span end="40148" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-187" start="40141">explain</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-188" type="identity">
+         <class id="as"/>
+         <span end="40828" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-189" start="40826">as</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-190" type="identity">
+         <class id="account_for"/>
+         <span end="41201" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-191" start="41190">account for</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-192" type="identity">
+         <class id="therefore"/>
+         <span end="43355" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-193" start="43346">therefore</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-194" type="identity">
+         <class id="likely"/>
+         <span end="43752" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-195" start="43746">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-196" type="identity">
+         <class id="impact"/>
+         <span end="6" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-197" start="0">Impact</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-198" type="identity">
+         <class id="impact"/>
+         <span end="235" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-199" start="229">impact</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-200" type="identity">
+         <class id="associated"/>
+         <span end="1342" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-201" start="1332">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-202" type="identity">
+         <class id="associated"/>
+         <span end="1801" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-203" start="1791">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-204" type="identity">
+         <class id="associated"/>
+         <span end="2001" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-205" start="1991">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-206" type="identity">
+         <class id="associated"/>
+         <span end="2133" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-207" start="2123">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-208" type="identity">
+         <class id="contribute"/>
+         <span end="2506" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-209" start="2496">contribute</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-210" type="identity">
+         <class id="effects"/>
+         <span end="2960" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-211" start="2953">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-212" type="identity">
+         <class id="contribute"/>
+         <span end="3420" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-213" start="3410">contribute</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-214" type="identity">
+         <class id="impact"/>
+         <span end="4624" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-215" start="4618">impact</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-216" type="identity">
+         <class id="impact"/>
+         <span end="4896" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-217" start="4890">impact</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-218" type="identity">
+         <class id="indicator"/>
+         <span end="15007" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-219" start="14998">indicator</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-220" type="identity">
+         <class id="effect"/>
+         <span end="16686" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-221" start="16680">effect</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-222" type="identity">
+         <class id="similar"/>
+         <span end="19346" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-223" start="19339">similar</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-224" type="identity">
+         <class id="similar"/>
+         <span end="22365" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-225" start="22358">similar</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-226" type="identity">
+         <class id="corresponded"/>
+         <span end="23740" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-227" start="23728">corresponded</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-228" type="identity">
+         <class id="corresponded"/>
+         <span end="27285" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-229" start="27273">corresponded</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-230" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="28288" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-231" start="28274">contributed to</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-232" type="identity">
+         <class id="similar"/>
+         <span end="32631" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-233" start="32624">similar</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-234" type="identity">
+         <class id="associated"/>
+         <span end="33911" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-235" start="33901">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-236" type="identity">
+         <class id="associated"/>
+         <span end="34047" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-237" start="34037">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-238" type="identity">
+         <class id="effects"/>
+         <span end="34555" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-239" start="34548">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-240" type="identity">
+         <class id="associated"/>
+         <span end="34636" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-241" start="34626">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-242" type="identity">
+         <class id="associated"/>
+         <span end="34894" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-243" start="34884">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-244" type="identity">
+         <class id="effects"/>
+         <span end="35079" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-245" start="35072">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-246" type="identity">
+         <class id="related"/>
+         <span end="35197" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-247" start="35190">related</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-248" type="identity">
+         <class id="impact"/>
+         <span end="35252" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-249" start="35246">impact</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-250" type="identity">
+         <class id="impact"/>
+         <span end="35417" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-251" start="35411">impact</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-252" type="identity">
+         <class id="similar"/>
+         <span end="35515" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-253" start="35508">similar</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-254" type="identity">
+         <class id="pattern"/>
+         <span end="35523" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-255" start="35516">pattern</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-256" type="identity">
+         <class id="effects"/>
+         <span end="35561" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-257" start="35554">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-258" type="identity">
+         <class id="associated"/>
+         <span end="36231" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-259" start="36221">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-260" type="identity">
+         <class id="related"/>
+         <span end="36443" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-261" start="36436">related</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-262" type="identity">
+         <class id="role"/>
+         <span end="36609" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-263" start="36605">role</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-264" type="identity">
+         <class id="associated"/>
+         <span end="36767" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-265" start="36757">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-266" type="identity">
+         <class id="related"/>
+         <span end="37182" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-267" start="37175">related</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-268" type="identity">
+         <class id="related"/>
+         <span end="37404" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-269" start="37397">related</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-270" type="identity">
+         <class id="effects"/>
+         <span end="38233" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-271" start="38226">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-272" type="identity">
+         <class id="effects"/>
+         <span end="39160" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-273" start="39153">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-274" type="identity">
+         <class id="associated"/>
+         <span end="39279" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-275" start="39269">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-276" type="identity">
+         <class id="associated"/>
+         <span end="40445" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-277" start="40435">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-278" type="identity">
+         <class id="effect"/>
+         <span end="41113" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-279" start="41107">effect</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-280" type="identity">
+         <class id="impact"/>
+         <span end="41537" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-281" start="41531">impact</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-282" type="identity">
+         <class id="associated"/>
+         <span end="41714" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-283" start="41704">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-284" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="43309" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-285" start="43306">led</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-286" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="43502" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-287" start="43488">contributed to</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-288" type="identity">
+         <class id="similar"/>
+         <span end="43672" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-289" start="43665">similar</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-290" type="identity">
+         <class id="associated"/>
+         <span end="43692" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-291" start="43682">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-292" type="identity">
+         <class id="effects"/>
+         <span end="44536" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-293" start="44529">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-294" type="identity">
+         <class id="effects"/>
+         <span end="44678" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-295" start="44671">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-296" type="identity">
+         <class id="mediated"/>
+         <span end="44795" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-297" start="44787">mediated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-298" type="identity">
+         <class id="associated"/>
+         <span end="45477" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-299" start="45467">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-300" type="identity">
+         <class id="associated"/>
+         <span end="45775" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-301" start="45765">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-302" type="identity">
+         <class id="recommended"/>
+         <span end="3609" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-303" start="3598">recommended</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-304" type="identity">
+         <class id="recommended"/>
+         <span end="10443" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-305" start="10432">recommended</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-306" type="identity">
+         <class id="recommend"/>
+         <span end="44887" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-307" start="44878">recommend</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-308" type="identity">
+         <class id="important_consideration"/>
+         <span end="2335" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-309" start="2331">need</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-310" type="identity">
+         <class id="important_consideration"/>
+         <span end="2346" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-311" start="2336">sufficient</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-312" type="identity">
+         <class id="risk"/>
+         <span end="2805" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-313" start="2801">risk</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-314" type="identity">
+         <class id="at_risk"/>
+         <span end="2887" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-315" start="2880">at risk</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-316" type="identity">
+         <class id="major"/>
+         <span end="3023" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-317" start="3018">major</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-318" type="identity">
+         <class id="important_consideration"/>
+         <span end="3086" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-319" start="3082">poor</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-320" type="identity">
+         <class id="important_consideration"/>
+         <span end="3230" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-321" start="3226">Poor</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-322" type="identity">
+         <class id="requirements"/>
+         <span end="3312" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-323" start="3300">requirements</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-324" type="identity">
+         <class id="important_consideration"/>
+         <span end="33188" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-325" start="33184">need</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-326" type="identity">
+         <class id="important"/>
+         <span end="36604" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-327" start="36595">important</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-328" type="identity">
+         <class id="awareness"/>
+         <span end="39888" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-329" start="39879">awareness</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-330" type="identity">
+         <class id="increased_risk"/>
+         <span end="41306" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-331" start="41292">increased risk</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-332" type="identity">
+         <class id="increased_risk"/>
+         <span end="42504" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-333" start="42490">increased risk</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-334" type="identity">
+         <class id="important"/>
+         <span end="44521" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-335" start="44512">important</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-336" type="identity">
+         <class id="required"/>
+         <span end="45201" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-337" start="45193">required</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-338" type="identity">
+         <class id="important_consideration"/>
+         <span end="45393" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-339" start="45382">major cause</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-340" type="identity">
+         <class id="major"/>
+         <span end="45516" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-341" start="45511">major</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-342" type="identity">
+         <class id="important_consideration"/>
+         <span end="45579" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-343" start="45575">poor</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-344" type="identity">
+         <class id="required"/>
+         <span end="46078" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-345" start="46070">required</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-346" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1770" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-347" start="1767">but</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-348" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2200" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-349" start="2197">but</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-350" type="identity">
+         <class id="despite"/>
+         <span end="2209" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-351" start="2202">despite</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-352" type="identity">
+         <class id="even"/>
+         <span end="4369" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-353" start="4365">even</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-354" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="7011" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-355" start="7004">however</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-356" type="identity">
+         <class id="although"/>
+         <span end="24046" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-357" start="24038">although</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-358" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="29274" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-359" start="29267">however</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-360" type="identity">
+         <class id="though"/>
+         <span end="30537" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-361" start="30531">though</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-362" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="31416" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-363" start="31409">but not</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-364" type="identity">
+         <class id="alone"/>
+         <span end="33845" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-365" start="33840">alone</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-366" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="33946" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-367" start="33941">while</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-368" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="34532" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-369" start="34529">but</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-370" type="identity">
+         <class id="although"/>
+         <span end="34758" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-371" start="34750">although</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-372" type="identity">
+         <class id="seem_to_be"/>
+         <span end="35189" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-373" start="35179">seem to be</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-374" type="identity">
+         <class id="seemed_to_be"/>
+         <span end="36435" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-375" start="36423">seemed to be</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-376" type="identity">
+         <class id="even"/>
+         <span end="37628" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-377" start="37624">Even</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-378" type="identity">
+         <class id="though"/>
+         <span end="37635" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-379" start="37629">though</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-380" type="identity">
+         <class id="although"/>
+         <span end="39434" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-381" start="39426">although</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-382" type="identity">
+         <class id="apparent"/>
+         <span end="40161" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-383" start="40153">apparent</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-384" type="identity">
+         <class id="appearance"/>
+         <span end="41285" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-385" start="41275">appearance</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-386" type="identity">
+         <class id="even"/>
+         <span end="43151" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-387" start="43147">even</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-388" type="identity">
+         <class id="though"/>
+         <span end="43158" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-389" start="43152">though</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-390" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="43677" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-391" start="43674">but</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-392" type="identity">
+         <class id="seemed_to_be"/>
+         <span end="43724" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-393" start="43712">seemed to be</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-394" type="identity">
+         <class id="although"/>
+         <span end="44260" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-395" start="44252">although</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-396" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="44734" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-397" start="44723">seems to be</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-398" type="identity">
+         <class id="seem"/>
+         <span end="45031" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-399" start="45027">seem</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-400" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="45957" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-401" start="45954">but</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-402" type="identity">
+         <class id="despite"/>
+         <span end="45966" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-403" start="45959">despite</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-404" type="identity">
+         <class id="assuming"/>
+         <span end="6518" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-405" start="6510">assuming</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-406" type="identity">
+         <class id="however"/>
+         <span end="7011" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-407" start="7004">however</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-408" type="identity">
+         <class id="assuming"/>
+         <span end="7586" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-409" start="7578">assuming</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-410" type="identity">
+         <class id="however"/>
+         <span end="7749" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-411" start="7742">however</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-412" type="identity">
+         <class id="assuming"/>
+         <span end="7850" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-413" start="7842">assuming</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-414" type="identity">
+         <class id="assuming"/>
+         <span end="8107" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-415" start="8099">assuming</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-416" type="identity">
+         <class id="however"/>
+         <span end="29274" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-417" start="29267">however</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-418" type="identity">
+         <class id="compared_with"/>
+         <span end="31253" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-419" start="31240">compared with</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-420" type="identity">
+         <class id="different"/>
+         <span end="35269" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-421" start="35260">different</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-422" type="identity">
+         <class id="in_contrast"/>
+         <span end="35594" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-423" start="35583">In contrast</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-424" type="identity">
+         <class id="but"/>
+         <span end="36112" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-425" start="36109">but</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-426" type="identity">
+         <class id="different"/>
+         <span end="36129" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-427" start="36120">different</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-428" type="identity">
+         <class id="rather"/>
+         <span end="36386" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-429" start="36380">Rather</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-430" type="identity">
+         <class id="but"/>
+         <span end="38896" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-431" start="38893">but</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-432" type="identity">
+         <class id="rather"/>
+         <span end="39073" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-433" start="39067">rather</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-434" type="identity">
+         <class id="however"/>
+         <span end="39971" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-435" start="39964">however</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-436" type="identity">
+         <class id="other"/>
+         <span end="40226" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-437" start="40221">other</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-438" type="identity">
+         <class id="other"/>
+         <span end="41397" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-439" start="41392">other</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-440" type="identity">
+         <class id="other"/>
+         <span end="44183" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-441" start="44178">other</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-442" type="identity">
+         <class id="other"/>
+         <span end="44335" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-443" start="44330">other</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-444" type="identity">
+         <class id="because"/>
+         <span end="7020" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-445" start="7013">because</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-446" type="identity">
+         <class id="because"/>
+         <span end="7243" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-447" start="7236">because</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-448" type="identity">
+         <class id="problem_complication"/>
+         <span end="13700" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-449" start="13691">incorrect</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-450" type="identity">
+         <class id="low"/>
+         <span end="38923" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-451" start="38920">low</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-452" type="identity">
+         <class id="misclassification"/>
+         <span end="39693" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-453" start="39676">misclassification</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-454" type="identity">
+         <class id="to_examine"/>
+         <span end="224" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-455" start="214">To examine</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-456" type="identity">
+         <class id="conducted"/>
+         <span end="4510" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-457" start="4501">conducted</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-458" type="identity">
+         <class id="assessed"/>
+         <span end="4613" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-459" start="4605">assessed</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-460" type="identity">
+         <class id="conducted"/>
+         <span end="4860" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-461" start="4851">conducted</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-462" type="identity">
+         <class id="to_assess"/>
+         <span end="14666" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-463" start="14657">To assess</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-464" type="identity">
+         <class id="examined"/>
+         <span end="14713" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-465" start="14705">examined</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-466" type="identity">
+         <class id="examined"/>
+         <span end="15205" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-467" start="15197">examined</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-468" type="identity">
+         <class id="to_examine"/>
+         <span end="38225" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-469" start="38215">to examine</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-470" type="identity">
+         <class id="our_findings"/>
+         <span end="40923" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-471" start="40911">Our findings</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-472" type="identity">
+         <class id="trial"/>
+         <span end="43145" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-473" start="43140">trial</span>
+      </annotation>
+      <annotation annotator="Default" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-474" type="identity">
+         <class id="this_study"/>
+         <span end="45657" id="BMJ_2008_Nov_7_337_a2001.nxml.gz-475" start="45647">this study</span>
+      </annotation>
+   </document>
+</knowtator-project>
