@@ -65,8 +65,12 @@ do
 #    mv $fiji_path$ignorance_question_work_full_corpus$obos$results_concept_norm_files$i/$gs$i$results_concept_norm_files_ext $fiji_path$ignorance_base_all_data_corpus$obos$results_concept_norm_files$i/
 
 
-    ##CONCEPT SYSTEM OUTPUT
+    ##CONCEPT SYSTEM OUTPUT gold standard
     cp $fiji_path$ignorance_question_work_full_corpus$obos$concept_system_output$i/*biobert* $fiji_path$ignorance_base_all_data_corpus$obos$concept_system_output$i/
+
+    ##CONCEPT SYSTEM OUTPUT automated data corpus
+    cp $fiji_path$ignorance_base_corpus$obos$concept_system_output$i/*biobert* $fiji_path$ignorance_base_all_data_corpus$obos$concept_system_output$i/
+
 
 
 
