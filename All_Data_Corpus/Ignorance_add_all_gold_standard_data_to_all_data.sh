@@ -12,7 +12,7 @@ ignorance_corpus='Ignorance-Question-Corpus/'
 ignorance_base_path='3_Ignorance_Base/'
 ignorance_base_corpus='Ignorance-Base/Automated_Data_Corpus/'
 ignorance_base_all_data_corpus='Ignorance-Base/All_Data_Corpus/'
-gold_standard_annotation_results='Gold_Standard_Annotation_Results/'
+gold_standard_annotation_results='GS_bionlp_articles_original/'
 word_analysis_output_results='Word_Analysis_Output_Results/'
 articles='Articles/'
 
@@ -45,17 +45,17 @@ cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluat
 
 ##copy all of the tokenized files
 #remove the biobert stuff
-rm $fiji_path$ignorance_base_all_data_corpus$tokenized_files$biobert/*
+#rm $fiji_path$ignorance_base_all_data_corpus$tokenized_files$biobert/*
 
 #copy stuff over from held out evaluation
-cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$tokenized_files/* $fiji_path$ignorance_base_all_data_corpus$tokenized_files
+#cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$tokenized_files/* $fiji_path$ignorance_base_all_data_corpus$tokenized_files
 
-cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$training_tokenized_files/* $fiji_path$ignorance_base_all_data_corpus$tokenized_files
+#cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$training_tokenized_files/* $fiji_path$ignorance_base_all_data_corpus$tokenized_files
 
 
 ##copy all the gold standard annotation results
-##from tokenized files from preprocess corpus/output_folders
-cp -r $fiji_path$ignorance_question_work_full_corpus$preprocess_corpus$output_folders$tokenized_files/* $fiji_path$ignorance_base_all_data_corpus$word_analysis_output_results$gold_standard_annotation_results
+##from z_BIONLP_OUTPUT_FORMAT from preprocess corpus/output_folders
+cp -r $fiji_path$ignorance_question_work_full_corpus$preprocess_corpus$output_folders$z_bionlp_output_format/* $fiji_path$ignorance_base_all_data_corpus$gold_standard_annotation_results
 
-cp -r $fiji_path$ignorance_question_work_full_corpus$preprocess_corpus$output_folders$z_bionlp_output_format $fiji_path$ignorance_base_all_data_corpus$word_analysis_output_results$gold_standard_annotation_results
+
 
