@@ -29,8 +29,24 @@ training_pmcid_sentence_files='Training_PMCID_files_sentences/'
 concept_system_output='concept_system_output/'
 biobert='BIOBERT'
 z_bionlp_output_format='z_BIONLP_OUTPUT_FORMAT/'
-
+z_bionlp_best_models='z_BIONLP_BEST_MODELS/'
 obos='OBOs/'
+
+
+##MOVE EVERYTHING FROM AUTOMATED DATA CORPUS ALSO
+
+#copy all articles
+cp $fiji_path$ignorance_base_corpus$articles/* $fiji_path$ignorance_base_all_data_corpus$articles
+
+#copy pmcid files to the pmcid sentence files and obos
+cp $fiji_path$ignorance_base_corpus$pmcid_sentence_files/* $fiji_path$ignorance_base_all_data_corpus$pmcid_sentence_files
+
+cp $fiji_path$ignorance_base_corpus$pmcid_sentence_files/* $fiji_path$ignorance_base_all_data_corpus$obos$pmcid_sentence_files
+
+#copy the best model outputs for ignorance
+cp -r $fiji_path$ignorance_base_corpus$word_analysis_output_results$z_bionlp_best_models $fiji_path$ignorance_base_all_data_corpus$word_analysis_output_results #may replace the old one
+
+
 
 
 ##MOVE EVERYTHING FROM GOLD STANDARD TO ALL DATA CORPUS!
@@ -42,7 +58,12 @@ cp $fiji_path$ignorance_corpus$articles/* $fiji_path$ignorance_base_all_data_cor
 ##copy all of the pmcid sentence files from held out evaluation
 cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$pmcid_sentence_files/* $fiji_path$ignorance_base_all_data_corpus$pmcid_sentence_files
 
-cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$training_pmcid_sentence_files /* $fiji_path$ignorance_base_all_data_corpus$pmcid_sentence_files
+cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$training_pmcid_sentence_files/* $fiji_path$ignorance_base_all_data_corpus$pmcid_sentence_files
+
+#copy to the OBOs also
+cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$pmcid_sentence_files/* $fiji_path$ignorance_base_all_data_corpus$obos$pmcid_sentence_files
+
+cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluation$training_pmcid_sentence_files/* $fiji_path$ignorance_base_all_data_corpus$obos$pmcid_sentence_files
 
 
 ##copy all of the tokenized files
@@ -59,8 +80,13 @@ cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluat
 ##from z_BIONLP_OUTPUT_FORMAT from preprocess corpus/output_folders
 cp -r $fiji_path$ignorance_question_work_full_corpus$preprocess_corpus$output_folders$z_bionlp_output_format/* $fiji_path$ignorance_base_all_data_corpus$gold_standard_annotation_results
 
-##copy to OBOs as well
-cp -r $fiji_path$ignorance_question_work_full_corpus$preprocess_corpus$output_folders$z_bionlp_output_format/* $fiji_path$ignorance_base_all_data_corpus$obos$pmcid_sentence_files
+
+#copy to the best model information as well
+cp $fiji_path$ignorance_question_work_full_corpus$preprocess_corpus$output_folders$z_bionlp_output_format/* $fiji_path$ignorance_base_all_data_corpus$word_analysis_output_results$z_bionlp_best_models
+
+
+
+
 
 
 
