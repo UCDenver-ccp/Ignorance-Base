@@ -30,6 +30,8 @@ concept_system_output='concept_system_output/'
 biobert='BIOBERT'
 z_bionlp_output_format='z_BIONLP_OUTPUT_FORMAT/'
 
+obos='OBOs/'
+
 
 ##MOVE EVERYTHING FROM GOLD STANDARD TO ALL DATA CORPUS!
 
@@ -56,6 +58,9 @@ cp $fiji_path$ignorance_question_work_full_corpus$word_analysis$held_out_evaluat
 ##copy all the gold standard annotation results
 ##from z_BIONLP_OUTPUT_FORMAT from preprocess corpus/output_folders
 cp -r $fiji_path$ignorance_question_work_full_corpus$preprocess_corpus$output_folders$z_bionlp_output_format/* $fiji_path$ignorance_base_all_data_corpus$gold_standard_annotation_results
+
+##copy to OBOs as well
+cp -r $fiji_path$ignorance_question_work_full_corpus$preprocess_corpus$output_folders$z_bionlp_output_format/* $fiji_path$ignorance_base_all_data_corpus$obos$pmcid_sentence_files
 
 
 
