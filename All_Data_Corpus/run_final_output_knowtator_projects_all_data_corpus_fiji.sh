@@ -76,6 +76,8 @@ best_algo='BEST'
 #
 #
 #
+
+##create a knowtator file
 #python3 $fiji_path$eval_path/final_output_knowtator_format.py -ontologies=$ontologies -all_lcs_path=$fiji_path$corpus_path$all_lcs_path -ontology_file_path=$fiji_path$corpus_path$ontology_file_path -broad_categories=$broad_categories -article_path=$scratch_path$ignorance_base_corpus$articles -xml_folder=$knowtator_best_models_folder -bionlp_folder=$bionlp_best_models_folder -algos=$best_algo -result_folders=$results_folders -results_path=$scratch_path$ignorance_base_corpus$output_results -file_types=$file_types -evaluation_files=$all_files
 
 
@@ -108,7 +110,9 @@ mv $corpus_name$knowtator_ext $model$knowtator_ext
 #for e in "${eval[@]}"
 #    do
         cp $fiji_path$ignorance_base_all_data_corpus_path$articles/*$article_ext $articles
-        cp $fiji_path$ignorance_base_all_data_corpus_path$output_results$knowtator_best_models_folder/*$annotation_ext*$annotation_ext2  $concept_annotation
+        ##copy the annotation files from gold standard and from automated data corpus
+        cp $fiji_path$ignorance_base_corpus$output_results$knowtator_best_models_folder/*$annotation_ext*$annotation_ext2  $concept_annotation
+        cp $fiji_path$corpus_path$concept_annotation/*$annotation_ext*$annotation_ext2  $concept_annotation
         cp $fiji_path$corpus_path$ontology_file_path $ontology_folder
         cp $fiji_path$corpus_path$profiles_folder$profiles_file $profiles_folder
 
