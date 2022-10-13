@@ -8,7 +8,7 @@ Clone this repository to create the ignorance-base from scratch or add more arti
 If you do not want to do it from scratch, a full ignorance-base can be found in Ignorance_Network/ALL_DATA_GRAPHS/0_FULL_IGNORANCE_MULTIGRAPH_03_23_22_ALL_SENTENCES_DICT.pkl.zip (you will need to unzip it). There is other supporting information in the file as well.
 
 
-Our ignorance-base contains 1,643 articles with 91 having gold standard ignorance annotations (prefix GS) and 1,552 run automatically for ignorance identification. All 1,643 articles have automatic classification for the biomedical concepts to ten OBOs from CRAFT. The 91 have the OBOs run over them separately from the 1,552. 
+Our ignorance-base contains 1,643 articles with 91 having gold standard ignorance annotations (prefix GS) and 1,552 run automatically for ignorance identification. All 1,643 articles have automatic classification for the biomedical concepts to ten OBOs from CRAFT. The 91 have the OBOs run over them separately from the 1,552. Look at the powerpoint for more details on it and the data representation. 
 
 A lot of our work was run on a supercomputer, FIJI, out of boulder to save time, space, and computing resources. There are two different environments we used and these can be found in Automated_Data_Corpus/Anaconda_Environments_for_FIJI/. Use the general_environment unless you are runnning BioBERT or OpenNMT, then use the other one. Many files have matching .sbatch files which are files to run the scripts on FIJI.
 
@@ -261,46 +261,84 @@ Please put all these repositories in the same place. That will become the fiji_p
 ## Ignorance-base data representation: PheKnowLator and Ignorance-Graph
 
 1. PheKnowLator information: https://github.com/callahantiff/PheKnowLator
+
 	a. Entities from Ontologies of interest (showing Namespace, then URL):
+
 		• Genes -- Entrez ( http://www.ncbi.nlm.nih.gov/gene/)
+
 		• GO (GO_;  http://purl.obolibrary.org/obo/) 
+
 		• ChEBI (CHEBI_;  http://purl.obolibrary.org/obo/) 
+
 		• SO (SO_;  http://purl.obolibrary.org/obo/) 
+
 		• UBERON (UBERON_;  http://purl.obolibrary.org/obo/) 
+
 		• Human PR (PR_;  http://purl.obolibrary.org/obo/) 
+
 		• CL (CL_;  http://purl.obolibrary.org/obo/) 
+
 	 
 	b. Relations (RO;  http://purl.obolibrary.org/obo/) 
+
 		• RO_0002434 = interacts with
+
 		• RO_0002436 = molecularly interacts with
+
 		• RO_0002435 = genetically interacts with
+
 		• RO_0002205 = has gene product
+
 		• RO_0001025 = located in
+
 		• RO_0000056 = participates in
+
 		• RO_0000085 = has function
+
 		• Rfs:SubClassOf = <http://www.w3.org/2000/01/rdf-schema#subClassOf>
 		
 		
-	 
 	c. Triples using these ontologies with relation:
+
 		• ChEBI, RO_0002434, Gene 
+
 		• ChEBI, RO_0002436, GO (not used!!!)
+
 		• ChEBI, RO_0002434, PR
+
 		• Gene, RO_0002435, Gene
+
 		• Gene, RO_0002205, PR
+
 		• PR, RO_0001025, UBERON
+
 		• PR, RO_0002436, ChEBI
+
 		• PR, RO_0001025, CL
+
 		• PR, RO_0000056, GO (BP)
+
 		• PR, RO_0001025, GO (CC)
+
 		• PR, RO_0000085, GO (MF)
+
 		• PR, RO_0002436, PR
+
 		• Gene, rdfs:subClassOf, SO
 
 2. Ignorance-Graph information:
 
 Node Name | Attributes | Edges
 --- | --- | --- 
+ALL_ARTICLES | NODE_TYPE | all articles
+articles (PMCID####) | 'NODE_TYPE','ARTICLE_DATE','TOTAL_SENTENCE_COUNT','TOTAL_WORD_COUNT','IGNORANCE_SENTENCE_COUNT' | ALL_ARTICLES and sentence IDs
+sentences (SENTENCE_ID) | 'NODE_TYPE','SENTENCE_SPAN','SENTENCE_TEXT','SENTENCE_ANNOTATION_ID' | articles, annotated lexical cues if they have, and OBO concepts if they have
+annotated lexical cue (LC_ID) | 'NODE_TYPE','MENTION_ANNOTATION_ID','MENTION_SPAN','MENTION_TEXT' | sentence ids, taxonomy lexical cues, ignorance categories
+taxonomy lexical cues (TLC_ID) | 'NODE_TYPE','ANNOTATION_TEXT' | lexical cues, ignorance categories
+narrow ignorance category | 'NODE_TYPE' | taxonomy lexical cues and broad ignroance categories
+broad ignorance category | 'NODE_TYPE' | narrow ignorance categories and IGNORANCE_TAXONOMY
+IGNORANCE_TAXONOMY | 'NODE_TYPE' | broad ignorance categories
+OBOs | Edge attributes: 'OBO_MENTION_ID','OBO_MENTION_TEXT','OBO_MENTION_SPAN' | connects OBO concepts in PheKnowLator to sentence ids
 
 
 
