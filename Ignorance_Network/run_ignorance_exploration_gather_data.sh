@@ -77,10 +77,11 @@ vitamin_d_folder='Vitamin_D/'
 
 ##gather the correct obo_ids we want from string list
 string_obo_concept_input_list="vitamin D"
+
 ##exact match
 python3 ignorance_exploration_gather_data.py -ignorance_full_graph=$all_file_path$ignorance_base$ignorance_network$all_data_graphs$full_ignorance_graph -pheknowlator_node_info=$all_file_path$ignorance_base$ignorance_network$pheknowlator_node_info --string_obo_concept_input_list="$string_obo_concept_input_list" -output_path=$all_file_path$ignorance_base$ignorance_network$exploration$vitamin_d_folder
-##not exact match
 
+##not exact match
 false='False'
 python3 ignorance_exploration_gather_data.py -ignorance_full_graph=$all_file_path$ignorance_base$ignorance_network$all_data_graphs$full_ignorance_graph -pheknowlator_node_info=$all_file_path$ignorance_base$ignorance_network$pheknowlator_node_info --string_obo_concept_input_list="$string_obo_concept_input_list" -output_path=$all_file_path$ignorance_base$ignorance_network$exploration$vitamin_d_folder --string_exact_match=$false
 
@@ -88,16 +89,16 @@ python3 ignorance_exploration_gather_data.py -ignorance_full_graph=$all_file_pat
 
 ##gather the sentences from the obo_ids
 obo_id_list_vitamin_D_Teri='CHEBI_27300,CHEBI_73558,CHEBI_28940,CHEBI_28934'
-#python3 ignorance_exploration_gather_data.py -ignorance_full_graph=$all_file_path$ignorance_base$ignorance_network$all_data_graphs$full_ignorance_graph -pheknowlator_node_info=$all_file_path$ignorance_base$ignorance_network$pheknowlator_node_info --obo_concept_input_list=$obo_id_list_vitamin_D_Teri -output_path=$all_file_path$ignorance_base$ignorance_network$exploration$vitamin_d_folder
+python3 ignorance_exploration_gather_data.py -ignorance_full_graph=$all_file_path$ignorance_base$ignorance_network$all_data_graphs$full_ignorance_graph -pheknowlator_node_info=$all_file_path$ignorance_base$ignorance_network$pheknowlator_node_info --obo_concept_input_list=$obo_id_list_vitamin_D_Teri -output_path=$all_file_path$ignorance_base$ignorance_network$exploration$vitamin_d_folder
 
 
 
 ##specific ignorance categories and obo_ids
-#specific_ignorance_categories='full_unknown,
+specific_ignorance_categories='full_unknown'
 #python3 ignorance_exploration_gather_data.py -ignorance_full_graph=$all_file_path$ignorance_base$ignorance_network$all_data_graphs$full_ignorance_graph -pheknowlator_node_info=$all_file_path$ignorance_base$ignorance_network$pheknowlator_node_info --obo_concept_input_list=$obo_id_list_vitamin_D_Teri -output_path=$all_file_path$ignorance_base$ignorance_network$exploration$vitamin_d_folder --specific_ignorance_categories=$ignorance_ontologies
 
 
 
 ##output order
 output_order='ARTICLE_DATE,NUM_IGNORANCE_CUES'
-#python3 ignorance_exploration_gather_data.py -ignorance_full_graph=$all_file_path$ignorance_base$ignorance_network$all_data_graphs$full_ignorance_graph -pheknowlator_node_info=$all_file_path$ignorance_base$ignorance_network$pheknowlator_node_info --obo_concept_input_list=$obo_id_list_vitamin_D_Teri -output_path=$all_file_path$ignorance_base$ignorance_network$exploration$vitamin_d_folder --specific_ignorance_categories=$ignorance_ontologies --output_order=$output_order
+python3 ignorance_exploration_gather_data.py -ignorance_full_graph=$all_file_path$ignorance_base$ignorance_network$all_data_graphs$full_ignorance_graph -pheknowlator_node_info=$all_file_path$ignorance_base$ignorance_network$pheknowlator_node_info --obo_concept_input_list=$obo_id_list_vitamin_D_Teri -output_path=$all_file_path$ignorance_base$ignorance_network$exploration$vitamin_d_folder --specific_ignorance_categories=$ignorance_ontologies --output_order=$output_order
