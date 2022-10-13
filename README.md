@@ -298,6 +298,7 @@ Please put all these repositories in the same place. That will become the fiji_p
 		• Gene, rdfs:subClassOf, SO
 
 2. Ignorance-Graph information:
+
 Node Name | Attributes | Edges
 --- | --- | --- 
 
