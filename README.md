@@ -340,6 +340,9 @@ broad ignorance category | 'NODE_TYPE' | narrow ignorance categories and IGNORAN
 IGNORANCE_TAXONOMY | 'NODE_TYPE' | broad ignorance categories
 OBOs | Edge attributes: 'OBO_MENTION_ID', 'OBO_MENTION_TEXT', 'OBO_MENTION_SPAN' | connects OBO concepts in PheKnowLator to sentence ids
 
+##Extra Information
+1. The folders python_scripts/ and Output_Folders/ were our first attempt at the ignorance-base. We decided to leave it in as some python scripts and outputs could be useful for future work exploring the ignorance-base. 
+
 
 
 
