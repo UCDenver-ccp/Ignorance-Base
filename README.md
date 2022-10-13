@@ -15,7 +15,7 @@ A lot of our work was run on a supercomputer, FIJI, out of boulder to save time,
 The ignorance-classifiers are based on our prior work that created the classifiers: https://github.com/UCDenver-ccp/Ignorance-Question-Work-Full-Corpus as well as the ignorance-corpus we created: https://github.com/UCDenver-ccp/Ignorance-Question-Corpus.
 Please clone both of these repositories because we utilize python scripts from them for this work. 
 
-The biomedical concept classifiers relies on our previous work found here:https://github.com/UCDenver-ccp/Concept-Recognition-as-Translation. Please close this repository. 
+The biomedical concept classifiers relies on our previous work found here: https://github.com/UCDenver-ccp/Concept-Recognition-as-Translation. Please close this repository. We connect our ignorance-graph with PheKnowLator: https://github.com/callahantiff/PheKnowLator.
 
 Please put all these repositories in the same place. That will become the fiji_path or all_files_path variables below.
 
@@ -188,9 +188,122 @@ Please put all these repositories in the same place. That will become the fiji_p
 
 ## Ignorance-Network
 
-1. run_combine_all_data.sh - need to also do it for the OBOs
- 
-2. run_combine_all_data_OBO.sh - moved to the all data corpus stuff (see comment above)
+0. We are working in the Ignorance_Network/ folder. The ignorance-graph is too large to upload to GitHub, but we uploaded some supporting documents all in ALL_DATA_GRAPHS/: 0_FULL_IGNORANCE_MULTIGRAPH_03_23_22_ALL_SENTENCES_DICT.pkl.zip, 0_FULL_IGNORANCE_MULTIGRAPH_03_23_22_ALL_SENTENCES_DICT_IGNORANCE_FREQUENCIES.txt, 0_FULL_IGNORANCE_MULTIGRAPH_03_23_22_PREPROCESSED_SENTENCE_DICT.pkl. 
+
+1. run_combine_all_data.sh: Combines all the ignorance data and OBO/OBO_EXT data together into sentence and dictionary files ready to use in the creation of the ignorance-network. (ALL_DATA_COMBINED_ignorance_sentences/, ALL_DATA_COMBINED_ignorance_dictionary_files/, ALL_DATA_COMBINED_OBOs_sentences/, ALL_DATA_COMBINED_OBOs_dictionary_files/, ALL_DATA_COMBINED_OBOs_EXT_dictionary_files/). Variables to change:
+	
+	a. all_file_path = the path to all github repositories.
+
+2. run_create_ignorance_network.sh: creates the ignorance-network and combines it with PheKnowLator to create the full ignorance-base with biomedical ontologies (ALL_DATA_GRAPHS/). Also preprocess all sentences in the ignorance-base in order to make downstream things easier (ALL_DATA_GRAPHS/0_FULL_IGNORANCE_MULTIGRAPH_03_23_22_PREPROCESSED_SENTENCE_DICT.pkl). The preprocessing can take a very long time to run in general just FYI. You can either create the ignorance-base from scratch (current) or from an existing ignorance-graph (need to change variable current_ignorance_multigraph to the current one and unhighlight the python script below it). Variables to change:
+	
+	a. all_file_path = the path to all github repositories.
+
+	b. current_ignorance_multigraph = if creating ignorance-base from an existing ignorance-graph, change this variable to the current ignorance-graph.
+
+3. Exploration by Topic: Working in the EXPLORATION/ folder and our example is vitamin D in the Vitamin_D/ folder.
+	
+	a. ignorance_exploration_gather_data.sh: gather the data based on your search topic. Variables to change:
+
+		i. all_file_path = the path to all github repositories.
+
+		ii. vitamin_d_folder = our example topic folder name, feel free to change and create a different folder name.
+
+		iii. full_ignorance_graph = the current full ignorance graph you are using
+
+		iv. string_obo_concept_input_list = the list of topic strings to use to search for OBO terms. (choose exact match or not by --string_exact_match)
+
+		v. obo_id_list_vitamin_D_Teri = the obo concepts we chose to use for our vitamin D example (feel free to change the name of the variable too)
+
+		vi. specific_ignorance_categories = if interested in specific ignorance categories like 'full_unknown', use the variable and script below it to gather data just for that category.
+
+		vii. output_order = if interested in outputting the data in a specific order, use this variable to choose that (e.g. ARTICLE_DATE, NUM_IGNORANCE_CUES).
+
+	b. run_ignorance_exploration_explore.sh: run the exploration for our vitamin D example. Ignorance frequencies for the full network and just vitamin D sentences (ALL_DATA_GRAPHS/0_FULL_IGNORANCE_MULTIGRAPH_03_23_22_ALL_SENTENCES_DICT_IGNORANCE_FREQUENCIES.txt and IGNORANCE_SENTENCE_DICT_IGNORANCE_FREQUENCIES.txt). Preprocess sentences for the full network and just vitamin D (all files ending in \_IGNORANCE_PREPROCESSED_SENTENCES.pkl, \_IGNORANCE_SENTENCE_DICT.pkl in ALL_DATA_GRAPHS/ as well). Visualizations including clustering (kmeans, hierarchical, tsne, pca), wordclouds, and bubble plots (clustering/ and enrichment/vitamin_D/specific_obo_ids/ and enrichment/word_ignorance/specific_obo_ids/). Enrichment for vitamin D vs not (enrichment/vitamin_D/), for the ignorance categories (enrichment/ignorance_category/), and for terms both words and OBO concepts (enrichment/word_ignorance/). Variables to change:
+
+		i. all_file_path/scratch_fiji_path = the path to all github repositories.
+
+		ii. vitamin_d_folder = our example topic folder name, feel free to change and create a different folder name.
+
+		iii. full_ignorance_graph = the current full ignorance graph you are using
+
+		iv. string_obo_concept_input_list = the list of topic strings to use to search for OBO terms. (choose exact match or not by --string_exact_match)
+
+		v. obo_id_list_vitamin_D_Teri = the obo concepts we chose to use for our vitamin D example (feel free to change the name of the variable too)
+
+		vi. vitamin_D_ignorance_file_list = a list of the ignorance files
+
+		vii. vitamin_D_not_ignorance_file_list = a list of the not ignorance files
+
+		viii. word_enrichment_list = a list of words to test for enrichment. These are related to our topic of vitamin D right now.
+
+4. Exploration by experimental results (gene list ignorance enrichment): Working in the GENE_LIST_ENRICHMENT/ folder and our example is a vitamin D and spontaneous preterm birth gene list.
+
+	a. run_ignorance_gene_list_enrichment.sh: Searches for the gene list OBOs (vitamin_D_gene_list_all_OBO_ids.txt abnd 3 files that begin with vitamin_D_gene_list_OBO_ids). The same analyses from exploration by topic (all in the EXPLORATION/Vitamin_D/ folders with clustering/ and enrichment/). We also add the gene list focused analyses (EXPLORATION/Vitamin_D/gene_list_focus/). Check all variables near the python scripts in the bash file. Some variables to change: 
+
+		i. all_file_path/scratch_fiji_path = the path to all github repositories.
+
+		ii. full_ignorance_graph = the current full ignorance graph you are using
+
+		iii. preprocess_sentences_dict = the preprocessed sentence dict based on the ignorance graph name
+
+		iv. all_sentences_dict = the sentence dict based on the ignorance graph name
+
+		v. gene_list = the gene list of entrez gene IDs you want to explore (the 43 vitamin D ones we have now)
+
+		vi. vitamin_D_gene_list_info = the file with all the gene list information
+
+		vii. vitamin_D_gene_list = the gene list txt file with one gene per line of the file
+
+		viii. pheknowlator_obo_ontologies = the ontologies to search for in PheKnowLator (the ones that overlap with CRAFT for now)
+
+		ix. vitamin_d_folder = our example topic folder name, feel free to change and create a different folder name.
+
+## Ignorance-base data representation: PheKnowLator and Ignorance-Graph
+
+1. PheKnowLator information: https://github.com/callahantiff/PheKnowLator
+	a. Entities from Ontologies of interest (showing Namespace, then URL):
+		• Genes -- Entrez ( http://www.ncbi.nlm.nih.gov/gene/)
+		• GO (GO_;  http://purl.obolibrary.org/obo/) 
+		• ChEBI (CHEBI_;  http://purl.obolibrary.org/obo/) 
+		• SO (SO_;  http://purl.obolibrary.org/obo/) 
+		• UBERON (UBERON_;  http://purl.obolibrary.org/obo/) 
+		• Human PR (PR_;  http://purl.obolibrary.org/obo/) 
+		• CL (CL_;  http://purl.obolibrary.org/obo/) 
+	 
+	b. Relations (RO;  http://purl.obolibrary.org/obo/) 
+		• RO_0002434 = interacts with
+		• RO_0002436 = molecularly interacts with
+		• RO_0002435 = genetically interacts with
+		• RO_0002205 = has gene product
+		• RO_0001025 = located in
+		• RO_0000056 = participates in
+		• RO_0000085 = has function
+		• Rfs:SubClassOf = <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+		
+		
+	 
+	c. Triples using these ontologies with relation:
+		• ChEBI, RO_0002434, Gene 
+		• ChEBI, RO_0002436, GO (not used!!!)
+		• ChEBI, RO_0002434, PR
+		• Gene, RO_0002435, Gene
+		• Gene, RO_0002205, PR
+		• PR, RO_0001025, UBERON
+		• PR, RO_0002436, ChEBI
+		• PR, RO_0001025, CL
+		• PR, RO_0000056, GO (BP)
+		• PR, RO_0001025, GO (CC)
+		• PR, RO_0000085, GO (MF)
+		• PR, RO_0002436, PR
+		• Gene, rdfs:subClassOf, SO
+
+2. Ignorance-Graph information:
+Node Name | Attributes | Edges
+--- | --- | --- 
+
+
+
+
 
 
 
