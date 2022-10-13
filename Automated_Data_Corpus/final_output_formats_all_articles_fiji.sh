@@ -65,7 +65,7 @@ separate_all_combined_output='13_separate_combined'
 
 
 ##bionlp format
-#python3 $fiji_path$eval_path/final_output_bionlp_format.py -ontologies=$ontologies -algos=$algos -result_folders=$results_folders -results_path=$scratch_path$ignorance_base_corpus$output_results -output_folder=$output_folder -evaluation_files=$all_files -separate_all_combined_output=$separate_all_combined_output -shorthand_ont_dict=$ontology_shorthand_dict -article_path=$scratch_path$ignorance_base_corpus$articles
+python3 $fiji_path$eval_path/final_output_bionlp_format.py -ontologies=$ontologies -algos=$algos -result_folders=$results_folders -results_path=$scratch_path$ignorance_base_corpus$output_results -output_folder=$output_folder -evaluation_files=$all_files -separate_all_combined_output=$separate_all_combined_output -shorthand_ont_dict=$ontology_shorthand_dict -article_path=$scratch_path$ignorance_base_corpus$articles
 
 ##knowtator format - xml
 algos='CRF,BIOBERT'
