@@ -87,7 +87,11 @@ Please put all these repositories in the same place. That will become the fiji_p
 
 3. Biomedical Concept Classication Process: bash scripts to run. We run only BioBERT it was the best model from our previous work for span detection for 10 ontologies from CRAFT. We are working in Automated_Data_Corpus/OBOs/ folder going forward. There are the regular OBOs and the exention OBOs (OBO_EXT). Many scripts run OBO and OBO_EXT separately with two different scripts. These scripts focus on the 1,552 articles. Overall, a lot of these steps take a while to run.
 
-	a. run_CR_eval_pipeline_1_ignorance_all_articles.sh and run_CR_eval_pipeline_1_ignorance_all_articles_EXT.sh: The first step of the concept recognition pipeline that preprocesses all articles BioBERT. Outputs: Tokenized_Files/, PMCID_files_sentences/, PMCID_files_sentences_EXT, Results_span_detection/OBO/BIOBERT/. Variables to change:
+	a. Untar the OBOs folder system. In general the files are too big to upload so we provide the file system needed. Within Automated_Data_Corpus/ run (this will open all the correct folders within OBOs/): 
+
+		tar -xzf OBOs.tar.gz
+
+	b. run_CR_eval_pipeline_1_ignorance_all_articles.sh and run_CR_eval_pipeline_1_ignorance_all_articles_EXT.sh: The first step of the concept recognition pipeline that preprocesses all articles BioBERT. Outputs: Tokenized_Files/, PMCID_files_sentences/, PMCID_files_sentences_EXT, Results_span_detection/OBO/BIOBERT/. Variables to change:
 
 		i. fiji_path = the path to all github repositories
 
@@ -97,7 +101,7 @@ Please put all these repositories in the same place. That will become the fiji_p
 
 		iv. code_path = the code path to the Concept-Recognition-as-Translation/Code/ Folder
 
-	b. fiji_run_biobert_eval_ignorance_all_articles.sh (also partial ones for speed) and fiji_run_biobert_eval_ignorance_all_articles_EXT.sh: Runs BioBERT for all OBOs. Output: Results_span_detection/OBO/BIOBERT/. Variables to change:
+	c. fiji_run_biobert_eval_ignorance_all_articles.sh (also partial ones for speed) and fiji_run_biobert_eval_ignorance_all_articles_EXT.sh: Runs BioBERT for all OBOs. Output: Results_span_detection/OBO/BIOBERT/. Variables to change:
 
 		i. CR_models_base_path = the base path to Concept-Recognition-as-Translation/ folder
 
@@ -105,7 +109,7 @@ Please put all these repositories in the same place. That will become the fiji_p
 
 		iii. fiji_path = the path to all github repositories
 
-	c. run_CR_eval_biobert_pipeline_1.5_ignorance_all_articles.sh and run_CR_eval_biobert_pipeline_1.5_ignorance_all_articles_EXT.sh: Postprocesses the BioBERT output to the correct format for concept normalization. Output: Results_span_detection/OBOs/. Also prepares data for concept normalization. Output: Concept_Norm_Files/OBOs/. Variables to change:
+	d. run_CR_eval_biobert_pipeline_1.5_ignorance_all_articles.sh and run_CR_eval_biobert_pipeline_1.5_ignorance_all_articles_EXT.sh: Postprocesses the BioBERT output to the correct format for concept normalization. Output: Results_span_detection/OBOs/. Also prepares data for concept normalization. Output: Concept_Norm_Files/OBOs/. Variables to change:
 
 		i. fiji_path = the path to all github repositories
 
@@ -113,7 +117,7 @@ Please put all these repositories in the same place. That will become the fiji_p
 
 		iii. CR_models_base_path = the base path to Concept-Recognition-as-Translation/ folder
 
-	d. fiji_run_eval_open_nmt_ignorance_all_articles.sh and fiji_run_eval_open_nmt_ignorance_all_articles_EXT.sh: Runs the concept normalization pipeline with OpenNMT. Output: Results_concept_norm_files/OBOs/. Variables to change:
+	e. fiji_run_eval_open_nmt_ignorance_all_articles.sh and fiji_run_eval_open_nmt_ignorance_all_articles_EXT.sh: Runs the concept normalization pipeline with OpenNMT. Output: Results_concept_norm_files/OBOs/. Variables to change:
 
 		i. CR_models_base_path = the base path to Concept-Recognition-as-Translation/ folder
 
@@ -121,7 +125,7 @@ Please put all these repositories in the same place. That will become the fiji_p
 
 		iii. fiji_path = the path to all github repositories
 
-	e. run_CR_eval_pipeline_2_ignorance_all_articles.sh and run_CR_eval_pipeline_2_ignorance_all_articles_EXT.sh: Combines span detection and concept normalization results to the folder concept_system_output/OBO/. The output format is .bionlp.
+	f. run_CR_eval_pipeline_2_ignorance_all_articles.sh and run_CR_eval_pipeline_2_ignorance_all_articles_EXT.sh: Combines span detection and concept normalization results to the folder concept_system_output/OBO/. The output format is .bionlp.
 
 		i. fiji_path = the path to all github repositories
 
