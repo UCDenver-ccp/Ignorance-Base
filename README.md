@@ -331,14 +331,14 @@ Please put all these repositories in the same place. That will become the fiji_p
 Node Name | Attributes | Edges
 --- | --- | --- 
 ALL_ARTICLES | NODE_TYPE | all articles
-articles (PMCID####) | 'NODE_TYPE','ARTICLE_DATE','TOTAL_SENTENCE_COUNT','TOTAL_WORD_COUNT','IGNORANCE_SENTENCE_COUNT' | ALL_ARTICLES and sentence IDs
-sentences (SENTENCE_ID) | 'NODE_TYPE','SENTENCE_SPAN','SENTENCE_TEXT','SENTENCE_ANNOTATION_ID' | articles, annotated lexical cues if they have, and OBO concepts if they have
-annotated lexical cue (LC_ID) | 'NODE_TYPE','MENTION_ANNOTATION_ID','MENTION_SPAN','MENTION_TEXT' | sentence ids, taxonomy lexical cues, ignorance categories
-taxonomy lexical cues (TLC_ID) | 'NODE_TYPE','ANNOTATION_TEXT' | lexical cues, ignorance categories
+articles (PMCID####) | 'NODE_TYPE', 'ARTICLE_DATE', 'TOTAL_SENTENCE_COUNT', 'TOTAL_WORD_COUNT', 'IGNORANCE_SENTENCE_COUNT' | ALL_ARTICLES and sentence IDs
+sentences (SENTENCE_ID) | 'NODE_TYPE', 'SENTENCE_SPAN', 'SENTENCE_TEXT', 'SENTENCE_ANNOTATION_ID' | articles, annotated lexical cues if they have, and OBO concepts if they have
+annotated lexical cue (LC_ID) | 'NODE_TYPE', 'MENTION_ANNOTATION_ID', 'MENTION_SPAN', 'MENTION_TEXT' | sentence ids, taxonomy lexical cues, ignorance categories
+taxonomy lexical cues (TLC_ID) | 'NODE_TYPE', 'ANNOTATION_TEXT' | lexical cues, ignorance categories
 narrow ignorance category | 'NODE_TYPE' | taxonomy lexical cues and broad ignroance categories
 broad ignorance category | 'NODE_TYPE' | narrow ignorance categories and IGNORANCE_TAXONOMY
 IGNORANCE_TAXONOMY | 'NODE_TYPE' | broad ignorance categories
-OBOs | Edge attributes: 'OBO_MENTION_ID','OBO_MENTION_TEXT','OBO_MENTION_SPAN' | connects OBO concepts in PheKnowLator to sentence ids
+OBOs | Edge attributes: 'OBO_MENTION_ID', 'OBO_MENTION_TEXT', 'OBO_MENTION_SPAN' | connects OBO concepts in PheKnowLator to sentence ids
 
 
 
