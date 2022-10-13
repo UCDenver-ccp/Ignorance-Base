@@ -23,7 +23,7 @@ Please put all these repositories in the same place. That will become the fiji_p
 
 ## Automated Data Corpus: The first step to creating the ignorance-base is to automatically run the classifiers over all of your articles in a text format.
 
-0. We are working in the Automated_Data_Corpus/ folder.
+0. We are working in the Automated_Data_Corpus/ folder. In general, everything is created automatically aside from the Aritcle/ folder, assuming that all of the github repositories mentioned above are dowloaded.  
 
 1. Place all articles of interest in the Articles/ folder. There are already the 1,552 not gold standard ones there. All articles must be in txt format and have the suffix .nxml.gz.txt
 
@@ -134,6 +134,76 @@ Please put all these repositories in the same place. That will become the fiji_p
 
 
 
-## All Data Corpus
+## All Data Corpus: Combining the gold standard data and the automated data corpus together. We also run summary statistics.
+
+0. We are working in the All_Data_Corpus/ folder. 
+
+1. Ignorance_move_all_data_to_combine.sh: Add the gold standard information and the automated information to the full data corpus (Articles, PMCID_sentence_files, and the bionlp files). Variables to change:
+	
+	a. fiji_path = the path to all github repositories.
+
+2. OBOs_move_all_data_to_combine.sh: Add the gold standard and automated data corpus OBO and OBO_EXT information to the full data corpus (OBOs/concept_system_output/). Variables to change:
+
+	a. fiji_path = the path to all github repositories.
+
+3. run_combine_all_data_OBOs.sh: combine all the OBO data (OBOs/z_BIONLP_BEST_MODELS_OBOs/ and OBOs/z_BIONLP_BEST_MODELS_OBOs_EXT). Variables to change:
+	
+	a. all_file_path = the path to all github repositories.
+
+4. run_fix_GS_bionlp_concept_numbers.sh: fixes the numbering for the concept annotations for the gold standard documents in Word_Analysis_Output_Results/z_BIONLP_BEST_MODELS/GS_
+
+	a. all_file_path = the path to all github repositories.
+
+5. run_final_output_knowtator_projects_all_data_corpus_fiji.sh: creates a knowtator project for full data corpus called ALL_DATA_RESULTS (Word_Analysis_Output_Results/z_KNOWTATOR_PROJECTS/ALL_DATA_RESULTS/). Variables to change:
+	
+	a. fiji_path = the path to all github repositories.
+
+6. run_all_data_corpus_articles_stats.sh: creates summary files for the articles (all_article_summary.txt, eval_preprocess_article_summary.txt, Word_Analysis_Output_Results/z_KNOWTATOR_PROJECTS/ALL_DATA_RESULTS/gold_standard_summary[date].txt, lexical_cues_not_in_taxonomy.txt, sentence_type_counts.txt) including gathering the BioC metadata information (Word_Analysis_Output_Results/z_KNOWTATOR_PROJECTS/ALL_DATA_RESULTS/section_info_BioC/). Also creates PMCID sentence files and tokenized files for the knowtator project (Word_Analysis_Output_Results/z_KNOWTATOR_PROJECTS/ALL_DATA_RESULTS/). 
+	
+	a. fiji_path = the path to all github repositories.
+
+7. run_OBO_stats_all_data_corpus_fiji.sh: creates summary files for the OBOs (OBOs/). Variables to change:
+	
+	a. fiji_path = the path to all github repositories.
+
+8. run_unique_OBO_ids_list_all_corpus_fiji.sh: creates summary files per OBO for unique IDs in each (OBOs/concept_system_output/). Variables to change:
+
+	a. fiji_path = the path to all github repositories.
+
+9. run_OBO_unique_ids_summary.sh: Creates the summary file for all OBOs for unique IDs (OBOs/0_OBOS_UNIQUE_ID_SUMMARY_INFO.txt). Variables to change:
+	
+	a. all_file_path = the path to all github repositories.
+
+10. run_ignorance_category_summaries_all_data_corpus_fiji.sh: creates ignorance category summaries (Word_Analysis_Output_Results/Ignorance_Categories_Summaries/). Variables to change:
+
+	a. fiji_path = the path to all github repositories.
+
+
+
+
 
 ## Ignorance-Network
+
+1. run_combine_all_data.sh - need to also do it for the OBOs
+ 
+2. run_combine_all_data_OBO.sh - moved to the all data corpus stuff (see comment above)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
